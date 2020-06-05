@@ -1,0 +1,8 @@
+@charset "UTF-8";
+
+$mainColor: #7dc8d9;
+
+// js側で使用できるように
+:export {
+  mainColor: $mainColor;
+}
