@@ -5,7 +5,12 @@
         <template v-slot:extension>
           <v-tabs dark fixed-tabs :backgroundColor="mainColor" :icons-and-text="true">
             <v-tabs-slider :color="sliderColor"/>
-            <v-tab v-for="tabItem in tabItems" :key="tabItem.id" class="font-weight-bold" :style="{ fontSize: '10px' }" @click="changeTab(tabItem.name)">
+            <v-tab v-for="tabItem in tabItems"
+              :key="tabItem.id"
+              class="font-weight-bold"
+              :style="{ fontSize: '10px' }"
+              @click="changeTab(tabItem.name)"
+            >
               {{ tabItem.text }}
               <v-icon>{{ tabItem.icon }}</v-icon>
             </v-tab>
