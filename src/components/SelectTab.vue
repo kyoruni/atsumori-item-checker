@@ -1,7 +1,7 @@
 <template>
   <div class="select-tab">
     <v-tabs dark fixed-tabs :backgroundColor="tabColor" :icons-and-text="true">
-      <v-tab v-for="tabItem in tabItems" :key="tabItem.id" class="font-weight-bold">
+      <v-tab v-for="tabItem in tabItems" :key="tabItem.id" class="font-weight-bold" @click="hoge(tabItem.id)">
         {{ tabItem.name }}
         <v-icon>{{ tabItem.icon }}</v-icon>
       </v-tab>
@@ -24,6 +24,11 @@ export default {
         { id: 1, name: 'ムシ', icon: 'fas fa-bug' },
         { id: 2, name: 'サカナ', icon: 'fas fa-fish' },
       ]
+    }
+  },
+  methods: {
+    hoge (id) {
+      alert(id)
     }
   }
 }
