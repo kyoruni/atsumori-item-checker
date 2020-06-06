@@ -24,7 +24,7 @@ export default {
   },
   data () {
     return {
-      currentTab: 'bug',
+      currentTab: 'furniture',
     }
   },
   methods: {

@@ -3,7 +3,7 @@
     <v-tabs dark fixed-tabs :backgroundColor="tabColor" :icons-and-text="true">
       <v-tab v-for="tabItem in tabItems" :key="tabItem.id" class="font-weight-bold" @click="changeTab(tabItem.name)">
         {{ tabItem.text }}
-        <v-icon>fas {{ tabItem.icon }}</v-icon>
+        <v-icon>{{ tabItem.icon }}</v-icon>
       </v-tab>
     </v-tabs>
   </div>
@@ -21,10 +21,26 @@ export default {
   data () {
     return {
       tabItems: [
-        { id: 1, name: 'bug', text: 'ムシ', icon: 'fa-bug' },
-        { id: 2, name: 'fish', text: 'サカナ', icon: 'fa-fish' },
-        { id: 3, name: 'bone', text: 'かせき', icon: 'fa-bone' },
-        { id: 4, name: 'music', text: 'ミュージック', icon: 'fa-music' },
+        { id: 1, name: 'furniture', text: 'かぐ', icon: 'fas fa-couch' },
+        { id: 2, name: 'smallFurniture', text: 'こもの', icon: 'fas fa-coffee' },
+        { id: 3, name: 'wallHangings', text: 'かべかけ', icon: 'fas fa-clipboard' },
+        { id: 4, name: 'wallpaper', text: 'かべがみ', icon: 'fas fa-leaf' },
+        { id: 5, name: 'carpet', text: 'ゆかいた', icon: 'fas fa-leaf' },
+        { id: 6, name: 'rug', text: 'ラグ', icon: 'fas fa-leaf' },
+        { id: 7, name: 'tops', text: 'トップス', icon: 'fas fa-tshirt' },
+        { id: 8, name: 'bottoms', text: 'ボトムス', icon: 'fas fa-tshirt' },
+        { id: 9, name: 'onepiece', text: 'ワンピース', icon: 'fas fa-tshirt' },
+        { id: 10, name: 'hat', text: 'かぶりもの', icon: 'fab fa-redhat' },
+        { id: 11, name: 'accessory', text: 'アクセサリー', icon: 'fas fa-glasses' },
+        { id: 12, name: 'socks', text: 'くつした', icon: 'fas fa-socks' },
+        { id: 13, name: 'shoues', text: 'くつ', icon: 'fas fa-shoe-prints' },
+        { id: 14, name: 'bag', text: 'バッグ', icon: 'fas fa-shopping-bag' },
+        { id: 15, name: 'umbrella', text: 'かさ', icon: 'fas fa-umbrella' },
+        { id: 16, name: 'bug', text: 'ムシ', icon: 'fas fa-bug' },
+        { id: 17, name: 'fish', text: 'サカナ', icon: 'fas fa-fish' },
+        { id: 18, name: 'bone', text: 'かせき', icon: 'fas fa-bone' },
+        { id: 19, name: 'art', text: 'めいが', icon: 'fas fa-paint-brush' },
+        { id: 20, name: 'music', text: 'ミュージック', icon: 'fas fa-music' },
       ]
     }
   },
