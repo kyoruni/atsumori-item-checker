@@ -4,7 +4,6 @@
     <v-container>
       <v-row>
         <v-col cols="12" md="6" offset-md="3">
-          hoge
           <items-list :category="currentTab"/>
         </v-col>
       </v-row>
