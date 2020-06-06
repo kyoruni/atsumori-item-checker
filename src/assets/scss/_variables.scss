@@ -1,8 +1,10 @@
 @charset "UTF-8";
 
 $mainColor: #7dc8d9;
+$tabColor: #a4e2cf;
 
 // js側で使用できるように
 :export {
   mainColor: $mainColor;
+  tabColor: $tabColor;
 }
