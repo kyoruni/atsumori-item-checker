@@ -29,7 +29,7 @@ export default {
         { id: 6, name: 'rug', text: 'ラグ', icon: 'fas fa-leaf' },
         { id: 7, name: 'tops', text: 'トップス', icon: 'fas fa-tshirt' },
         { id: 8, name: 'bottoms', text: 'ボトムス', icon: 'fas fa-tshirt' },
-        { id: 9, name: 'onepiece', text: 'ワンピース', icon: 'fas fa-tshirt' },
+        { id: 9, name: 'dress', text: 'ワンピース', icon: 'fas fa-tshirt' },
         { id: 10, name: 'hat', text: 'かぶりもの', icon: 'fab fa-redhat' },
         { id: 11, name: 'accessory', text: 'アクセサリー', icon: 'fas fa-glasses' },
         { id: 12, name: 'socks', text: 'くつした', icon: 'fas fa-socks' },
