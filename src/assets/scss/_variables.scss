@@ -1,12 +1,10 @@
 @charset "UTF-8";
 
-$mainColor: #7dc8d9;
-$tabColor: #a4e2cf;
+$mainColor: #a4e2cf;
 $sliderColor: yellow;
 
 // js側で使用できるように
 :export {
   mainColor: $mainColor;
-  tabColor: $tabColor;
   sliderColor: $sliderColor;
 }
