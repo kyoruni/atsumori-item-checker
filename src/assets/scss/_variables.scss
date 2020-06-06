@@ -2,9 +2,11 @@
 
 $mainColor: #a4e2cf;
 $sliderColor: yellow;
+$checkBoxColor: #7dc8d9;
 
 // js側で使用できるように
 :export {
   mainColor: $mainColor;
   sliderColor: $sliderColor;
+  checkBoxColor: $checkBoxColor;
 }

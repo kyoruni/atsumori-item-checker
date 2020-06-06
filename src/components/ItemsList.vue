@@ -7,7 +7,7 @@
           <template>
             <v-list-item-action>
               <v-checkbox
-                color="primary"
+                :color="checkBoxColor"
                 v-model="item.checked"
               />
             </v-list-item-action>
@@ -22,6 +22,7 @@
 </template>
 
 <script>
+import variables from '@/assets/scss/_variables.scss'
 import musicList from '@/assets/list/music.json'
 
 export default {
@@ -31,6 +32,11 @@ export default {
   data () {
     return {
       items: []
+    }
+  },
+  computed: {
+    checkBoxColor () {
+      return variables.checkBoxColor
     }
   },
   methods: {
