@@ -23,7 +23,8 @@ export default {
       tabItems: [
         { id: 1, name: 'bug', text: 'ムシ', icon: 'fa-bug' },
         { id: 2, name: 'fish', text: 'サカナ', icon: 'fa-fish' },
-        { id: 3, name: 'music', text: 'ミュージック', icon: 'fa-music' },
+        { id: 3, name: 'bone', text: 'かせき', icon: 'fa-bone' },
+        { id: 4, name: 'music', text: 'ミュージック', icon: 'fa-music' },
       ]
     }
   },
