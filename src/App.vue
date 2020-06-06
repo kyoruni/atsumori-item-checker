@@ -4,7 +4,7 @@
     <v-container>
       <v-row>
         <v-col mb="8" mb-offset="2">
-          <select-tab/>
+          <select-tab @changeTab="changeTab($event)"/>
         </v-col>
       </v-row>
     </v-container>
@@ -20,6 +20,11 @@ export default {
   components: {
     HeaderNav,
     SelectTab,
+  },
+  methods: {
+    changeTab (event) {
+      console.log(event)
+    }
   }
 }
 </script>
