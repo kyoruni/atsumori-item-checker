@@ -4,7 +4,7 @@
     <v-container>
       <v-row>
         <v-col mb="8" mb-offset="2">
-          {{ currentTab }}
+          <items-list :category="currentTab"/>
         </v-col>
       </v-row>
     </v-container>
@@ -13,11 +13,13 @@
 
 <script>
 import HeaderNav from '@/components/HeaderNav'
+import ItemsList from '@/components/ItemsList'
 
 export default {
   name: 'App',
   components: {
     HeaderNav,
+    ItemsList,
   },
   data () {
     return {
