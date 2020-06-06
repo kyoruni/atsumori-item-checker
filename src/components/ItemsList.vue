@@ -1,7 +1,7 @@
 <template>
   <div class="items-list">
     {{ category }}
-    <v-list>
+    <v-list rounded>
       <v-list-item-group>
         <v-list-item v-for="item in items" :key="item.id">
           <template>
@@ -11,8 +11,10 @@
                 v-model="item.checked"
               />
             </v-list-item-action>
-            <v-list-item-content>
-              <v-list-item-title>{{ item.name }}</v-list-item-title>
+            <v-list-item-content @click="changeCheckBox(item)">
+              <v-list-item-title>
+                {{ item.name }}
+              </v-list-item-title>
             </v-list-item-content>
           </template>
         </v-list-item>
@@ -50,6 +52,10 @@ export default {
           break
       }
     },
+    changeCheckBox (target) {
+      const item = this.items.find(item => item.id === target.id)
+      item.checked = !item.checked
+    }
   },
   beforeMount () {
     this.initComponent()
