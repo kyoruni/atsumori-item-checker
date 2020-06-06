@@ -1,7 +1,7 @@
 <template>
   <div class="select-tab">
     <v-tabs dark fixed-tabs :backgroundColor="tabColor" :icons-and-text="true">
-      <v-tab v-for="tabItem in tabItems" :key="tabItem.id" class="font-weight-bold" @click="changeTab(tabItem.name)">
+      <v-tab v-for="tabItem in tabItems" :key="tabItem.id" class="font-weight-bold" :style="{ fontSize: '10px' }" @click="changeTab(tabItem.name)">
         {{ tabItem.text }}
         <v-icon>{{ tabItem.icon }}</v-icon>
       </v-tab>
@@ -16,7 +16,7 @@ export default {
   computed: {
     tabColor () {
       return variables.tabColor
-    }
+    },
   },
   data () {
     return {
@@ -31,7 +31,7 @@ export default {
         { id: 8, name: 'bottoms', text: 'ボトムス', icon: 'fas fa-tshirt' },
         { id: 9, name: 'dress', text: 'ワンピース', icon: 'fas fa-tshirt' },
         { id: 10, name: 'hat', text: 'かぶりもの', icon: 'fab fa-redhat' },
-        { id: 11, name: 'accessory', text: 'アクセサリー', icon: 'fas fa-glasses' },
+        { id: 11, name: 'accessory', text: 'アクセサリ', icon: 'fas fa-glasses' },
         { id: 12, name: 'socks', text: 'くつした', icon: 'fas fa-socks' },
         { id: 13, name: 'shoues', text: 'くつ', icon: 'fas fa-shoe-prints' },
         { id: 14, name: 'bag', text: 'バッグ', icon: 'fas fa-shopping-bag' },
@@ -40,7 +40,7 @@ export default {
         { id: 17, name: 'fish', text: 'サカナ', icon: 'fas fa-fish' },
         { id: 18, name: 'bone', text: 'かせき', icon: 'fas fa-bone' },
         { id: 19, name: 'art', text: 'めいが', icon: 'fas fa-paint-brush' },
-        { id: 20, name: 'music', text: 'ミュージック', icon: 'fas fa-music' },
+        { id: 20, name: 'music', text: '曲', icon: 'fas fa-music' },
       ]
     }
   },
