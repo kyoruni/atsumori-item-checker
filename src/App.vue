@@ -5,6 +5,7 @@
       <v-row>
         <v-col mb="8" mb-offset="2">
           <select-tab @changeTab="changeTab($event)"/>
+          {{ currentTab }}
         </v-col>
       </v-row>
     </v-container>
@@ -21,9 +22,14 @@ export default {
     HeaderNav,
     SelectTab,
   },
+  data () {
+    return {
+      currentTab: 'bug',
+    }
+  },
   methods: {
     changeTab (event) {
-      console.log(event)
+      this.currentTab = event
     }
   }
 }
