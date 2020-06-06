@@ -4,9 +4,7 @@
     <v-container>
       <v-row>
         <v-col mb="8" mb-offset="2">
-          <v-card class="pa-2" outlined tile>
-            hoge
-          </v-card>
+          <select-tab/>
         </v-col>
       </v-row>
     </v-container>
@@ -15,11 +13,13 @@
 
 <script>
 import HeaderNav from '@/components/HeaderNav'
+import SelectTab from '@/components/SelectTab'
 
 export default {
   name: 'App',
   components: {
-    HeaderNav
+    HeaderNav,
+    SelectTab,
   }
 }
 </script>
