@@ -1,7 +1,7 @@
 [
-  { "id": 1, "name": "けけソング" },
-  { "id": 2, "name": "けけさんびか" },
-  { "id": 3, "name": "ゆけ！けけライダー" },
-  { "id": 4, "name": "だいすき" },
-  { "id": 5, "name": "おととい" }
+  { "id": 1, "name": "けけソング", "checked": false },
+  { "id": 2, "name": "けけさんびか", "checked": false },
+  { "id": 3, "name": "ゆけ！けけライダー", "checked": true },
+  { "id": 4, "name": "だいすき", "checked": false },
+  { "id": 5, "name": "おととい", "checked": false }
 ]
