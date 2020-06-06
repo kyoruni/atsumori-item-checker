@@ -1,6 +1,7 @@
 <template>
   <div class="select-tab">
     <v-tabs dark fixed-tabs :backgroundColor="tabColor" :icons-and-text="true">
+      <v-tabs-slider :color="sliderColor"/>
       <v-tab v-for="tabItem in tabItems" :key="tabItem.id" class="font-weight-bold" :style="{ fontSize: '10px' }" @click="changeTab(tabItem.name)">
         {{ tabItem.text }}
         <v-icon>{{ tabItem.icon }}</v-icon>
@@ -17,6 +18,9 @@ export default {
     tabColor () {
       return variables.tabColor
     },
+    sliderColor () {
+      return variables.sliderColor
+    }
   },
   data () {
     return {
