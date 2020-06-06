@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <v-toolbar short light flat>
-      <v-toolbar-title>あつ森アイテムチェッカー</v-toolbar-title>
+      <v-toolbar-title>あつ森アイテムチェッカー（開発中）</v-toolbar-title>
     </v-toolbar>
   </div>
 </template>
