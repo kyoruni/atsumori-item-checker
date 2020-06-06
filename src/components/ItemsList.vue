@@ -1,8 +1,8 @@
 <template>
   <div class="items-list">
     {{ category }}
-    <v-list rounded>
-      <v-list-item-group>
+    <v-list shaped>
+      <v-list-item-group color="primary">
         <v-list-item v-for="item in items" :key="item.id">
           <template>
             <v-list-item-action>
