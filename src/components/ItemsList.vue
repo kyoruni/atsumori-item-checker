@@ -68,8 +68,8 @@ export default {
   ],
   data () {
     return {
-      items: [],
-      displayItems: [],
+      items: [], // カテゴリーのアイテムを全部入れておく用
+      displayItems: [], // 画面に表示するアイテム用
       searchText: null,
     }
   },
