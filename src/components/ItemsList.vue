@@ -95,7 +95,8 @@ export default {
       this.$set(item, 'checked', item.checked)
 
       if (item.checked) {
-        console.log('チェックしたよ')
+        // チェックした時の処理：チェック済アイテムに追加
+        this.checkedItems.push(item.id)
       } else {
         // チェック外した時の処理
 
@@ -116,6 +117,8 @@ export default {
           })
         }
       }
+      // ID順に並び替え
+      this.checkedItems.sort()
     },
     // チェック済アイテムの初期化
     initCheckedItems () {
