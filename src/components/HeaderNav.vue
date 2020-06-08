@@ -3,7 +3,7 @@
     <v-toolbar short dark flat extension-height="72" :color="mainColor">
       <v-toolbar-title>あつ森アイテムチェッカー（開発中）</v-toolbar-title>
         <template v-slot:extension>
-          <v-tabs dark fixed-tabs :backgroundColor="mainColor" :icons-and-text="true">
+          <v-tabs dark fixed-tabs show-arrows :backgroundColor="mainColor" :icons-and-text="true">
             <v-tabs-slider :color="sliderColor"/>
             <v-tab v-for="tabItem in tabItems"
               :key="tabItem.id"
