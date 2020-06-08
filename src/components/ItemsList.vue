@@ -1,24 +1,33 @@
 <template>
   <div class="items-list">
     {{ category }}
+    <v-col cols="12" md="6" offset-md="3">
+      <v-text-field
+        single-line
+        outlined
+        label="検索（前方一致）"
+        prepend-inner-icon="fas fa-search"
+        v-model="searchText"
+      />
+    </v-col>
     <v-list>
-      <v-list-item-group v-for="item in items" :key="item.id">
+      <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
         <!-- バリエーションあり：リスト開閉用のボタンを表示 -->
-        <v-list-group v-if="item.variation" :ripple="false">
+        <v-list-group v-if="displayItem.variation" :ripple="false">
           <!-- 親のリスト -->
           <template v-slot:activator>
             <!-- 親のチェックボックス -->
             <v-list-item-action>
               <v-checkbox
-                v-model="item.checked"
+                v-model="displayItem.checked"
                 :color="checkBoxColor"
                 :ripple="false"
               />
             </v-list-item-action>
-            <v-list-item-title>{{ item.name }}</v-list-item-title>
+            <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
           </template>
           <!-- 子のリスト -->
-          <v-list-item no-action v-for="color in item.colors" :key="color.id" :ripple="false">
+          <v-list-item no-action v-for="color in displayItem.colors" :key="color.id" :ripple="false">
             <!-- 子のチェックボックス -->
             <v-list-item-action>
               <v-checkbox
@@ -36,12 +45,12 @@
             <!-- チェックボックス -->
             <v-list-item-action>
               <v-checkbox
-                v-model="item.checked"
+                v-model="displayItem.checked"
                 :color="checkBoxColor"
                 :ripple="false"
               />
             </v-list-item-action>
-            <v-list-item-title>{{ item.name }}</v-list-item-title>
+            <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
           </template>
         </v-list-item>
       </v-list-item-group>
@@ -59,7 +68,9 @@ export default {
   ],
   data () {
     return {
-      items: []
+      items: [],
+      displayItems: [],
+      searchText: null,
     }
   },
   computed: {
@@ -72,15 +83,22 @@ export default {
       switch (this.category) {
         case 'music':
           this.items = musicList
+          this.displayItems = musicList
           break
         default:
           this.items = []
+          this.displayItems = musicList
           break
       }
     },
     changeCheckBox (target) {
       const item = this.items.find(item => item.id === target.id)
       item.checked = !item.checked
+    },
+    itemSearch (inputText) {
+      // 前方一致で検索
+      const reg = new RegExp('^' + inputText)
+      this.displayItems = this.items.filter(item => item.name.match(reg) || !inputText)
     }
   },
   beforeMount () {
@@ -89,6 +107,9 @@ export default {
   watch: {
     category () {
       this.initComponent()
+    },
+    searchText (value) {
+      this.itemSearch(value)
     }
   }
 }
