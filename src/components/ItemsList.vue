@@ -9,7 +9,11 @@
           <template v-slot:activator>
             <!-- 親のチェックボックス -->
             <v-list-item-action>
-              <v-checkbox :color="checkBoxColor" v-model="item.checked" :ripple="false"/>
+              <v-checkbox
+                v-model="item.checked"
+                :color="checkBoxColor"
+                :ripple="false"
+              />
             </v-list-item-action>
             <v-list-item-title>{{ item.name }}</v-list-item-title>
           </template>
@@ -17,7 +21,11 @@
           <v-list-item no-action v-for="color in item.colors" :key="color.id" :ripple="false">
             <!-- 子のチェックボックス -->
             <v-list-item-action>
-              <v-checkbox :color="checkBoxColor" v-model="color.checked" :ripple="false"/>
+              <v-checkbox
+                v-model="color.checked"
+                :color="checkBoxColor"
+                :ripple="false"
+              />
             </v-list-item-action>
             <v-list-item-title>{{ color.name }}</v-list-item-title>
           </v-list-item>
@@ -27,7 +35,11 @@
           <template>
             <!-- チェックボックス -->
             <v-list-item-action>
-              <v-checkbox :color="checkBoxColor" v-model="item.checked" :ripple="false"/>
+              <v-checkbox
+                v-model="item.checked"
+                :color="checkBoxColor"
+                :ripple="false"
+              />
             </v-list-item-action>
             <v-list-item-title>{{ item.name }}</v-list-item-title>
           </template>
