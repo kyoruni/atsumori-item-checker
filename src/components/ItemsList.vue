@@ -27,6 +27,7 @@
                 v-model="color.checked"
                 :color="checkBoxColor"
                 :ripple="false"
+                @change="changeChildCheckBox(color)"
               />
             </v-list-item-action>
             <v-list-item-title>{{ color.name }}</v-list-item-title>
@@ -116,6 +117,36 @@ export default {
             }
           })
         }
+      }
+      // ID順に並び替え
+      this.checkedItems.sort()
+    },
+    changeChildCheckBox (target) {
+      // 親のIDを取得：子供IDの1桁目
+      const parentId = Number(target.id.slice(0, 1))
+
+      // 対象のアイテムを取得
+      const parentItem = this.items.find(item => item.id === parentId)
+      const color = parentItem.colors.find(color => color.id === target.id)
+
+      // チェックボックスの変更
+      this.$set(color, 'checked', color.checked)
+
+      if (color.checked) {
+        // チェックした時の処理
+
+        // チェック済アイテムに追加
+        this.checkedItems.push(color.id)
+
+        // 親にチェックがなかったら、チェックを付ける
+        if (!parentItem.checked) {
+          this.$set(parentItem, 'checked', true)
+          this.checkedItems.push(parentItem.id)
+        }
+      } else {
+        // チェック外した時の処理：チェック済アイテムから削除
+        const colorIndex = this.checkedItems.indexOf(color.id)
+        this.checkedItems.splice(colorIndex, 1)
       }
       // ID順に並び替え
       this.checkedItems.sort()
