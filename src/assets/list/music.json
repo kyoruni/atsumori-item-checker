@@ -2,8 +2,8 @@
   {
     "id": 1,
     "name": "けけソング",
-    "checked": true,
-    "variation": true,
+    "checked": false,
+    "variation": false,
     "colors": [
       { "id": "1-1", "name": "赤", "checked": false },
       { "id": "1-2", "name": "青", "checked": false }
@@ -18,14 +18,14 @@
   {
     "id": 3,
     "name": "ゆけ！けけライダー",
-    "checked": true,
+    "checked": false,
     "variation": false
   },
   {
     "id": 4,
     "name": "だいすき",
     "checked": false,
-    "variation": true,
+    "variation": false,
     "colors": [
       { "id": "4-1", "name": "赤", "checked": false },
       { "id": "4-2", "name": "青", "checked": false }
