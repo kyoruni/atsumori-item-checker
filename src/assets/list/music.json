@@ -25,7 +25,11 @@
     "id": 6,
     "name": "だいすき",
     "checked": false,
-    "variation": true
+    "variation": true,
+    "colors": [
+      { "id": 2, "name": "赤", "checked": false },
+      { "id": 3, "name": "青", "checked": true }
+    ]
   },
   {
     "id": 7,
