@@ -14,6 +14,7 @@
                 v-model="displayItem.checked"
                 :color="checkBoxColor"
                 :ripple="false"
+                @change="changeCheckBox(displayItem)"
               />
             </v-list-item-action>
             <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
@@ -40,6 +41,7 @@
                 v-model="displayItem.checked"
                 :color="checkBoxColor"
                 :ripple="false"
+                @change="changeCheckBox(displayItem)"
               />
             </v-list-item-action>
             <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
@@ -66,6 +68,7 @@ export default {
     return {
       items: [], // カテゴリーのアイテムを全部入れておく用
       displayItems: [], // 画面に表示するアイテム用
+      checkedItems: [],
     }
   },
   computed: {
@@ -82,18 +85,66 @@ export default {
           break
         default:
           this.items = []
-          this.displayItems = musicList
+          this.displayItems = []
           break
       }
+      this.initCheckedItems()
     },
     changeCheckBox (target) {
       const item = this.items.find(item => item.id === target.id)
-      item.checked = !item.checked
+      this.$set(item, 'checked', item.checked)
+
+      if (item.checked) {
+        console.log('チェックしたよ')
+      } else {
+        // チェック外した時の処理
+
+        // 親のチェックを外す
+        const itemIndex = this.checkedItems.indexOf(item.id)
+        this.checkedItems.splice(itemIndex, 1)
+
+        // 子供のチェックを全て外す
+        if (item.variation) {
+          item.colors.forEach(color => {
+            if (color.checked) {
+              this.$set(color, 'checked', false)
+
+              // チェック済アイテムから削除
+              const colorIndex = this.checkedItems.indexOf(color.id)
+              this.checkedItems.splice(colorIndex, 1)
+            }
+          })
+        }
+      }
+    },
+    // チェック済アイテムの初期化
+    initCheckedItems () {
+      this.checkedItems = []
+      if (this.items.length > 0) {
+        const items = this.items.filter(item => item.checked === true)
+        // チェックのあるアイテムでループ
+        items.forEach(item => {
+          this.checkedItems.push(item.id)
+          if (item.variation) {
+            // 子供アイテムでループ
+            item.colors.forEach(color => {
+              if (color.checked) this.checkedItems.push(color.id)
+            })
+          }
+        })
+      }
     },
     searchItem (inputText) {
       // 前方一致で検索
       const reg = new RegExp('^' + inputText)
       this.displayItems = this.items.filter(item => item.name.match(reg) || !inputText)
+    },
+    saveItems () {
+      // let checkItems = []
+      const checkedItems = this.items.filter(item => item.checked === true)
+
+      console.log(this.items)
+      console.log(checkedItems)
     }
   },
   beforeMount () {
