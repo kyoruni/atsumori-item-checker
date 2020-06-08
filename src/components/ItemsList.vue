@@ -1,15 +1,7 @@
 <template>
   <div class="items-list">
     {{ category }}
-    <v-col cols="12" md="6" offset-md="3">
-      <v-text-field
-        single-line
-        outlined
-        label="検索（前方一致）"
-        prepend-inner-icon="fas fa-search"
-        v-model="searchText"
-      />
-    </v-col>
+    <item-search @searchItem="searchItem($event)"/>
     <v-list>
       <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
         <!-- バリエーションあり：リスト開閉用のボタンを表示 -->
@@ -61,22 +53,25 @@
 <script>
 import variables from '@/assets/scss/_variables.scss'
 import musicList from '@/assets/list/music.json'
+import ItemSearch from '@/components/ItemSearch'
 
 export default {
   props: [
     'category'
   ],
+  components: {
+    ItemSearch,
+  },
   data () {
     return {
       items: [], // カテゴリーのアイテムを全部入れておく用
       displayItems: [], // 画面に表示するアイテム用
-      searchText: null,
     }
   },
   computed: {
     checkBoxColor () {
       return variables.checkBoxColor
-    }
+    },
   },
   methods: {
     initComponent () {
@@ -95,7 +90,7 @@ export default {
       const item = this.items.find(item => item.id === target.id)
       item.checked = !item.checked
     },
-    itemSearch (inputText) {
+    searchItem (inputText) {
       // 前方一致で検索
       const reg = new RegExp('^' + inputText)
       this.displayItems = this.items.filter(item => item.name.match(reg) || !inputText)
@@ -108,9 +103,6 @@ export default {
     category () {
       this.initComponent()
     },
-    searchText (value) {
-      this.itemSearch(value)
-    }
   }
 }
 </script>
