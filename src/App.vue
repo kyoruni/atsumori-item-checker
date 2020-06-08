@@ -23,7 +23,7 @@ export default {
   },
   data () {
     return {
-      currentTab: 'furniture',
+      currentTab: 'music',
     }
   },
   methods: {
