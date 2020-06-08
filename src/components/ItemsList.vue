@@ -76,6 +76,9 @@ export default {
     checkBoxColor () {
       return variables.checkBoxColor
     },
+    storageKey () {
+      return this.category
+    },
   },
   methods: {
     initComponent () {
@@ -120,6 +123,9 @@ export default {
       }
       // ID順に並び替え
       this.checkedItems.sort()
+
+      // 保存
+      this.saveItems()
     },
     changeChildCheckBox (target) {
       // 親のIDを取得：子供IDの1桁目
@@ -150,23 +156,32 @@ export default {
       }
       // ID順に並び替え
       this.checkedItems.sort()
+
+      // 保存
+      this.saveItems()
     },
     // チェック済アイテムの初期化
     initCheckedItems () {
       this.checkedItems = []
-      if (this.items.length > 0) {
-        const items = this.items.filter(item => item.checked === true)
-        // チェックのあるアイテムでループ
-        items.forEach(item => {
-          this.checkedItems.push(item.id)
-          if (item.variation) {
-            // 子供アイテムでループ
-            item.colors.forEach(color => {
-              if (color.checked) this.checkedItems.push(color.id)
-            })
-          }
-        })
-      }
+      // ローカルストレージから取得
+      const localStorageItems = localStorage.getItem(this.storageKey)
+      // カンマ区切りでチェック済アイテムに追加
+      if (localStorageItems) this.checkedItems = localStorageItems.split(',')
+
+      // チェック状況を画面に反映させる
+      this.checkedItems.forEach(checkedItem => {
+        let item
+        if (checkedItem.length === 1) {
+          // 親アイテム
+          item = this.items.find(item => item.id === Number(checkedItem))
+          this.$set(item, 'checked', true)
+        } else if (checkedItem.length > 1) {
+          // 子供アイテム
+          const parentId = Number(checkedItem.slice(0, 1)) // 親のIDを取得：子供IDの1桁目
+          item = this.items.find(item => item.id === parentId).colors.find(color => color.id === checkedItem)
+          this.$set(item, 'checked', true)
+        }
+      })
     },
     searchItem (inputText) {
       // 前方一致で検索
@@ -174,11 +189,7 @@ export default {
       this.displayItems = this.items.filter(item => item.name.match(reg) || !inputText)
     },
     saveItems () {
-      // let checkItems = []
-      const checkedItems = this.items.filter(item => item.checked === true)
-
-      console.log(this.items)
-      console.log(checkedItems)
+      localStorage.setItem(this.storageKey, this.checkedItems)
     }
   },
   beforeMount () {
