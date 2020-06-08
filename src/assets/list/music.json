@@ -3,7 +3,7 @@
     "id": 1,
     "name": "けけソング",
     "checked": false,
-    "variation": false,
+    "variation": true,
     "colors": [
       { "id": "1-1", "name": "赤", "checked": false },
       { "id": "1-2", "name": "青", "checked": false }
@@ -25,7 +25,7 @@
     "id": 4,
     "name": "だいすき",
     "checked": false,
-    "variation": false,
+    "variation": true,
     "colors": [
       { "id": "4-1", "name": "赤", "checked": false },
       { "id": "4-2", "name": "青", "checked": false }
