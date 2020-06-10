@@ -14,7 +14,7 @@
                 v-model="displayItem.checked"
                 :color="checkBoxColor"
                 :ripple="false"
-                @change="changeCheckBox(displayItem)"
+                @change="changeParentCheckBox(displayItem)"
               />
             </v-list-item-action>
             <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
@@ -42,7 +42,7 @@
                 v-model="displayItem.checked"
                 :color="checkBoxColor"
                 :ripple="false"
-                @change="changeCheckBox(displayItem)"
+                @change="changeParentCheckBox(displayItem)"
               />
             </v-list-item-action>
             <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
@@ -94,7 +94,7 @@ export default {
       }
       this.initCheckedItems()
     },
-    changeCheckBox (target) {
+    changeParentCheckBox (target) {
       const item = this.items.find(item => item.id === target.id)
       this.$set(item, 'checked', item.checked)
 
@@ -103,9 +103,9 @@ export default {
         this.checkedItems.push(item.id)
       } else {
         // チェック外した時の処理
-
         // 親のチェックを外す
         const itemIndex = this.checkedItems.indexOf(item.id)
+        // チェック済アイテムから削除
         this.checkedItems.splice(itemIndex, 1)
 
         // 子供のチェックを全て外す
@@ -128,27 +128,20 @@ export default {
       this.saveItems()
     },
     changeChildCheckBox (target) {
-      // 親のIDを取得：子供IDの1桁目
-      const parentId = Number(target.id.slice(0, 1))
-
       // 対象のアイテムを取得
-      const parentItem = this.items.find(item => item.id === parentId)
+      const parentItem = this.items.find(item => item.id === target.parentId)
       const color = parentItem.colors.find(color => color.id === target.id)
-
-      // チェックボックスの変更
-      this.$set(color, 'checked', color.checked)
 
       if (color.checked) {
         // チェックした時の処理
-
         // チェック済アイテムに追加
         this.checkedItems.push(color.id)
-
         // 親にチェックがなかったら、チェックを付ける
         if (!parentItem.checked) {
           this.$set(parentItem, 'checked', true)
           this.checkedItems.push(parentItem.id)
         }
+
       } else {
         // チェック外した時の処理：チェック済アイテムから削除
         const colorIndex = this.checkedItems.indexOf(color.id)
@@ -163,25 +156,12 @@ export default {
     // チェック済アイテムの初期化
     initCheckedItems () {
       this.checkedItems = []
-      // ローカルストレージから取得
+      // ローカルストレージから取得：バイナリになっているので、復元
       const localStorageItems = localStorage.getItem(this.storageKey)
+      const checkedData = localStorageItems ? this.base64ToArray(localStorageItems) : null
 
       // チェック済アイテムに追加
-      if (localStorageItems) {
-        this.checkedItems = localStorageItems.split(',')
-
-        // バイナリデータに変換
-        let hoge
-        let piyo
-        if (this.checkedItems) {
-          hoge = this.bufferToBase64(this.checkedItems)
-          piyo = this.base64ToBuffer(hoge)
-        }
-        console.log('暗号化 >>>>')
-        console.log(hoge)
-        console.log('復号化 >>>>')
-        console.log(piyo)
-      }
+      if (localStorageItems) this.checkedItems = checkedData
 
       // チェック状況に反映させる
       this.checkedItems.forEach(checkedItem => {
@@ -189,8 +169,16 @@ export default {
         // 親アイテムを検索
         item = this.items.find(item => item.id === Number(checkedItem))
         // 子供アイテムを検索
-        if (!item) item = this.items.filter(item => item.variation).colors.find(color => color.id === Number(checkedItem))
+        if (!item) {
+          // バリエーションのあるアイテムを全て取得
+          const parentItems = this.items.filter(item => item.variation)
 
+          // バリエーションのあるアイテムでループ：アイテムを見つけたら抜ける
+          for (let i = 0; i <= parentItems.length - 1; i++) {
+            item = parentItems[i].colors.find(color => color.id === checkedItem)
+            if (item) break
+          }
+        }
         // id一致のデータがあれば、チェックボックスにチェックを入れる
         if (item) this.$set(item, 'checked', true)
       })
@@ -202,7 +190,7 @@ export default {
     },
     saveItems () {
       // 暗号化してローカルストレージに保存
-      localStorage.setItem(this.storageKey, this.checkedItems)
+      localStorage.setItem(this.storageKey, this.bufferToBase64(this.checkedItems))
     },
     // バイナリデータに変換
     bufferToBase64 (buf) {
@@ -213,11 +201,16 @@ export default {
       return btoa(binstr)
     },
     // バイナリから復元
-    base64ToBuffer (b64) {
+    base64ToArray (b64) {
       var binstr = atob(b64)
       var buf = new Uint8Array(binstr.length)
       Array.from(binstr).forEach((ch, i) => buf[i] = ch.charCodeAt(0))
-      return buf
+
+      // Unit8Array型になっているので、一旦カンマ区切りのStringに変換 → カンマ区切りで配列に変換
+      let returnArray = buf.join(',').split(',')
+      // 配列の中身が全てString型になっているので、数値型に変換して返す
+      returnArray = returnArray.map(item => Number(item))
+      return returnArray
     },
   },
   beforeMount () {
