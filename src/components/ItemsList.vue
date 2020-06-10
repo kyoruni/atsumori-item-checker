@@ -165,22 +165,34 @@ export default {
       this.checkedItems = []
       // ローカルストレージから取得
       const localStorageItems = localStorage.getItem(this.storageKey)
-      // カンマ区切りでチェック済アイテムに追加
-      if (localStorageItems) this.checkedItems = localStorageItems.split(',')
 
-      // チェック状況を画面に反映させる
+      // チェック済アイテムに追加
+      if (localStorageItems) {
+        this.checkedItems = localStorageItems.split(',')
+
+        // バイナリデータに変換
+        let hoge
+        let piyo
+        if (this.checkedItems) {
+          hoge = this.bufferToBase64(this.checkedItems)
+          piyo = this.base64ToBuffer(hoge)
+        }
+        console.log('暗号化 >>>>')
+        console.log(hoge)
+        console.log('復号化 >>>>')
+        console.log(piyo)
+      }
+
+      // チェック状況に反映させる
       this.checkedItems.forEach(checkedItem => {
         let item
-        if (checkedItem.length === 1) {
-          // 親アイテム
-          item = this.items.find(item => item.id === Number(checkedItem))
-          this.$set(item, 'checked', true)
-        } else if (checkedItem.length > 1) {
-          // 子供アイテム
-          const parentId = Number(checkedItem.slice(0, 1)) // 親のIDを取得：子供IDの1桁目
-          item = this.items.find(item => item.id === parentId).colors.find(color => color.id === checkedItem)
-          this.$set(item, 'checked', true)
-        }
+        // 親アイテムを検索
+        item = this.items.find(item => item.id === Number(checkedItem))
+        // 子供アイテムを検索
+        if (!item) item = this.items.filter(item => item.variation).colors.find(color => color.id === Number(checkedItem))
+
+        // id一致のデータがあれば、チェックボックスにチェックを入れる
+        if (item) this.$set(item, 'checked', true)
       })
     },
     searchItem (inputText) {
@@ -189,8 +201,24 @@ export default {
       this.displayItems = this.items.filter(item => item.name.match(reg) || !inputText)
     },
     saveItems () {
+      // 暗号化してローカルストレージに保存
       localStorage.setItem(this.storageKey, this.checkedItems)
-    }
+    },
+    // バイナリデータに変換
+    bufferToBase64 (buf) {
+      if (buf instanceof ArrayBuffer) buf = new Uint8Array(buf)
+      if (buf instanceof Uint8Array) buf = Array.from(buf)
+
+      let binstr = buf.map(b => String.fromCharCode(b)).join("")
+      return btoa(binstr)
+    },
+    // バイナリから復元
+    base64ToBuffer (b64) {
+      var binstr = atob(b64)
+      var buf = new Uint8Array(binstr.length)
+      Array.from(binstr).forEach((ch, i) => buf[i] = ch.charCodeAt(0))
+      return buf
+    },
   },
   beforeMount () {
     this.initComponent()
