@@ -7,7 +7,9 @@
         <span class="checked-count">{{ checkedItemCount }}</span> / {{ itemCount }}
       </h4>
     </div>
+    <!-- 検索欄 -->
     <item-search @searchItem="searchItem($event)"/>
+    <!-- アイテムリスト -->
     <v-list>
       <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
         <!-- バリエーションあり：リスト開閉用のボタンを表示 -->
