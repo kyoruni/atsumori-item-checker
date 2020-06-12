@@ -67,6 +67,7 @@
 import variables from '@/assets/scss/_variables.scss'
 import bugList from '@/assets/list/bug.json'
 import fishList from '@/assets/list/fish.json'
+import fossilList from '@/assets/list/fossil.json'
 import musicList from '@/assets/list/music.json'
 import ItemSearch from '@/components/ItemSearch'
 
@@ -100,6 +101,9 @@ export default {
         case 'fish':
           labelText = 'サカナ'
           break
+        case 'fossil':
+          labelText = 'かせき'
+          break
         case 'music':
           labelText = 'ミュージック'
           break
@@ -125,6 +129,10 @@ export default {
         case 'fish':
           this.items = fishList
           this.displayItems = fishList
+          break
+        case 'fossil':
+          this.items = fossilList
+          this.displayItems = fossilList
           break
         case 'music':
           this.items = musicList

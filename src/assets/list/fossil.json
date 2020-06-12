@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "name": "Tレックスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "Tレックスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3,
+    "name": "Tレックスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 4,
+    "name": "アーケロンのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 5,
+    "name": "アーケロンのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 6,
+    "name": "アウストラロピテクス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "アカントステガ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 8,
+    "name": "あしあとのかせき",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 9,
+    "name": "アノマロカリス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 10,
+    "name": "アンキロサウルスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 11,
+    "name": "アンキロサウルスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "アンキロサウルスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 13,
+    "name": "アンモナイト",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 14,
+    "name": "イグアノドンのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 15,
+    "name": "イグアノドンのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 16,
+    "name": "イグアノドンのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 17,
+    "name": "ウンコのかせき",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 18,
+    "name": "オフタルモサウルスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 19,
+    "name": "オフタルモサウルスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 20,
+    "name": "かせき",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 21,
+    "name": "ケツァルコアトルスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 22,
+    "name": "ケツァルコアトルスのうよく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 23,
+    "name": "ケツァルコアトルスのさよく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 24,
+    "name": "コハク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 25,
+    "name": "サメのはのかせき",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 26,
+    "name": "さんようちゅう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 27,
+    "name": "しそちょう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 28,
+    "name": "ジュラマイア",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 29,
+    "name": "ステゴサウルスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 30,
+    "name": "ステゴサウルスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 31,
+    "name": "ステゴサウルスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 32,
+    "name": "スピノサウルスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 33,
+    "name": "スピノサウルスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 34,
+    "name": "スピノサウルスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 35,
+    "name": "スミロドンのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 36,
+    "name": "スミロドンのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 37,
+    "name": "ダンクルオステウス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 38,
+    "name": "ディノニクスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 39,
+    "name": "ディノニクスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 40,
+    "name": "ディプロドクスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 41,
+    "name": "ディプロドクスのくび",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 42,
+    "name": "ディプロドクスのこし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 43,
+    "name": "ディプロドクスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 44,
+    "name": "ディプロドクスのしっぽのさき",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 45,
+    "name": "ディプロドクスのむね",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 46,
+    "name": "ディメトロドンのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 47,
+    "name": "ディメトロドンのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 48,
+    "name": "トリケラトプスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 49,
+    "name": "トリケラトプスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 50,
+    "name": "トリケラトプスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 51,
+    "name": "パキケファロのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 52,
+    "name": "パキケファロのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 53,
+    "name": "パラサウロロフスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 54,
+    "name": "パラサウロロフスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 55,
+    "name": "パラサウロロフスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 56,
+    "name": "フタバサウルスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 57,
+    "name": "フタバサウルスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 58,
+    "name": "フタバサウルスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 59,
+    "name": "プテラノドンのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 60,
+    "name": "プテラノドンのうよく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 61,
+    "name": "プテラノドンのさよく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 62,
+    "name": "ブラキオサウルスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 63,
+    "name": "ブラキオサウルスのこし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 64,
+    "name": "ブラキオサウルスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 65,
+    "name": "ブラキオサウルスのむね",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 66,
+    "name": "マンモスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 67,
+    "name": "マンモスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 68,
+    "name": "ミロクンミンギア",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 69,
+    "name": "メガセロプスのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 70,
+    "name": "メガセロプスのからだ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 71,
+    "name": "メガセロプスのしっぽ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 72,
+    "name": "メガロケロスのひだりはんしん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 73,
+    "name": "メガロケロスのみぎはんしん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 74,
+    "name": "ユーステノプテロン",
+    "checked": false,
+    "variation": false
+  }
+]
