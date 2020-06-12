@@ -1,6 +1,6 @@
 module.exports = {
   outputDir: 'docs',
-  publicPath: '/atsumori-item-checker/',
+  publicPath: '/atsumori-item-checker',
   css: {
     loaderOptions: {
       sass: {
