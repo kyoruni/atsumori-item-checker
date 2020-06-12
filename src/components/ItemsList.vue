@@ -1,5 +1,6 @@
 <template>
   <div class="items-list">
+    <!-- チェック数カウント -->
     <div class="d-flex justify-center">
       <h3 class="pr-5">{{ labelText }}</h3>
       <h4 class="font-weight-regular">
