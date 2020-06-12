@@ -10,54 +10,56 @@
     <!-- 検索欄 -->
     <item-search @searchItem="searchItem($event)"/>
     <!-- アイテムリスト -->
-    <v-list>
-      <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
-        <!-- バリエーションあり：リスト開閉用のボタンを表示 -->
-        <v-list-group v-if="displayItem.variation" :ripple="false">
-          <!-- 親のリスト -->
-          <template v-slot:activator>
-            <!-- 親のチェックボックス -->
-            <v-list-item-action>
-              <v-checkbox
-                v-model="displayItem.checked"
-                :color="checkBoxColor"
-                :ripple="false"
-                @change="changeParentCheckBox(displayItem)"
-              />
-            </v-list-item-action>
-            <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
-          </template>
-          <!-- 子のリスト -->
-          <v-list-item no-action v-for="color in displayItem.colors" :key="color.id" :ripple="false">
-            <!-- 子のチェックボックス -->
-            <v-list-item-action>
-              <v-checkbox
-                v-model="color.checked"
-                :color="checkBoxColor"
-                :ripple="false"
-                @change="changeChildCheckBox(color)"
-              />
-            </v-list-item-action>
-            <v-list-item-title>{{ color.name }}</v-list-item-title>
+    <v-col cols="12" md="6" offset-md="3" sm="8" offset-sm="2">
+      <v-list>
+        <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
+          <!-- バリエーションあり：リスト開閉用のボタンを表示 -->
+          <v-list-group v-if="displayItem.variation" :ripple="false">
+            <!-- 親のリスト -->
+            <template v-slot:activator>
+              <!-- 親のチェックボックス -->
+              <v-list-item-action>
+                <v-checkbox
+                  v-model="displayItem.checked"
+                  :color="checkBoxColor"
+                  :ripple="false"
+                  @change="changeParentCheckBox(displayItem)"
+                />
+              </v-list-item-action>
+              <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
+            </template>
+            <!-- 子のリスト -->
+            <v-list-item no-action v-for="color in displayItem.colors" :key="color.id" :ripple="false">
+              <!-- 子のチェックボックス -->
+              <v-list-item-action>
+                <v-checkbox
+                  v-model="color.checked"
+                  :color="checkBoxColor"
+                  :ripple="false"
+                  @change="changeChildCheckBox(color)"
+                />
+              </v-list-item-action>
+              <v-list-item-title>{{ color.name }}</v-list-item-title>
+            </v-list-item>
+          </v-list-group>
+          <!-- バリエーションなし：リスト開閉なし-->
+          <v-list-item v-else :ripple="false">
+            <template>
+              <!-- チェックボックス -->
+              <v-list-item-action>
+                <v-checkbox
+                  v-model="displayItem.checked"
+                  :color="checkBoxColor"
+                  :ripple="false"
+                  @change="changeParentCheckBox(displayItem)"
+                />
+              </v-list-item-action>
+              <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
+            </template>
           </v-list-item>
-        </v-list-group>
-        <!-- バリエーションなし：リスト開閉なし-->
-        <v-list-item v-else :ripple="false">
-          <template>
-            <!-- チェックボックス -->
-            <v-list-item-action>
-              <v-checkbox
-                v-model="displayItem.checked"
-                :color="checkBoxColor"
-                :ripple="false"
-                @change="changeParentCheckBox(displayItem)"
-              />
-            </v-list-item-action>
-            <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
-          </template>
-        </v-list-item>
-      </v-list-item-group>
-    </v-list>
+        </v-list-item-group>
+      </v-list>
+    </v-col>
   </div>
 </template>
 

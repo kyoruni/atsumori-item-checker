@@ -1,6 +1,6 @@
 <template>
   <div class="item-search">
-    <v-col cols="12" md="6" offset-md="3">
+    <v-col cols="12" md="6" offset-md="3" sm="8" offset-sm="2">
       <v-text-field
         single-line
         outlined
