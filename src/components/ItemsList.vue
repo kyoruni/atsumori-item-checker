@@ -10,7 +10,7 @@
     <!-- 検索欄 -->
     <item-search @searchItem="searchItem($event)"/>
     <!-- アイテムリスト -->
-    <v-col cols="12" md="6" offset-md="3" sm="8" offset-sm="2">
+    <v-col cols="12" md="8" offset-md="2">
       <v-list>
         <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
           <!-- バリエーションあり：リスト開閉用のボタンを表示 -->
