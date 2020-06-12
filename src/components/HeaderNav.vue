@@ -2,20 +2,20 @@
   <div class="header">
     <v-toolbar short dark flat extension-height="72" :color="mainColor">
       <v-toolbar-title>あつ森アイテムチェッカー（全体的に工事中）</v-toolbar-title>
-        <template v-slot:extension>
-          <v-tabs dark fixed-tabs show-arrows :backgroundColor="mainColor" :icons-and-text="true">
-            <v-tabs-slider :color="sliderColor"/>
-            <v-tab v-for="tabItem in tabItems"
-              :key="tabItem.id"
-              class="font-weight-bold"
-              :style="{ fontSize: '10px' }"
-              @click="changeTab(tabItem.name)"
-            >
-              {{ tabItem.text }}
-              <v-icon>{{ tabItem.icon }}</v-icon>
-            </v-tab>
-          </v-tabs>
-        </template>
+      <template v-slot:extension>
+        <v-tabs dark fixed-tabs show-arrows :backgroundColor="mainColor" :icons-and-text="true">
+          <v-tabs-slider :color="sliderColor"/>
+          <v-tab v-for="tabItem in tabItems"
+            :key="tabItem.id"
+            class="font-weight-bold"
+            :style="{ fontSize: '10px' }"
+            @click="changeTab(tabItem.name)"
+          >
+            {{ tabItem.text }}
+            <v-icon>{{ tabItem.icon }}</v-icon>
+          </v-tab>
+        </v-tabs>
+      </template>
     </v-toolbar>
   </div>
 </template>
