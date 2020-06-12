@@ -1,6 +1,11 @@
 <template>
   <div class="items-list">
-    <h3 class="text-center">{{ labelText }}</h3>
+    <div class="d-flex justify-center">
+      <h3 class="pr-5">{{ labelText }}</h3>
+      <h4 class="font-weight-regular">
+        <span class="checked-count">{{ checkedItemCount }}</span> / {{ itemCount }}
+      </h4>
+    </div>
     <item-search @searchItem="searchItem($event)"/>
     <v-list>
       <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
@@ -86,7 +91,13 @@ export default {
         default: labelText = '作成中'
       }
       return labelText
-    }
+    },
+    itemCount () {
+      return this.items.length
+    },
+    checkedItemCount () {
+      return this.items.filter(item => item.checked).length
+    },
   },
   methods: {
     initComponent () {
@@ -239,5 +250,12 @@ export default {
 
 .theme--light.v-list-item:hover::before {
   opacity: 0;
+}
+</style>
+
+<style scoped>
+.checked-count {
+  color: #ef5350;
+  font-weight: bold;
 }
 </style>
