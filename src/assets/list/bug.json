@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "アオスジアゲハ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "アカエリトリバネアゲハ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3,
+    "name": "アキアカネ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 4,
+    "name": "アゲハチョウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 5,
+    "name": "アブラゼミ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 6,
+    "name": "アメンボ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "アリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 8,
+    "name": "アレキサンドラトリバネアゲハ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 9,
+    "name": "イトトンボ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 10,
+    "name": "イナゴ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 11,
+    "name": "オウゴンオニクワガタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "オオカバマダラ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 13,
+    "name": "オオクワガタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 14,
+    "name": "オオゴマダラ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 15,
+    "name": "オオセンチコガネ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 16,
+    "name": "オオムラサキ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 17,
+    "name": "オケラ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 18,
+    "name": "オニヤンマ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 19,
+    "name": "カ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 20,
+    "name": "ガ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 21,
+    "name": "カタツムリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 22,
+    "name": "カナブン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 23,
+    "name": "カブトムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 24,
+    "name": "カマキリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 25,
+    "name": "カメムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 26,
+    "name": "カラスアゲハ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 27,
+    "name": "ギラファノコギリクワガタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 28,
+    "name": "キリギリス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 29,
+    "name": "ギンヤンマ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 30,
+    "name": "クマゼミ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 31,
+    "name": "クモ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 32,
+    "name": "ゲンゴロウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 33,
+    "name": "コーカサスオオカブト",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 34,
+    "name": "コオロギ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 35,
+    "name": "コノハムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 36,
+    "name": "ゴマダラカミキリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 37,
+    "name": "ゴライアスオオツノハナムグリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 38,
+    "name": "サソリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 39,
+    "name": "ショウリョウバッタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 40,
+    "name": "ジンメンカメムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 41,
+    "name": "スズムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 42,
+    "name": "セミのぬけがら",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 43,
+    "name": "ゾウカブト",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 44,
+    "name": "タガメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 45,
+    "name": "タマムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 46,
+    "name": "タランチュラ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 47,
+    "name": "ダンゴムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 48,
+    "name": "ツクツクホウシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 49,
+    "name": "テントウムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 50,
+    "name": "トノサマバッタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 51,
+    "name": "ナナフシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 52,
+    "name": "ニジイロクワガタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 53,
+    "name": "ニシキオオツバメガ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 54,
+    "name": "ノコギリクワガタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 55,
+    "name": "ノミ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 56,
+    "name": "バイオリンムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 57,
+    "name": "ハエ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 58,
+    "name": "ハチ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 59,
+    "name": "ハナカマキリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 60,
+    "name": "ハンミョウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 61,
+    "name": "ヒグラシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 62,
+    "name": "フナムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 63,
+    "name": "プラチナコガネ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 64,
+    "name": "フンコロガシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 65,
+    "name": "ヘラクレスオオカブト",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 66,
+    "name": "ホウセキゾウムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 67,
+    "name": "ホソアカクワガタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 68,
+    "name": "ホタル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 69,
+    "name": "ミイロタテハ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 70,
+    "name": "ミツバチ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 71,
+    "name": "ミノムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 72,
+    "name": "ミヤマクワガタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 73,
+    "name": "ミンミンゼミ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 74,
+    "name": "ムカデ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 75,
+    "name": "モルフォチョウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 76,
+    "name": "モンキチョウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 77,
+    "name": "モンシロチョウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 78,
+    "name": "ヤドカリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 79,
+    "name": "ヨナグニサン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 80,
+    "name": "ルリボシカミキリ",
+    "checked": false,
+    "variation": false
+  }
+]

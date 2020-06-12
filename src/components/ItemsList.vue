@@ -65,6 +65,7 @@
 
 <script>
 import variables from '@/assets/scss/_variables.scss'
+import bugList from '@/assets/list/bug.json'
 import musicList from '@/assets/list/music.json'
 import ItemSearch from '@/components/ItemSearch'
 
@@ -92,8 +93,14 @@ export default {
     labelText () {
       let labelText
       switch (this.category) {
-        case 'music': labelText = 'ミュージック'; break
-        default: labelText = '作成中'
+        case 'bug':
+          labelText = 'ムシ'
+          break
+        case 'music':
+          labelText = 'ミュージック'
+          break
+        default:
+          labelText = '作成中'
       }
       return labelText
     },
@@ -107,6 +114,10 @@ export default {
   methods: {
     initComponent () {
       switch (this.category) {
+        case 'bug':
+          this.items = bugList
+          this.displayItems = bugList
+          break
         case 'music':
           this.items = musicList
           this.displayItems = musicList
