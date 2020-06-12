@@ -87,7 +87,7 @@ export default {
       return variables.checkBoxColor
     },
     storageKey () {
-      return this.category
+      return this.category + 'dev1'
     },
     labelText () {
       let labelText
