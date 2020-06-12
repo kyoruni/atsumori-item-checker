@@ -1,6 +1,6 @@
 <template>
   <div class="items-list">
-    {{ category }}
+    <h3 class="text-center">{{ labelText }}</h3>
     <item-search @searchItem="searchItem($event)"/>
     <v-list>
       <v-list-item-group v-for="displayItem in displayItems" :key="displayItem.id">
@@ -79,6 +79,14 @@ export default {
     storageKey () {
       return this.category
     },
+    labelText () {
+      let labelText
+      switch (this.category) {
+        case 'music': labelText = 'ミュージック'; break
+        default: labelText = '作成中'
+      }
+      return labelText
+    }
   },
   methods: {
     initComponent () {
