@@ -165,7 +165,6 @@ export default {
           this.$set(parentItem, 'checked', true)
           this.checkedItems.push(parentItem.id)
         }
-
       } else {
         // チェック外した時の処理：チェック済アイテムから削除
         const colorIndex = this.checkedItems.indexOf(color.id)
@@ -173,7 +172,6 @@ export default {
       }
       // ID順に並び替え
       this.checkedItems.sort()
-
       // 保存
       this.saveItems()
     },
