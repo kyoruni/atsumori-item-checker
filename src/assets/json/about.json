@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "つくった人",
+    "showDeleteButton": false,
+    "linkURL": false,
+    "contents": [
+      "きょるに @kyoruni"
+    ],
+    "extraText": null,
+    "url": null
+  },
+  {
+    "id": 2,
+    "title": "このページについて",
+    "showDeleteButton": false,
+    "linkURL": false,
+    "contents": [
+      "自分で使う用に作ったため、突然ページが消える可能性があります。ご了承ください。",
+      "一覧にないアイテムや誤字などありましたら、DMやリプライでこっそりお知らせいただけるとうれしいです！",
+      "不具合がありましたら、DMやリプライでこっそり(以下略)",
+      "スマホ閲覧推奨です。"
+    ],
+    "extraText": null,
+    "url": null
+  },
+  {
+    "id": 3,
+    "title": "データの保存について",
+    "showDeleteButton": false,
+    "linkURL": false,
+    "contents": [
+      "チェック状況は、お使いのブラウザのローカルストレージ上に保存しています。",
+      "異なる端末、ブラウザでのデータ共有はできません。",
+      "ブラウザの閲覧履歴を削除すると、データが消えてしまいます。",
+      "作成中のため、突然データリセットを行う可能性があります。"
+    ],
+    "extraText": null,
+    "url": null
+  },
+  {
+    "id": 4,
+    "title": "データを消したい",
+    "showDeleteButton": true,
+    "linkURL": false,
+    "contents": [
+      "以下ボタンよりチェック状況を全削除することができます。"
+    ],
+    "extraText": null,
+    "url": null
+  },
+  {
+    "id": 5,
+    "title": "お借りしました",
+    "showDeleteButton": false,
+    "linkURL": true,
+    "contents": [
+      "ACNH Translations"
+    ],
+    "extraText": "（アイテムデータ）",
+    "url": "https://docs.google.com/spreadsheets/d/1BjqVeqIrfEezvyrWLUrwMjmK_UbY2LXkZ12mttamTtk/edit#gid=425952045"
+  },
+  {
+    "id": 6,
+    "title": "動作確認",
+    "showDeleteButton": false,
+    "linkURL": false,
+    "contents": [
+      "PC：Chrome, Safari",
+      "SP：iPhone8 Chrome Safari"
+    ]
+  }
+]
