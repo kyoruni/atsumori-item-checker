@@ -1,17 +1,26 @@
 <template>
   <div class="about">
-    <v-dialog v-model="dialog" width="500">
+    <v-dialog v-model="dialog" scrollable width="800">
       <v-card>
-        <v-card-title class="headline grey lighten-2" primary-title>
-          Privacy Policy
+        <v-card-title primary-title>
+          あつ森アイテムチェッカー（作成中）
         </v-card-title>
         <v-card-text>
-          hoge
+          <ul>
+            <li>一覧にないアイテムや誤字などありましたら、DMでこっそりお知らせいただけるとうれしいです！</li>
+          </ul>
         </v-card-text>
-        <v-divider></v-divider>
+        <v-card-text>
+          <ul>
+            <li>チェック状況は、お使いのブラウザのローカルストレージ上に保存しています。</li>
+            <li>異なる端末、ブラウザ間でのデータ共有はできません。</li>
+            <li>作成中のため、データリセットを行う可能性があります。すみません……。</li>
+          </ul>
+        </v-card-text>
+        <v-divider/>
         <v-card-actions>
           <v-spacer></v-spacer>
-          <v-btn color="primary" flat @click="close()">
+          <v-btn color="primary" text @click="close()">
             I accept
           </v-btn>
         </v-card-actions>
