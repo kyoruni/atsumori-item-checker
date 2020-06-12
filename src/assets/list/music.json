@@ -1,39 +1,343 @@
 [
   {
     "id": 1,
-    "name": "けけソング",
+    "name": "アイリッシュそんぐ",
     "checked": false,
-    "variation": true,
-    "colors": [
-      { "id": 2, "name": "赤", "checked": false, "parentId": 1 },
-      { "id": 3, "name": "青", "checked": false, "parentId": 1 }
-    ]
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "アロハけけ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3,
+    "name": "うたたねのゆめ",
+    "checked": false,
+    "variation": false
   },
   {
     "id": 4,
-    "name": "けけさんびか",
+    "name": "エレキそんぐ",
     "checked": false,
     "variation": false
   },
   {
     "id": 5,
-    "name": "ゆけ！けけライダー",
+    "name": "オンリーミー",
     "checked": false,
     "variation": false
   },
   {
     "id": 6,
-    "name": "だいすき",
+    "name": "かんがえちゅう",
     "checked": false,
-    "variation": true,
-    "colors": [
-      { "id": 7, "name": "赤", "checked": false, "parentId": 6 },
-      { "id": 8, "name": "青", "checked": false, "parentId": 6 }
-    ]
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "けけアイドル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 8,
+    "name": "けけアフロ",
+    "checked": false,
+    "variation": false
   },
   {
     "id": 9,
-    "name": "おととい",
+    "name": "けけえんか",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 10,
+    "name": "けけおんど",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 11,
+    "name": "けけガムラン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "けけカントリー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 13,
+    "name": "けけグルーヴ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 14,
+    "name": "けけけいじ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 15,
+    "name": "けけゴスペル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 16,
+    "name": "けけサルサ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 17,
+    "name": "けけじょんがら",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 18,
+    "name": "けけスウィング",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 19,
+    "name": "けけソウル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 20,
+    "name": "けけソング",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 21,
+    "name": "けけだいみょう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 22,
+    "name": "けけチャイナ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 23,
+    "name": "けけディキシー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 24,
+    "name": "けけディスコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 25,
+    "name": "けけのエチュード",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 26,
+    "name": "けけのミロンガ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 27,
+    "name": "けけのロケンロール",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 28,
+    "name": "けけパリ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 29,
+    "name": "けけブルース",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 30,
+    "name": "けけボッサ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 31,
+    "name": "けけマハラジャ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 32,
+    "name": "けけみんよう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 33,
+    "name": "けけメタル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 34,
+    "name": "けけラヴソング",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 35,
+    "name": "けけララバイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 36,
+    "name": "けけレゲエ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 37,
+    "name": "けけロック",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 38,
+    "name": "コサックそんぐ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 39,
+    "name": "こわいうた",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 40,
+    "name": "しょうわけけかよう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 41,
+    "name": "セニョールけけ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 42,
+    "name": "だいすき",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 43,
+    "name": "テクノビート",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 44,
+    "name": "どうぶつのしま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 45,
+    "name": "どうぶつのまち",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 46,
+    "name": "ドラムンベース",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 47,
+    "name": "トルコそんぐ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 48,
+    "name": "ナミナミ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 49,
+    "name": "はるのこもれび",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 50,
+    "name": "ふなうた2001",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 51,
+    "name": "ブルーおにぎり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 52,
+    "name": "ペルーのうた",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 53,
+    "name": "ほうろう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 54,
+    "name": "ぼくのばしょ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 55,
+    "name": "みんなあつまれ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 56,
+    "name": "もりのせいかつ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 57,
+    "name": "ゆけ！けけライダー",
     "checked": false,
     "variation": false
   }
