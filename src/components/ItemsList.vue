@@ -66,6 +66,7 @@
 <script>
 import variables from '@/assets/scss/_variables.scss'
 import bugList from '@/assets/list/bug.json'
+import fishList from '@/assets/list/fish.json'
 import musicList from '@/assets/list/music.json'
 import ItemSearch from '@/components/ItemSearch'
 
@@ -96,6 +97,9 @@ export default {
         case 'bug':
           labelText = 'ムシ'
           break
+        case 'fish':
+          labelText = 'サカナ'
+          break
         case 'music':
           labelText = 'ミュージック'
           break
@@ -117,6 +121,10 @@ export default {
         case 'bug':
           this.items = bugList
           this.displayItems = bugList
+          break
+        case 'fish':
+          this.items = fishList
+          this.displayItems = fishList
           break
         case 'music':
           this.items = musicList

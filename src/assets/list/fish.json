@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "name": "アジ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "アユ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3,
+    "name": "アロワナ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 4,
+    "name": "アンチョビ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 5,
+    "name": "イエローパーチ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 6,
+    "name": "イカ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "イシダイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 8,
+    "name": "イトウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 9,
+    "name": "ウグイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 10,
+    "name": "ウツボ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 11,
+    "name": "エイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "エンゼルフィッシュ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 13,
+    "name": "エンドリケリー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 14,
+    "name": "オイカワ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 15,
+    "name": "オオイワナ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 16,
+    "name": "オタマジャクシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 17,
+    "name": "ガー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 18,
+    "name": "カエル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 19,
+    "name": "カジキ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 20,
+    "name": "カミツキガメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 21,
+    "name": "カレイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 22,
+    "name": "キンギョ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 23,
+    "name": "キングサーモン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 24,
+    "name": "グッピー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 25,
+    "name": "クマノミ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 26,
+    "name": "クリオネ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 27,
+    "name": "ゴールデントラウト",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 28,
+    "name": "コイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 29,
+    "name": "コバンザメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 30,
+    "name": "サケ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 31,
+    "name": "サメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 32,
+    "name": "ザリガニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 33,
+    "name": "シーラカンス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 34,
+    "name": "シイラ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 35,
+    "name": "シャンハイガニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 36,
+    "name": "シュモクザメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 37,
+    "name": "ジンベエザメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 38,
+    "name": "スズキ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 39,
+    "name": "スッポン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 40,
+    "name": "タイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 41,
+    "name": "タツノオトシゴ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 42,
+    "name": "タナゴ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 43,
+    "name": "チョウザメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 44,
+    "name": "チョウチョウウオ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 45,
+    "name": "チョウチンアンコウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 46,
+    "name": "ティラピア",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 47,
+    "name": "デメキン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 48,
+    "name": "デメニギス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 49,
+    "name": "ドクターフィッシュ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 50,
+    "name": "ドジョウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 51,
+    "name": "ドラド",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 52,
+    "name": "ドンコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 53,
+    "name": "ナポレオンフィッシュ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 54,
+    "name": "ナマズ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 55,
+    "name": "ナンヨウハギ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 56,
+    "name": "ニシキゴイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 57,
+    "name": "ネオンテトラ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 58,
+    "name": "ノコギリザメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 59,
+    "name": "パイク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 60,
+    "name": "ハナヒゲウツボ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 61,
+    "name": "ハリセンボン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 62,
+    "name": "ピラニア",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 63,
+    "name": "ヒラメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 64,
+    "name": "ピラルク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 65,
+    "name": "フグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 66,
+    "name": "フナ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 67,
+    "name": "ブラックバス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 68,
+    "name": "ブルーギル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 69,
+    "name": "ベタ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 70,
+    "name": "マグロ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 71,
+    "name": "マンボウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 72,
+    "name": "ミノカサゴ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 73,
+    "name": "メダカ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 74,
+    "name": "ヤマメ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 75,
+    "name": "ライギョ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 76,
+    "name": "ランチュウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 77,
+    "name": "リュウグウノツカイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 78,
+    "name": "レインボーフィッシュ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 79,
+    "name": "ロウニンアジ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 80,
+    "name": "ワカサギ",
+    "checked": false,
+    "variation": false
+  }
+]
