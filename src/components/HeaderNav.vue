@@ -1,7 +1,7 @@
 <template>
   <div class="header">
     <v-toolbar short dark flat extension-height="72" :color="mainColor">
-      <v-toolbar-title>あつ森アイテムチェッカー（工事中）</v-toolbar-title>
+      <v-toolbar-title>あつ森アイテムチェッカー（仮）</v-toolbar-title>
       <v-spacer></v-spacer>
       <v-btn icon @click="aboutButton()">
         <v-icon>fas fa-question-circle</v-icon>

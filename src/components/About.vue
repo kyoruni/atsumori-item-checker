@@ -3,7 +3,7 @@
     <v-dialog v-model="dialog" scrollable width="800">
       <v-card style="height: 400px;">
         <v-card-title primary-title>
-          あつ森アイテムチェッカー（作成中）
+          あつ森アイテムチェッカー（仮）
         </v-card-title>
         <v-card-text>
           <h3 class="mb-2">つくった人</h3>
