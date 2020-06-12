@@ -1,7 +1,15 @@
 <template>
   <div class="header">
     <v-toolbar short dark flat extension-height="72" :color="mainColor">
-      <v-toolbar-title>あつ森アイテムチェッカー（全体的に工事中）</v-toolbar-title>
+      <v-toolbar-title>あつ森アイテムチェッカー（工事中）</v-toolbar-title>
+      <v-spacer></v-spacer>
+      <v-btn icon @click="helpButton()">
+        <v-icon>fas fa-question-circle</v-icon>
+      </v-btn>
+      <div v-if="showHelpDialog">
+        dialog
+      </div>
+      <!-- カテゴリー一覧 -->
       <template v-slot:extension>
         <v-tabs dark fixed-tabs show-arrows :backgroundColor="mainColor" :icons-and-text="true">
           <v-tabs-slider :color="sliderColor"/>
@@ -34,6 +42,7 @@ export default {
   },
   data () {
     return {
+      showHelpDialog: false,
       tabItems: [
         { id: 1, name: 'furniture', text: 'かぐ', icon: 'fas fa-couch' },
         { id: 2, name: 'smallFurniture', text: 'こもの', icon: 'fas fa-coffee' },
@@ -61,6 +70,9 @@ export default {
   methods: {
     changeTab (tab) {
       this.$emit('changeTab', tab)
+    },
+    helpButton () {
+      this.showHelpDialog = !this.showHelpDialog
     }
   },
 }
