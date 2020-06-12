@@ -65,6 +65,7 @@
 
 <script>
 import variables from '@/assets/scss/_variables.scss'
+import floorList from '@/assets/list/floor.json'
 import bugList from '@/assets/list/bug.json'
 import fishList from '@/assets/list/fish.json'
 import fossilList from '@/assets/list/fossil.json'
@@ -95,6 +96,9 @@ export default {
     labelText () {
       let labelText
       switch (this.category) {
+        case 'floor':
+          labelText = 'ゆかいた'
+          break
         case 'bug':
           labelText = 'ムシ'
           break
@@ -122,6 +126,10 @@ export default {
   methods: {
     initComponent () {
       switch (this.category) {
+        case 'floor':
+          this.items = floorList
+          this.displayItems = floorList
+          break
         case 'bug':
           this.items = bugList
           this.displayItems = bugList
