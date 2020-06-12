@@ -7,7 +7,7 @@
           <!-- 親のリスト -->
           <template v-slot:activator>
             <v-icon class="mr-2" :small="true">fas fa-pen</v-icon>
-            <v-list-item-title> version: {{ history.version }} 【{{ history.date }}】</v-list-item-title>
+            <v-list-item-title>【{{ history.date }}】</v-list-item-title>
           </template>
         <!-- 子のリスト -->
         <ul>
@@ -22,7 +22,7 @@
 </template>
 
 <script>
-import histories from '@/assets/histories.json'
+import histories from '@/assets/json/histories.json'
 
 export default {
   data () {
