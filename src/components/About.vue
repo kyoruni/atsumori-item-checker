@@ -36,6 +36,7 @@
 </template>
 
 <script>
+import categories from '@/assets/json/categories.json'
 import History from '@/components/History'
 
 export default {
@@ -51,9 +52,12 @@ export default {
     open() {
       this.dialog = true
     },
+    // 全データ削除
     deleteButton() {
       if (confirm('全てのチェック状況を削除します。※復元はできません！')) {
-        alert('消したよ')
+        categories.forEach(category => {
+          localStorage.removeItem(category.name)
+        })
       }
     }
   }
