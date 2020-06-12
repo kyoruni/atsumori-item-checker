@@ -17,6 +17,7 @@
                     {{ content }}
                   </a> {{ about.extraText }}
                 </div>
+                <!-- リンクなしの場合 -->
                 <div v-else>
                 {{ content }}
                   <!-- 全削除ボタン -->
