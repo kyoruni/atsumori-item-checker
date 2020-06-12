@@ -3,120 +3,140 @@
     "id": 1,
     "name": "furniture",
     "text": "かぐ",
-    "icon": "fas fa-couch"
+    "icon": "fas fa-couch",
+    "showFlg": false
   },
   {
     "id": 2,
     "name": "smallFurniture",
     "text": "こもの",
-    "icon": "fas fa-coffee"
+    "icon": "fas fa-coffee",
+    "showFlg": false
   },
   {
     "id": 3,
     "name": "wallHangings",
     "text": "かべかけ",
-    "icon": "fas fa-clipboard"
+    "icon": "fas fa-clipboard",
+    "showFlg": false
   },
   {
     "id": 4,
     "name": "wallpaper",
     "text": "かべがみ",
-    "icon": "fas fa-leaf"
+    "icon": "fas fa-leaf",
+    "showFlg": false
   },
   {
     "id": 5,
     "name": "floor",
     "text": "ゆかいた",
-    "icon": "fas fa-leaf"
+    "icon": "fas fa-leaf",
+    "showFlg": true
   },
   {
     "id": 6,
     "name": "rug",
     "text": "ラグ",
-    "icon": "fas fa-leaf"
+    "icon": "fas fa-leaf",
+    "showFlg": false
   },
   {
     "id": 7,
     "name": "tops",
     "text": "トップス",
-    "icon": "fas fa-tshirt"
+    "icon": "fas fa-tshirt",
+    "showFlg": false
   },
   {
     "id": 8,
     "name": "bottoms",
     "text": "ボトムス",
-    "icon": "fas fa-tshirt"
+    "icon": "fas fa-tshirt",
+    "showFlg": false
   },
   {
     "id": 9,
     "name": "dress",
     "text": "ワンピース",
-    "icon": "fas fa-tshirt"
+    "icon": "fas fa-tshirt",
+    "showFlg": false
   },
   {
     "id": 10,
     "name": "hat",
     "text": "かぶりもの",
-    "icon": "fab fa-redhat"
+    "icon": "fab fa-redhat",
+    "showFlg": false
   },
   {
     "id": 11,
     "name": "accessory",
     "text": "アクセサリ",
-    "icon": "fas fa-glasses"
+    "icon": "fas fa-glasses",
+    "showFlg": false
   },
   {
     "id": 12,
     "name": "socks",
     "text": "くつした",
-    "icon": "fas fa-socks"
+    "icon": "fas fa-socks",
+    "showFlg": false
   },
   {
     "id": 13,
     "name": "shoues",
     "text": "くつ",
-    "icon": "fas fa-shoe-prints"
+    "icon": "fas fa-shoe-prints",
+    "showFlg": false
   },
   {
     "id": 14,
     "name": "bag",
     "text": "バッグ",
-    "icon": "fas fa-shopping-bag"
+    "icon": "fas fa-shopping-bag",
+    "showFlg": false
   },
   {
     "id": 15,
     "name": "umbrella",
     "text": "かさ",
-    "icon": "fas fa-umbrella"
+    "icon": "fas fa-umbrella",
+    "showFlg": false
   },
   {
     "id": 16,
     "name": "bug",
     "text": "ムシ",
-    "icon": "fas fa-bug"
+    "icon": "fas fa-bug",
+    "showFlg": true
   },
   {
     "id": 17,
     "name": "fish",
     "text": "サカナ",
-    "icon": "fas fa-fish"
+    "icon": "fas fa-fish",
+    "showFlg": true
   },
   {
     "id": 18,
     "name": "fossil",
     "text": "かせき",
-    "icon": "fas fa-bone"
+    "icon": "fas fa-bone",
+    "showFlg": true
   },
   {
     "id": 19,
     "name": "art",
     "text": "美術品",
-    "icon": "fas fa-paint-brush"
+    "icon": "fas fa-paint-brush",
+    "showFlg": false
   },
   {
     "id": 20,
     "name": "music",
     "text": "曲",
-    "icon": "fas fa-music"
+    "icon": "fas fa-music",
+    "showFlg": true
   }
 ]

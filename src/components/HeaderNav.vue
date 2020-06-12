@@ -11,7 +11,8 @@
       <template v-slot:extension>
         <v-tabs dark fixed-tabs show-arrows :backgroundColor="mainColor" :icons-and-text="true">
           <v-tabs-slider :color="sliderColor"/>
-          <v-tab v-for="tabItem in tabItems"
+          <v-tab
+            v-for="tabItem in tabItems.filter(tabItem => tabItem.showFlg)"
             :key="tabItem.id"
             class="font-weight-bold"
             :style="{ fontSize: '10px' }"
