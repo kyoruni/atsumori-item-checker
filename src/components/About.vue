@@ -13,18 +13,23 @@
         <v-card-text>
           <ul>
             <li>チェック状況は、お使いのブラウザのローカルストレージ上に保存しています。</li>
-            <li>異なる端末、ブラウザ間でのデータ共有はできません。</li>
+            <li>異なる端末、ブラウザでのデータ共有はできません。</li>
+            <li>ブラウザの閲覧履歴を削除すると、データが消えてしまいます。</li>
             <li>作成中のため、突然データリセットを行う可能性があります。すみません……。</li>
           </ul>
         </v-card-text>
+        <v-card-text>
+          <ul>
+            <li>以下ボタンよりチェック状況を全削除することができます。</li>
+          </ul>
+          <v-card-actions>
+            <v-btn depressed color="error" class="font-weight-bold" @click="deleteButton()">
+              チェック状況全削除
+            </v-btn>
+          </v-card-actions>
+        </v-card-text>
         <!-- 更新履歴 -->
         <history/>
-        <v-card-actions>
-          <v-spacer></v-spacer>
-          <v-btn color="primary" text @click="close()">
-            I accept
-          </v-btn>
-        </v-card-actions>
       </v-card>
     </v-dialog>
   </div>
@@ -46,8 +51,10 @@ export default {
     open() {
       this.dialog = true
     },
-    close() {
-      this.dialog = false
+    deleteButton() {
+      if (confirm('全てのチェック状況を削除します。※復元はできません！')) {
+        alert('消したよ')
+      }
     }
   }
 }
