@@ -6,6 +6,7 @@
       <v-btn icon @click="aboutButton()">
         <v-icon>fas fa-question-circle</v-icon>
       </v-btn>
+      <about ref="dialog"/>
       <!-- カテゴリー一覧 -->
       <template v-slot:extension>
         <v-tabs dark fixed-tabs show-arrows :backgroundColor="mainColor" :icons-and-text="true">
@@ -27,8 +28,12 @@
 
 <script>
 import variables from '@/assets/scss/_variables.scss'
+import About from '@/components/About'
 
 export default {
+  components: {
+    About,
+  },
   computed: {
     mainColor () {
       return variables.mainColor
@@ -39,7 +44,6 @@ export default {
   },
   data () {
     return {
-      showAboutDialog: false,
       tabItems: [
         { id: 1, name: 'furniture', text: 'かぐ', icon: 'fas fa-couch' },
         { id: 2, name: 'smallFurniture', text: 'こもの', icon: 'fas fa-coffee' },
@@ -69,7 +73,7 @@ export default {
       this.$emit('changeTab', tab)
     },
     aboutButton () {
-      this.showAboutDialog = !this.showAboutDialog
+      this.$refs.dialog.open()
     }
   },
 }
