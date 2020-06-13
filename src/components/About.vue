@@ -61,7 +61,7 @@ export default {
     deleteButton() {
       if (confirm('全てのチェック状況を削除します。※復元はできません！')) {
         categories.forEach(category => {
-          localStorage.removeItem(category.name)
+          localStorage.removeItem(category.name + 'v0.02')
           location.reload()
         })
       }

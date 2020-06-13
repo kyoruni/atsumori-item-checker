@@ -70,6 +70,7 @@
 </template>
 
 <script>
+import categories from '@/assets/json/categories.json'
 import variables from '@/assets/scss/_variables.scss'
 import furnitureList from '@/assets/list/furniture.json'
 import wallList from '@/assets/list/wall.json'
@@ -101,7 +102,7 @@ export default {
       return variables.checkBoxColor
     },
     storageKey () {
-      return this.category
+      return this.category + 'v0.02'
     },
     // バリエーションのあるカテゴリーかどうか
     showVariation () {
@@ -290,12 +291,17 @@ export default {
     // チェック済アイテムの初期化
     initCheckedItems () {
       this.checkedItems = []
-      // ローカルストレージから取得：バイナリになっているので、復元
-      const localStorageItems = localStorage.getItem(this.storageKey)
-      const checkedData = localStorageItems ? this.base64ToArray(localStorageItems) : null
+      // ローカルストレージから取得
+      const localStorageData = localStorage.getItem(this.storageKey)
+      // ローカルストレージのデータがあれば、カンマ区切りで配列にする
+      let localStorageDataArray = []
+      if (localStorageData) {
+        localStorageDataArray = localStorageData.split(',')
+      }
+      const checkedData = localStorageDataArray.length > 0 ? JSON.parse("[" + localStorageDataArray + "]") : []
 
       // チェック済アイテムに追加
-      if (localStorageItems) this.checkedItems = checkedData
+      if (checkedData.length > 0) this.checkedItems = checkedData
 
       // チェック状況に反映させる
       this.checkedItems.forEach(checkedItem => {
@@ -323,8 +329,8 @@ export default {
       this.displayItems = this.items.filter(item => item.name.match(reg) || !inputText)
     },
     saveItems () {
-      // 暗号化してローカルストレージに保存
-      localStorage.setItem(this.storageKey, this.bufferToBase64(this.checkedItems))
+      // ローカルストレージに保存
+      localStorage.setItem(this.storageKey, this.checkedItems)
     },
     // バイナリデータに変換
     bufferToBase64 (buf) {
@@ -346,8 +352,23 @@ export default {
       returnArray = returnArray.map(item => Number(item))
       return returnArray
     },
+    bugFixed () {
+      // 全カテゴリでループ
+      let checkedData = []
+      categories.forEach(category => {
+        // v0.01 → v0.02：バイナリ変換しない形に戻して、ローカルストレージ上書き
+        const localStorageData = localStorage.getItem(category.name)
+        if (localStorageData) {
+          checkedData = this.base64ToArray(localStorageData)
+          localStorage.setItem(category.name + 'v0.02', checkedData)
+          // データ移行が完了したら、ローカルストレージから削除
+          localStorage.removeItem(category.name)
+        }
+      })
+    },
   },
   beforeMount () {
+    this.bugFixed()
     this.initComponent()
   },
   watch: {
