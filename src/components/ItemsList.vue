@@ -4,7 +4,13 @@
     <div class="d-flex justify-center">
       <h3 class="pr-5">{{ labelText }}</h3>
       <h4 class="font-weight-regular">
-        <span class="checked-count">{{ checkedItemCount }}</span> / {{ itemCount }}
+        <!-- バリエーションがある場合は、バリエーション含めたチェック数 -->
+        <div v-if="showVariation">
+          <span class="checked-count">{{ checkedItemVariationCount }}</span> / {{ itemVariationCount }}
+        </div>
+        <div v-else>
+          <span class="checked-count">{{ checkedItemCount }}</span> / {{ itemCount }}
+        </div>
       </h4>
     </div>
     <!-- 検索欄 -->
@@ -97,6 +103,10 @@ export default {
     storageKey () {
       return this.category
     },
+    // バリエーションのあるカテゴリーかどうか
+    showVariation () {
+      return this.category === 'furniture'
+    },
     labelText () {
       let labelText
       switch (this.category) {
@@ -135,8 +145,43 @@ export default {
     itemCount () {
       return this.items.length
     },
+    // バリエーション含めたアイテム数
+    itemVariationCount () {
+      // カテゴリーが家具以外は何もしない
+      if (!this.category === 'furniture') return
+      let count = 0
+      this.items.forEach(item => {
+        if (item.variation) {
+          // バリエーションあり：親はカウントに含めない + 子の数だけカウント
+          count += item.colors.length
+        } else {
+          // バリエーションなし：親だけをカウントする
+          count++
+        }
+      })
+      return count
+    },
     checkedItemCount () {
       return this.items.filter(item => item.checked).length
+    },
+    // バリエーション含めたチェック数
+    checkedItemVariationCount () {
+      // カテゴリーが家具以外は何もしない
+      if (!this.category === 'furniture') return
+      let count = 0
+      const checkedItems = this.items.filter(item => item.checked)
+      checkedItems.forEach(checkedItem => {
+        if (checkedItem.variation) {
+          // バリエーションあり：親はカウントに含めない + 子の数だけカウント
+          checkedItem.colors.forEach(color => {
+            if (color.checked) count++
+          })
+        } else {
+          // バリエーションなし：親だけをカウントする
+          count++
+        }
+      })
+      return count
     },
   },
   methods: {
