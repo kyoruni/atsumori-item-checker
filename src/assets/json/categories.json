@@ -102,7 +102,7 @@
     "name": "umbrella",
     "text": "かさ",
     "icon": "fas fa-umbrella",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 16,

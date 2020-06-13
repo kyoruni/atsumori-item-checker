@@ -1,0 +1,404 @@
+[
+  {
+    "id": 1,
+    "name": "DALのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "あおいみずたまのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3,
+    "name": "あおいむじのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 4,
+    "name": "あかいシックなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 5,
+    "name": "あかいみずたまのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 6,
+    "name": "あかいむじのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "アジサイのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 8,
+    "name": "いちごギンガムのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 9,
+    "name": "いちごのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 10,
+    "name": "オリエンタルなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 11,
+    "name": "オレンジのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "カエルのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 13,
+    "name": "かぶきなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 14,
+    "name": "ガラいりビニールがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 15,
+    "name": "きいろみずたまのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 16,
+    "name": "キウイのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 17,
+    "name": "キノコのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 18,
+    "name": "クマのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 19,
+    "name": "くろいシックなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 20,
+    "name": "くろいレースのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 21,
+    "name": "こうもりがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 22,
+    "name": "こばながらのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 23,
+    "name": "こわれたかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 24,
+    "name": "サカナのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 25,
+    "name": "さくらのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 26,
+    "name": "さくらんぼのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 27,
+    "name": "スイカのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 28,
+    "name": "ストライプのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 29,
+    "name": "スノーフレークのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 30,
+    "name": "スパイダーなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 31,
+    "name": "タータンチェックのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 32,
+    "name": "たぬきかいはつのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 33,
+    "name": "ツートンなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 34,
+    "name": "てるてるぼうずのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 35,
+    "name": "テントウムシのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 36,
+    "name": "トリコロールなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 37,
+    "name": "ナシのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 38,
+    "name": "パープルのロリータがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 39,
+    "name": "パイナップルのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 40,
+    "name": "はっぱのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 41,
+    "name": "ばんがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 42,
+    "name": "パンダのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 43,
+    "name": "ビーチなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 44,
+    "name": "ビニールがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 45,
+    "name": "ひまわりのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 46,
+    "name": "ピンクのむじのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 47,
+    "name": "ピンクのロリータがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 48,
+    "name": "ぶどうのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 49,
+    "name": "ブルーのロリータがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 50,
+    "name": "ベリーギンガムのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 51,
+    "name": "ホワイトのロリータがさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 52,
+    "name": "マーガレットのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 53,
+    "name": "みどりのシックなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 54,
+    "name": "みどりのむじのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 55,
+    "name": "ミントギンガムのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 56,
+    "name": "むらさきのシックなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 57,
+    "name": "めいさいのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 58,
+    "name": "メルヘンなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 59,
+    "name": "もみじのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 60,
+    "name": "モモのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 61,
+    "name": "リンゴのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 62,
+    "name": "レースのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 63,
+    "name": "レイニーなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 64,
+    "name": "レインボーなかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 65,
+    "name": "レモンギンガムのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 66,
+    "name": "ロゴいりのかさ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 67,
+    "name": "わかばギンガムのかさ",
+    "checked": false,
+    "variation": false
+  }
+]

@@ -67,6 +67,7 @@
 import variables from '@/assets/scss/_variables.scss'
 import wallList from '@/assets/list/wall.json'
 import floorList from '@/assets/list/floor.json'
+import umbrellaList from '@/assets/list/umbrella.json'
 import bugList from '@/assets/list/bug.json'
 import fishList from '@/assets/list/fish.json'
 import fossilList from '@/assets/list/fossil.json'
@@ -103,6 +104,9 @@ export default {
         case 'floor':
           labelText = 'ゆかいた'
           break
+        case 'umbrella':
+          labelText = 'かさ'
+          break
         case 'bug':
           labelText = 'ムシ'
           break
@@ -137,6 +141,10 @@ export default {
         case 'floor':
           this.items = floorList
           this.displayItems = floorList
+          break
+        case 'umbrella':
+          this.items = umbrellaList
+          this.displayItems = umbrellaList
           break
         case 'bug':
           this.items = bugList
