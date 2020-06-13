@@ -22,10 +22,10 @@
   },
   {
     "id": 4,
-    "name": "wallpaper",
+    "name": "wall",
     "text": "かべがみ",
     "icon": "fas fa-leaf",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 5,
