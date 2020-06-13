@@ -39,7 +39,7 @@
     "name": "rug",
     "text": "ラグ",
     "icon": "fas fa-leaf",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 7,
