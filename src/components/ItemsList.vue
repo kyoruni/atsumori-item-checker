@@ -32,7 +32,7 @@
                   @change="changeParentCheckBox(displayItem)"
                 />
               </v-list-item-action>
-              <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
+              <v-list-item-title class="body-2">{{ displayItem.name }}</v-list-item-title>
             </template>
             <!-- 子のリスト -->
             <v-list-item no-action v-for="color in displayItem.colors" :key="color.id" :ripple="false" class="ml-5">
@@ -45,7 +45,7 @@
                   @change="changeChildCheckBox(color)"
                 />
               </v-list-item-action>
-              <v-list-item-title>{{ color.name }}</v-list-item-title>
+              <v-list-item-title class="body-2">{{ color.name }}</v-list-item-title>
             </v-list-item>
           </v-list-group>
           <!-- バリエーションなし：リスト開閉なし-->
@@ -60,7 +60,7 @@
                   @change="changeParentCheckBox(displayItem)"
                 />
               </v-list-item-action>
-              <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
+              <v-list-item-title class="body-2">{{ displayItem.name }}</v-list-item-title>
             </template>
           </v-list-item>
         </v-list-item-group>
