@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "3だんゆきだるま",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2, "name": "ブルー", "checked": false, "parentId": 1 },
+      { "id": 3, "name": "ピンク", "checked": false, "parentId": 1 },
+      { "id": 4, "name": "ライトブルー", "checked": false, "parentId": 1 },
+      { "id": 5, "name": "イエロー", "checked": false, "parentId": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "DALのひこうきもけい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 7, "name": "ブルー", "checked": false, "parentId": 6 },
+      { "id": 8, "name": "イエロー", "checked": false, "parentId": 6 },
+      { "id": 9, "name": "オレンジ", "checked": false, "parentId": 6 },
+      { "id": 10, "name": "グリーン", "checked": false, "parentId": 6 }
+    ]
+  }
+]
+
+
+

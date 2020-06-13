@@ -4,7 +4,7 @@
     "name": "furniture",
     "text": "かぐ",
     "icon": "fas fa-couch",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 2,

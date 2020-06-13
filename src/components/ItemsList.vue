@@ -29,7 +29,7 @@
               <v-list-item-title>{{ displayItem.name }}</v-list-item-title>
             </template>
             <!-- 子のリスト -->
-            <v-list-item no-action v-for="color in displayItem.colors" :key="color.id" :ripple="false">
+            <v-list-item no-action v-for="color in displayItem.colors" :key="color.id" :ripple="false" class="ml-5">
               <!-- 子のチェックボックス -->
               <v-list-item-action>
                 <v-checkbox
@@ -65,6 +65,7 @@
 
 <script>
 import variables from '@/assets/scss/_variables.scss'
+import furnitureList from '@/assets/list/furniture.json'
 import wallList from '@/assets/list/wall.json'
 import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
@@ -99,6 +100,9 @@ export default {
     labelText () {
       let labelText
       switch (this.category) {
+        case 'furniture':
+          labelText = 'かぐ'
+          break
         case 'wall':
           labelText = 'かべがみ'
           break
@@ -138,6 +142,10 @@ export default {
   methods: {
     initComponent () {
       switch (this.category) {
+        case 'furniture':
+          this.items = furnitureList
+          this.displayItems = furnitureList
+          break
         case 'wall':
           this.items = wallList
           this.displayItems = wallList
