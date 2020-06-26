@@ -1,6 +1,6 @@
 # :video_game: あつ森アイテムチェッカー（仮）
 
-<div style="text-align:center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/40832190/85858092-fd22ac80-b7f5-11ea-86da-23d22240cfdd.gif" title="あつ森アイテムチェッカー">
 </div>
 
