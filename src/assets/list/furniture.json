@@ -2972,5 +2972,256 @@
     "name": "ぎんのムシトロフィー",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 1184,
+    "name": "クーラーボックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1185, "name": "ブルー", "checked": false, "parentId": 1184 },
+      { "id": 1186, "name": "レッド", "checked": false, "parentId": 1184 },
+      { "id": 1187, "name": "イエロー", "checked": false, "parentId": 1184 },
+      { "id": 1188, "name": "グリーン", "checked": false, "parentId": 1184 }
+    ]
+  },
+  {
+    "id": 1189,
+    "name": "クッション",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1190,
+    "name": "くまのダイちゃん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1191, "name": "クリーム", "checked": false, "parentId": 1190 },
+      { "id": 1192, "name": "キャラメル・モカ", "checked": false, "parentId": 1190 },
+      { "id": 1193, "name": "チョコ", "checked": false, "parentId": 1190 },
+      { "id": 1194, "name": "フラワー", "checked": false, "parentId": 1190 },
+      { "id": 1195, "name": "チェック", "checked": false, "parentId": 1190 },
+      { "id": 1196, "name": "ツイード", "checked": false, "parentId": 1190 }
+    ]
+  },
+  {
+    "id": 1197,
+    "name": "くまのチビちゃん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1198, "name": "クリーム", "checked": false, "parentId": 1197 },
+      { "id": 1199, "name": "キャラメル・モカ", "checked": false, "parentId": 1197 },
+      { "id": 1200, "name": "チョコ", "checked": false, "parentId": 1197 },
+      { "id": 1201, "name": "フラワー", "checked": false, "parentId": 1197 },
+      { "id": 1202, "name": "チェック", "checked": false, "parentId": 1197 },
+      { "id": 1203, "name": "ツイード", "checked": false, "parentId": 1197 }
+    ]
+  },
+  {
+    "id": 1204,
+    "name": "くまのトクダイちゃん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1205, "name": "クリーム", "checked": false, "parentId": 1204 },
+      { "id": 1206, "name": "キャラメル・モカ", "checked": false, "parentId": 1204 },
+      { "id": 1207, "name": "チョコ", "checked": false, "parentId": 1204 },
+      { "id": 1208, "name": "フラワー", "checked": false, "parentId": 1204 },
+      { "id": 1209, "name": "チェック", "checked": false, "parentId": 1204 },
+      { "id": 1210, "name": "ツイード", "checked": false, "parentId": 1204 }
+    ]
+  },
+  {
+    "id": 1211,
+    "name": "くまのナミちゃん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1212, "name": "クリーム", "checked": false, "parentId": 1211 },
+      { "id": 1213, "name": "キャラメル・モカ", "checked": false, "parentId": 1211 },
+      { "id": 1214, "name": "チョコ", "checked": false, "parentId": 1211 },
+      { "id": 1215, "name": "フラワー", "checked": false, "parentId": 1211 },
+      { "id": 1216, "name": "チェック", "checked": false, "parentId": 1211 },
+      { "id": 1217, "name": "ツイード", "checked": false, "parentId": 1211 }
+    ]
+  },
+  {
+    "id": 1218,
+    "name": "クモのす",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1219,
+    "name": "クライミングウォール",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1220, "name": "ナチュラル", "checked": false, "parentId": 1219 },
+      { "id": 1221, "name": "ピンク", "checked": false, "parentId": 1219 },
+      { "id": 1222, "name": "ブルー", "checked": false, "parentId": 1219 },
+      { "id": 1223, "name": "ホワイト", "checked": false, "parentId": 1219 }
+    ]
+  },
+  {
+    "id": 1224,
+    "name": "グランドピアノ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1225, "name": "ブラック", "checked": false, "parentId": 1224 },
+      { "id": 1226, "name": "ホワイト", "checked": false, "parentId": 1224 },
+      { "id": 1227, "name": "ウォルナット", "checked": false, "parentId": 1224 },
+      { "id": 1228, "name": "チェリー", "checked": false, "parentId": 1224 }
+    ]
+  },
+  {
+    "id": 1229,
+    "name": "グランドライト",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1230, "name": "ホワイト", "checked": false, "parentId": 1229 },
+      { "id": 1231, "name": "オレンジ", "checked": false, "parentId": 1229 },
+      { "id": 1232, "name": "レッド", "checked": false, "parentId": 1229 },
+      { "id": 1233, "name": "ピンク", "checked": false, "parentId": 1229 },
+      { "id": 1234, "name": "パープル", "checked": false, "parentId": 1229 },
+      { "id": 1235, "name": "ブルー", "checked": false, "parentId": 1229 },
+      { "id": 1236, "name": "ライトブルー", "checked": false, "parentId": 1229 },
+      { "id": 1237, "name": "グリーン", "checked": false, "parentId": 1229 }
+    ]
+  },
+  {
+    "id": 1238,
+    "name": "クリスマスキャンドル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1239, "name": "レッド", "checked": false, "parentId": 1238 },
+      { "id": 1240, "name": "ブルー", "checked": false, "parentId": 1238 },
+      { "id": 1241, "name": "ゴールド", "checked": false, "parentId": 1238 },
+      { "id": 1242, "name": "ブラウン", "checked": false, "parentId": 1238 },
+      { "id": 1243, "name": "ピンク", "checked": false, "parentId": 1238 }
+    ]
+  },
+  {
+    "id": 1244,
+    "name": "くるまイス",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1245,
+    "name": "くるみわりにんぎょう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1246, "name": "レッド", "checked": false, "parentId": 1245 },
+      { "id": 1247, "name": "ブルー", "checked": false, "parentId": 1245 }
+    ]
+  },
+  {
+    "id": 1248,
+    "name": "クロスつきテーブル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1249,
+    "name": "くんせいマシン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1250, "name": "ブラック", "checked": false, "parentId": 1249 },
+      { "id": 1251, "name": "グリーン", "checked": false, "parentId": 1249 },
+      { "id": 1252, "name": "シルバー", "checked": false, "parentId": 1249 }
+    ]
+  },
+  {
+    "id": 1253,
+    "name": "ゲームセンターのイス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1254, "name": "レッド", "checked": false, "parentId": 1253 },
+      { "id": 1255, "name": "グレー", "checked": false, "parentId": 1253 },
+      { "id": 1256, "name": "ブルー", "checked": false, "parentId": 1253 }
+    ]
+  },
+  {
+    "id": 1257,
+    "name": "けいたいラジオ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1258, "name": "ホワイト", "checked": false, "parentId": 1257 },
+      { "id": 1259, "name": "イエロー", "checked": false, "parentId": 1257 },
+      { "id": 1260, "name": "レッド", "checked": false, "parentId": 1257 },
+      { "id": 1261, "name": "ピンク", "checked": false, "parentId": 1257 },
+      { "id": 1262, "name": "ブルー", "checked": false, "parentId": 1257 },
+      { "id": 1263, "name": "ライトブルー", "checked": false, "parentId": 1257 },
+      { "id": 1264, "name": "グリーン", "checked": false, "parentId": 1257 },
+      { "id": 1265, "name": "ブラック", "checked": false, "parentId": 1257 }
+    ]
+  },
+  {
+    "id": 1266,
+    "name": "げつめんいどうしゃ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1267,
+    "name": "ケトル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1268, "name": "レッド", "checked": false, "parentId": 1267 },
+      { "id": 1269, "name": "イエロー", "checked": false, "parentId": 1267 },
+      { "id": 1270, "name": "グリーン", "checked": false, "parentId": 1267 },
+      { "id": 1271, "name": "ブルー", "checked": false, "parentId": 1267 },
+      { "id": 1272, "name": "ブラック", "checked": false, "parentId": 1267 },
+      { "id": 1273, "name": "ネイビー", "checked": false, "parentId": 1267 },
+      { "id": 1274, "name": "ホワイト", "checked": false, "parentId": 1267 }
+    ]
+  },
+  {
+    "id": 1275,
+    "name": "ケトルベル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1276, "name": "ブラック", "checked": false, "parentId": 1275 },
+      { "id": 1277, "name": "レッド", "checked": false, "parentId": 1275 },
+      { "id": 1278, "name": "ブルー", "checked": false, "parentId": 1275 },
+      { "id": 1279, "name": "イエロー", "checked": false, "parentId": 1275 },
+      { "id": 1280, "name": "グリーン", "checked": false, "parentId": 1275 },
+      { "id": 1281, "name": "ピンク", "checked": false, "parentId": 1275 }
+    ]
+  },
+  {
+    "id": 1282,
+    "name": "けんすいスタンド",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1283, "name": "ブラック", "checked": false, "parentId": 1282 },
+      { "id": 1284, "name": "レッド", "checked": false, "parentId": 1282 },
+      { "id": 1285, "name": "イエロー", "checked": false, "parentId": 1282 },
+      { "id": 1286, "name": "ブルー", "checked": false, "parentId": 1282 }
+    ]
+  },
+  {
+    "id": 1287,
+    "name": "けんびきょう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1288, "name": "ホワイト", "checked": false, "parentId": 1287 },
+      { "id": 1289, "name": "シルバー", "checked": false, "parentId": 1287 },
+      { "id": 1290, "name": "ブラック", "checked": false, "parentId": 1287 }
+    ]
   }
 ]
