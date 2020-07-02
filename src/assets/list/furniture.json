@@ -3223,5 +3223,427 @@
       { "id": 1289, "name": "シルバー", "checked": false, "parentId": 1287 },
       { "id": 1290, "name": "ブラック", "checked": false, "parentId": 1287 }
     ]
+  },
+  {
+    "id": 1291,
+    "name": "コードレスでんわ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1292, "name": "ホワイト", "checked": false, "parentId": 1291 },
+      { "id": 1293, "name": "ブラック", "checked": false, "parentId": 1291 },
+      { "id": 1294, "name": "シルバー", "checked": false, "parentId": 1291 },
+      { "id": 1295, "name": "レッド", "checked": false, "parentId": 1291 },
+      { "id": 1296, "name": "ライトブルー", "checked": false, "parentId": 1291 },
+      { "id": 1297, "name": "ピンク", "checked": false, "parentId": 1291 },
+      { "id": 1298, "name": "イエロー", "checked": false, "parentId": 1291 }
+    ]
+  },
+  {
+    "id": 1299,
+    "name": "コーヒーカップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1300, "name": "無地", "checked": false, "parentId": 1299 },
+      { "id": 1301, "name": "草花", "checked": false, "parentId": 1299 },
+      { "id": 1302, "name": "水玉", "checked": false, "parentId": 1299 },
+      { "id": 1303, "name": "ローズ", "checked": false, "parentId": 1299 },
+      { "id": 1304, "name": "ロイヤル", "checked": false, "parentId": 1299 },
+      { "id": 1305, "name": "ゴージャス", "checked": false, "parentId": 1299 }
+    ]
+  },
+  {
+    "id": 1306,
+    "name": "コーヒーミル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1307,
+    "name": "ゴールドクレスト",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1308, "name": "ブラウン", "checked": false, "parentId": 1307 },
+      { "id": 1309, "name": "ブルー", "checked": false, "parentId": 1307 },
+      { "id": 1310, "name": "イエロー", "checked": false, "parentId": 1307 },
+      { "id": 1311, "name": "ブラック", "checked": false, "parentId": 1307 },
+      { "id": 1312, "name": "ホワイト", "checked": false, "parentId": 1307 }
+    ]
+  },
+  {
+    "id": 1313,
+    "name": "こうえんだい",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1314,
+    "name": "こうえんのとけい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1315, "name": "ブラック", "checked": false, "parentId": 1314 },
+      { "id": 1316, "name": "シルバー", "checked": false, "parentId": 1314 },
+      { "id": 1317, "name": "ホワイト", "checked": false, "parentId": 1314 },
+      { "id": 1318, "name": "ブラウン", "checked": false, "parentId": 1314 }
+    ]
+  },
+  {
+    "id": 1319,
+    "name": "ごうかなきものスタンド",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1320, "name": "鶴", "checked": false, "parentId": 1319 },
+      { "id": 1321, "name": "牡丹", "checked": false, "parentId": 1319 },
+      { "id": 1322, "name": "藤", "checked": false, "parentId": 1319 },
+      { "id": 1323, "name": "毬", "checked": false, "parentId": 1319 },
+      { "id": 1324, "name": "鷹", "checked": false, "parentId": 1319 }
+    ]
+  },
+  {
+    "id": 1325,
+    "name": "こうぎしつのイス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1326, "name": "ライトブラウン", "checked": false, "parentId": 1325 },
+      { "id": 1327, "name": "ダークブラウン", "checked": false, "parentId": 1325 }
+    ]
+  },
+  {
+    "id": 1328,
+    "name": "こうぎしつのつくえ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1329, "name": "ライトブラウン", "checked": false, "parentId": 1328 },
+      { "id": 1330, "name": "ダークブラウン", "checked": false, "parentId": 1328 },
+      { "id": 1331, "name": "ホワイト", "checked": false, "parentId": 1328 }
+    ]
+  },
+  {
+    "id": 1332,
+    "name": "こうきゅうコンポ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1333,
+    "name": "こうぐだな",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1334, "name": "ホワイト", "checked": false, "parentId": 1333 },
+      { "id": 1335, "name": "グリーン", "checked": false, "parentId": 1333 },
+      { "id": 1336, "name": "ブルー", "checked": false, "parentId": 1333 },
+      { "id": 1337, "name": "ブラック", "checked": false, "parentId": 1333 }
+    ]
+  },
+  {
+    "id": 1338,
+    "name": "こうぐばこ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1339, "name": "レッド", "checked": false, "parentId": 1338 },
+      { "id": 1340, "name": "グリーン", "checked": false, "parentId": 1338 },
+      { "id": 1341, "name": "ブルー", "checked": false, "parentId": 1338 },
+      { "id": 1342, "name": "オレンジ", "checked": false, "parentId": 1338 },
+      { "id": 1343, "name": "ターコイズ", "checked": false, "parentId": 1338 },
+      { "id": 1344, "name": "ピンク", "checked": false, "parentId": 1338 }
+    ]
+  },
+  {
+    "id": 1345,
+    "name": "こうじちゅうかんばん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1346, "name": "工事中のお詫び", "checked": false, "parentId": 1345 },
+      { "id": 1347, "name": "工事中のお詫び（弟）", "checked": false, "parentId": 1345 },
+      { "id": 1348, "name": "工事中のお詫び（兄）", "checked": false, "parentId": 1345 },
+      { "id": 1349, "name": "この先、工事中", "checked": false, "parentId": 1345 },
+      { "id": 1350, "name": "工事中につき注意", "checked": false, "parentId": 1345 }
+    ]
+  },
+  {
+    "id": 1351,
+    "name": "ごえもんぶろ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1352,
+    "name": "こおりのアーチ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1353, "name": "アイス", "checked": false, "parentId": 1352 },
+      { "id": 1354, "name": "アイスブルー", "checked": false, "parentId": 1352 },
+      { "id": 1355, "name": "アイスピンク", "checked": false, "parentId": 1352 },
+      { "id": 1356, "name": "アイスイエロー", "checked": false, "parentId": 1352 },
+      { "id": 1357, "name": "アイスオレンジ", "checked": false, "parentId": 1352 },
+      { "id": 1358, "name": "アイスグリーン", "checked": false, "parentId": 1352 },
+      { "id": 1359, "name": "アイスパープル", "checked": false, "parentId": 1352 }
+    ]
+  },
+  {
+    "id": 1360,
+    "name": "こおりのアート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1361, "name": "アイス", "checked": false, "parentId": 1360 },
+      { "id": 1362, "name": "アイスブルー", "checked": false, "parentId": 1360 },
+      { "id": 1363, "name": "アイスピンク", "checked": false, "parentId": 1360 },
+      { "id": 1364, "name": "アイスイエロー", "checked": false, "parentId": 1360 },
+      { "id": 1365, "name": "アイスオレンジ", "checked": false, "parentId": 1360 },
+      { "id": 1366, "name": "アイスグリーン", "checked": false, "parentId": 1360 },
+      { "id": 1367, "name": "アイスパープル", "checked": false, "parentId": 1360 }
+    ]
+  },
+  {
+    "id": 1368,
+    "name": "こおりのイス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1369, "name": "アイス", "checked": false, "parentId": 1368 },
+      { "id": 1370, "name": "アイスブルー", "checked": false, "parentId": 1368 },
+      { "id": 1371, "name": "アイスピンク", "checked": false, "parentId": 1368 },
+      { "id": 1372, "name": "アイスイエロー", "checked": false, "parentId": 1368 },
+      { "id": 1373, "name": "アイスオレンジ", "checked": false, "parentId": 1368 },
+      { "id": 1374, "name": "アイスグリーン", "checked": false, "parentId": 1368 },
+      { "id": 1375, "name": "アイスパープル", "checked": false, "parentId": 1368 }
+    ]
+  },
+  {
+    "id": 1376,
+    "name": "こおりのカウンター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1377, "name": "アイス", "checked": false, "parentId": 1376 },
+      { "id": 1378, "name": "アイスブルー", "checked": false, "parentId": 1376 },
+      { "id": 1379, "name": "アイスピンク", "checked": false, "parentId": 1376 },
+      { "id": 1380, "name": "アイスイエロー", "checked": false, "parentId": 1376 },
+      { "id": 1381, "name": "アイスオレンジ", "checked": false, "parentId": 1376 },
+      { "id": 1382, "name": "アイスグリーン", "checked": false, "parentId": 1376 },
+      { "id": 1383, "name": "アイスパープル", "checked": false, "parentId": 1376 }
+    ]
+  },
+  {
+    "id": 1384,
+    "name": "こおりのツリー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1385, "name": "アイス", "checked": false, "parentId": 1384 },
+      { "id": 1386, "name": "アイスブルー", "checked": false, "parentId": 1384 },
+      { "id": 1387, "name": "アイスピンク", "checked": false, "parentId": 1384 },
+      { "id": 1388, "name": "アイスイエロー", "checked": false, "parentId": 1384 },
+      { "id": 1389, "name": "アイスオレンジ", "checked": false, "parentId": 1384 },
+      { "id": 1390, "name": "アイスグリーン", "checked": false, "parentId": 1384 },
+      { "id": 1391, "name": "アイスパープル", "checked": false, "parentId": 1384 }
+    ]
+  },
+  {
+    "id": 1392,
+    "name": "こおりのテーブル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1393, "name": "アイス", "checked": false, "parentId": 1392 },
+      { "id": 1394, "name": "アイスブルー", "checked": false, "parentId": 1392 },
+      { "id": 1395, "name": "アイスピンク", "checked": false, "parentId": 1392 },
+      { "id": 1396, "name": "アイスイエロー", "checked": false, "parentId": 1392 },
+      { "id": 1397, "name": "アイスオレンジ", "checked": false, "parentId": 1392 },
+      { "id": 1398, "name": "アイスグリーン", "checked": false, "parentId": 1392 },
+      { "id": 1399, "name": "アイスパープル", "checked": false, "parentId": 1392 }
+    ]
+  },
+  {
+    "id": 1400,
+    "name": "こおりのパーテーション",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1401, "name": "アイス", "checked": false, "parentId": 1400 },
+      { "id": 1402, "name": "アイスブルー", "checked": false, "parentId": 1400 },
+      { "id": 1403, "name": "アイスピンク", "checked": false, "parentId": 1400 },
+      { "id": 1404, "name": "アイスイエロー", "checked": false, "parentId": 1400 },
+      { "id": 1405, "name": "アイスオレンジ", "checked": false, "parentId": 1400 },
+      { "id": 1406, "name": "アイスグリーン", "checked": false, "parentId": 1400 },
+      { "id": 1407, "name": "アイスパープル", "checked": false, "parentId": 1400 }
+    ]
+  },
+  {
+    "id": 1408,
+    "name": "こおりのはしら",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1409, "name": "アイス", "checked": false, "parentId": 1408 },
+      { "id": 1410, "name": "アイスブルー", "checked": false, "parentId": 1408 },
+      { "id": 1411, "name": "アイスピンク", "checked": false, "parentId": 1408 },
+      { "id": 1412, "name": "アイスイエロー", "checked": false, "parentId": 1408 },
+      { "id": 1413, "name": "アイスオレンジ", "checked": false, "parentId": 1408 },
+      { "id": 1414, "name": "アイスグリーン", "checked": false, "parentId": 1408 },
+      { "id": 1415, "name": "アイスパープル", "checked": false, "parentId": 1408 }
+    ]
+  },
+  {
+    "id": 1416,
+    "name": "こおりのベッド",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1417, "name": "アイス", "checked": false, "parentId": 1416 },
+      { "id": 1418, "name": "アイスブルー", "checked": false, "parentId": 1416 },
+      { "id": 1419, "name": "アイスピンク", "checked": false, "parentId": 1416 },
+      { "id": 1420, "name": "アイスイエロー", "checked": false, "parentId": 1416 },
+      { "id": 1421, "name": "アイスオレンジ", "checked": false, "parentId": 1416 },
+      { "id": 1422, "name": "アイスグリーン", "checked": false, "parentId": 1416 },
+      { "id": 1423, "name": "アイスパープル", "checked": false, "parentId": 1416 }
+    ]
+  },
+  {
+    "id": 1424,
+    "name": "こくばん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1425, "name": "無地", "checked": false, "parentId": 1424 },
+      { "id": 1426, "name": "放課後", "checked": false, "parentId": 1424 },
+      { "id": 1427, "name": "国語", "checked": false, "parentId": 1424 },
+      { "id": 1428, "name": "数学", "checked": false, "parentId": 1424 },
+      { "id": 1429, "name": "音楽", "checked": false, "parentId": 1424 },
+      { "id": 1430, "name": "部活", "checked": false, "parentId": 1424 },
+      { "id": 1431, "name": "美術", "checked": false, "parentId": 1424 }
+    ]
+  },
+  {
+    "id": 1432,
+    "name": "こけだま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1433,
+    "name": "こけむしたにわいし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1434,
+    "name": "ココナッツジュース",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1435,
+    "name": "ごじゅうのとう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1436, "name": "レッド", "checked": false, "parentId": 1435 },
+      { "id": 1437, "name": "ナチュラルウッド", "checked": false, "parentId": 1435 },
+      { "id": 1438, "name": "ダークウッド", "checked": false, "parentId": 1435 }
+    ]
+  },
+  {
+    "id": 1439,
+    "name": "コスモスのシャワー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1440, "name": "ピンク", "checked": false, "parentId": 1439 },
+      { "id": 1441, "name": "レッド", "checked": false, "parentId": 1439 },
+      { "id": 1442, "name": "ホワイト", "checked": false, "parentId": 1439 }
+    ]
+  },
+  {
+    "id": 1443,
+    "name": "こたつ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1444,
+    "name": "こっかくひょうほん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1445,
+    "name": "コッフェル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1446, "name": "イエロー", "checked": false, "parentId": 1445 },
+      { "id": 1447, "name": "レッド", "checked": false, "parentId": 1445 },
+      { "id": 1448, "name": "ブルー", "checked": false, "parentId": 1445 },
+      { "id": 1449, "name": "グリーン", "checked": false, "parentId": 1445 },
+      { "id": 1450, "name": "ブラウン", "checked": false, "parentId": 1445 },
+      { "id": 1451, "name": "ブラック", "checked": false, "parentId": 1445 }
+    ]
+  },
+  {
+    "id": 1452,
+    "name": "ごばん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1453,
+    "name": "ゴミぶくろ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1454, "name": "ブラック", "checked": false, "parentId": 1453 },
+      { "id": 1455, "name": "ホワイト", "checked": false, "parentId": 1453 },
+      { "id": 1456, "name": "ブルー", "checked": false, "parentId": 1453 },
+      { "id": 1457, "name": "イエロー", "checked": false, "parentId": 1453 }
+    ]
+  },
+  {
+    "id": 1458,
+    "name": "こもれびひろばのかざり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1459,
+    "name": "コルクボード",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1460, "name": "ナチュラル", "checked": false, "parentId": 1459 },
+      { "id": 1461, "name": "ホワイト", "checked": false, "parentId": 1459 },
+      { "id": 1462, "name": "ブルー", "checked": false, "parentId": 1459 }
+    ]
+  },
+  {
+    "id": 1463,
+    "name": "ゴルフバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1464, "name": "レッド", "checked": false, "parentId": 1463 },
+      { "id": 1465, "name": "グリーン", "checked": false, "parentId": 1463 },
+      { "id": 1466, "name": "ピンク", "checked": false, "parentId": 1463 },
+      { "id": 1467, "name": "マルチカラー", "checked": false, "parentId": 1463 },
+      { "id": 1468, "name": "ブラウン", "checked": false, "parentId": 1463 },
+      { "id": 1469, "name": "シルバー", "checked": false, "parentId": 1463 }
+    ]
+  },
+  {
+    "id": 1470,
+    "name": "ゴング",
+    "checked": false,
+    "variation": false
   }
 ]
