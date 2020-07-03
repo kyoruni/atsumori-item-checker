@@ -2,11 +2,13 @@
 
 $mainColor: #a4e2cf;
 $sliderColor: yellow;
-$checkBoxColor: #7dc8d9;
+$checkBoxColor: #7dc8d9; // 親子全てチェック済のカラー
+$checkBoxColorNoComplete: #fbbfca; // 子供に未チェックがある場合のカラー
 
 // js側で使用できるように
 :export {
   mainColor: $mainColor;
   sliderColor: $sliderColor;
   checkBoxColor: $checkBoxColor;
+  checkBoxColorNoComplete: $checkBoxColorNoComplete;
 }

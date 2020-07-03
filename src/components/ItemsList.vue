@@ -27,7 +27,7 @@
               <v-list-item-action>
                 <v-checkbox
                   v-model="displayItem.checked"
-                  :color="checkBoxColor"
+                  :color="checkBoxColor(displayItem)"
                   :ripple="false"
                   @change="changeParentCheckBox(displayItem)"
                 />
@@ -40,7 +40,7 @@
               <v-list-item-action>
                 <v-checkbox
                   v-model="color.checked"
-                  :color="checkBoxColor"
+                  :color="checkBoxColor(color)"
                   :ripple="false"
                   @change="changeChildCheckBox(color)"
                 />
@@ -55,7 +55,7 @@
               <v-list-item-action>
                 <v-checkbox
                   v-model="displayItem.checked"
-                  :color="checkBoxColor"
+                  :color="checkBoxColor(displayItem)"
                   :ripple="false"
                   @change="changeParentCheckBox(displayItem)"
                 />
@@ -98,9 +98,19 @@ export default {
     }
   },
   computed: {
-    checkBoxColor () {
-      return variables.checkBoxColor
+    checkBoxColor: function () {
+      return function (item) {
+        // バリエーションなし：通常のチェック済カラー
+        // 親IDあり：子供のアイテムなので、通常のチェック済カラー
+        if (!item.variation || item.parentId) return variables.checkBoxColor
+
+        const checkedColors = item.colors.filter(color => color.checked === true)
+        return item.colors.length === checkedColors.length ? variables.checkBoxColor : variables.checkBoxColorNoComplete
+      }
     },
+    // checkBoxColor () {
+    //   return variables.checkBoxColor
+    // },
     storageKey () {
       return this.category + 'v0.02'
     },
