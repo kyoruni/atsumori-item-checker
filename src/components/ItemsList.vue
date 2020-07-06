@@ -142,6 +142,9 @@ export default {
         case 'fish':
           labelText = 'サカナ'
           break
+        case 'seaCreature':
+          labelText = 'うみのさち'
+          break
         case 'fossil':
           labelText = 'かせき'
           break

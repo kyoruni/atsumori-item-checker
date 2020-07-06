@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "name": "アコヤガイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "アマエビ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3,
+    "name": "アワビ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 4,
+    "name": "イセエビ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 5,
+    "name": "イソギンチャク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 6,
+    "name": "ウニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "ウミウシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 8,
+    "name": "ウミブドウ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 9,
+    "name": "オイスター",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 10,
+    "name": "オウムガイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 11,
+    "name": "オオシャコガイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "カイロウドウケツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 13,
+    "name": "ガザミ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 14,
+    "name": "カブトガニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 15,
+    "name": "クルマエビ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 16,
+    "name": "コウモリダコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 17,
+    "name": "サザエ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 18,
+    "name": "シャコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 19,
+    "name": "ズワイガニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 20,
+    "name": "センジュナマコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 21,
+    "name": "ダイオウグソクムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 22,
+    "name": "タカアシガニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 23,
+    "name": "タコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 24,
+    "name": "タラバガニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 25,
+    "name": "ダンジネスクラブ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 26,
+    "name": "チンアナゴ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 27,
+    "name": "ナマコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 28,
+    "name": "バイガイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 29,
+    "name": "パイプウニ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 30,
+    "name": "ヒトデ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 31,
+    "name": "ヒラムシ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 32,
+    "name": "フジツボ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 33,
+    "name": "ホタテ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 34,
+    "name": "ホタルイカ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 35,
+    "name": "ホヤ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 36,
+    "name": "ミズクラゲ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 37,
+    "name": "ムールガイ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 38,
+    "name": "メンダコ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 39,
+    "name": "ロブスター",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 40,
+    "name": "ワカメ",
+    "checked": false,
+    "variation": false
+  }
+]
+
+
+
+

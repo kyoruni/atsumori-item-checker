@@ -119,6 +119,13 @@
     "showFlg": true
   },
   {
+    "id": 21,
+    "name": "seaCreature",
+    "text": "うみのさち",
+    "icon": "fas fa-fish",
+    "showFlg": true
+  },
+  {
     "id": 18,
     "name": "fossil",
     "text": "かせき",
