@@ -79,6 +79,7 @@ import rugList from '@/assets/list/rug.json'
 import umbrellaList from '@/assets/list/umbrella.json'
 import bugList from '@/assets/list/bug.json'
 import fishList from '@/assets/list/fish.json'
+import seaCreatureList from '@/assets/list/seaCreatures.json'
 import fossilList from '@/assets/list/fossil.json'
 import musicList from '@/assets/list/music.json'
 import ItemSearch from '@/components/ItemSearch'
@@ -228,6 +229,10 @@ export default {
         case 'fish':
           this.items = fishList
           this.displayItems = fishList
+          break
+        case 'seaCreature':
+          this.items = seaCreatureList
+          this.displayItems = seaCreatureList
           break
         case 'fossil':
           this.items = fossilList
