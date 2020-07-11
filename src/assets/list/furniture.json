@@ -4506,5 +4506,105 @@
       { "id": 1808, "name": "ホワイト", "checked": false, "parentId": 1804 },
       { "id": 1809, "name": "カラフル", "checked": false, "parentId": 1804 }
     ]
+  },
+  {
+    "id": 1810,
+    "name": "せいろ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1811,
+    "name": "せかいちず",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1812, "name": "太平洋", "checked": false, "parentId": 1811 },
+      { "id": 1813, "name": "大西洋", "checked": false, "parentId": 1811 }
+    ]
+  },
+  {
+    "id": 1814,
+    "name": "せかいのみちしるべ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1815, "name": "ナチュラル", "checked": false, "parentId": 1814 },
+      { "id": 1816, "name": "ホワイト", "checked": false, "parentId": 1814 },
+      { "id": 1817, "name": "ブラック", "checked": false, "parentId": 1814 },
+      { "id": 1818, "name": "カラフル", "checked": false, "parentId": 1814 },
+      { "id": 1819, "name": "マリン", "checked": false, "parentId": 1814 },
+      { "id": 1820, "name": "オールド", "checked": false, "parentId": 1814 }
+    ]
+  },
+  {
+    "id": 1821,
+    "name": "せきしし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1822, "name": "ナチュラル", "checked": false, "parentId": 1821 },
+      { "id": 1823, "name": "白", "checked": false, "parentId": 1821 },
+      { "id": 1824, "name": "苔石", "checked": false, "parentId": 1821 }
+    ]
+  },
+  {
+    "id": 1825,
+    "name": "せきひ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1826, "name": "黒", "checked": false, "parentId": 1825 },
+      { "id": 1827, "name": "苔石", "checked": false, "parentId": 1825 }
+    ]
+  },
+  {
+    "id": 1828,
+    "name": "せんたくおけ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1829,
+    "name": "せんたくき",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1830, "name": "ホワイト", "checked": false, "parentId": 1829 },
+      { "id": 1831, "name": "ピンク", "checked": false, "parentId": 1829 },
+      { "id": 1832, "name": "ブルー", "checked": false, "parentId": 1829 },
+      { "id": 1833, "name": "グリーン", "checked": false, "parentId": 1829 },
+      { "id": 1834, "name": "イエロー", "checked": false, "parentId": 1829 },
+      { "id": 1835, "name": "ブラック", "checked": false, "parentId": 1829 }
+    ]
+  },
+  {
+    "id": 1836,
+    "name": "セントラルヒーティング",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1837,
+    "name": "せんぷうき",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1838, "name": "ホワイト", "checked": false, "parentId": 1837 },
+      { "id": 1839, "name": "ブラック", "checked": false, "parentId": 1837 },
+      { "id": 1840, "name": "ライトブルー", "checked": false, "parentId": 1837 },
+      { "id": 1841, "name": "ピンク", "checked": false, "parentId": 1837 }
+    ]
+  },
+  {
+    "id": 1842,
+    "name": "せんめんだい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1843, "name": "ホワイト", "checked": false, "parentId": 1842 },
+      { "id": 1844, "name": "ブラック", "checked": false, "parentId": 1842 },
+      { "id": 1845, "name": "ベージュ", "checked": false, "parentId": 1842 }
+    ]
   }
 ]
