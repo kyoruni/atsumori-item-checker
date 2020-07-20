@@ -3,7 +3,7 @@
     <header-nav @changeTab="changeTab($event)"/>
     <v-container>
       <v-row>
-        <v-col cols="12" md="6" offset-md="3">
+        <v-col cols="12" md="8" offset-md="2">
           <items-list :category="currentTab"/>
         </v-col>
       </v-row>
