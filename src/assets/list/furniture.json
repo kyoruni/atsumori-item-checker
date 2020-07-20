@@ -4724,5 +4724,282 @@
       { "id": 1896, "name": "レッド", "checked": false, "parentId": 1893 },
       { "id": 1897, "name": "ホワイト", "checked": false, "parentId": 1893 }
     ]
+  },
+  {
+    "id": 1898,
+    "name": "ダーツボード",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1899,
+    "name": "ダーラヘスト",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1900, "name": "レッド", "checked": false, "parentId": 1899 },
+      { "id": 1901, "name": "ブルー", "checked": false, "parentId": 1899 },
+      { "id": 1902, "name": "ホワイト", "checked": false, "parentId": 1899 }
+    ]
+  },
+  {
+    "id": 1903,
+    "name": "たいじゅうそくていき",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1904, "name": "ホワイト", "checked": false, "parentId": 1903 },
+      { "id": 1905, "name": "ブラック", "checked": false, "parentId": 1903 },
+      { "id": 1906, "name": "レッド", "checked": false, "parentId": 1903 },
+      { "id": 1907, "name": "ブルー", "checked": false, "parentId": 1903 },
+      { "id": 1908, "name": "イエロー", "checked": false, "parentId": 1903 },
+      { "id": 1909, "name": "グリーン", "checked": false, "parentId": 1903 },
+      { "id": 1910, "name": "ブラウン", "checked": false, "parentId": 1903 }
+    ]
+  },
+  {
+    "id": 1911,
+    "name": "ダイナーなイス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1912, "name": "レッド", "checked": false, "parentId": 1911 },
+      { "id": 1913, "name": "ブルー", "checked": false, "parentId": 1911 },
+      { "id": 1914, "name": "イエロー", "checked": false, "parentId": 1911 },
+      { "id": 1915, "name": "エメラルド", "checked": false, "parentId": 1911 },
+      { "id": 1916, "name": "ピンク", "checked": false, "parentId": 1911 },
+      { "id": 1917, "name": "クリーム", "checked": false, "parentId": 1911 },
+      { "id": 1918, "name": "ブラック", "checked": false, "parentId": 1911 }
+    ]
+  },
+  {
+    "id": 1919,
+    "name": "ダイナーなカウンターチェア",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1920, "name": "レッド", "checked": false, "parentId": 1919 },
+      { "id": 1921, "name": "ブルー", "checked": false, "parentId": 1919 },
+      { "id": 1922, "name": "イエロー", "checked": false, "parentId": 1919 },
+      { "id": 1923, "name": "エメラルド", "checked": false, "parentId": 1919 },
+      { "id": 1924, "name": "ピンク", "checked": false, "parentId": 1919 },
+      { "id": 1925, "name": "クリーム", "checked": false, "parentId": 1919 },
+      { "id": 1926, "name": "ブラック", "checked": false, "parentId": 1919 }
+    ]
+  },
+  {
+    "id": 1927,
+    "name": "ダイナーなソファ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1928, "name": "レッド", "checked": false, "parentId": 1927 },
+      { "id": 1929, "name": "ブルー", "checked": false, "parentId": 1927 },
+      { "id": 1930, "name": "イエロー", "checked": false, "parentId": 1927 },
+      { "id": 1931, "name": "エメラルド", "checked": false, "parentId": 1927 },
+      { "id": 1932, "name": "ピンク", "checked": false, "parentId": 1927 },
+      { "id": 1933, "name": "クリーム", "checked": false, "parentId": 1927 },
+      { "id": 1934, "name": "ブラック", "checked": false, "parentId": 1927 }
+    ]
+  },
+  {
+    "id": 1935,
+    "name": "ダイナーなダイニングテーブル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1936, "name": "レッド", "checked": false, "parentId": 1935 },
+      { "id": 1937, "name": "ブルー", "checked": false, "parentId": 1935 },
+      { "id": 1938, "name": "イエロー", "checked": false, "parentId": 1935 },
+      { "id": 1939, "name": "エメラルド", "checked": false, "parentId": 1935 },
+      { "id": 1940, "name": "ピンク", "checked": false, "parentId": 1935 },
+      { "id": 1941, "name": "クリーム", "checked": false, "parentId": 1935 },
+      { "id": 1942, "name": "ブラック", "checked": false, "parentId": 1935 }
+    ]
+  },
+  {
+    "id": 1943,
+    "name": "ダイナーなネオンかんばん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1944, "name": "レッド", "checked": false, "parentId": 1943 },
+      { "id": 1945, "name": "オレンジ", "checked": false, "parentId": 1943 },
+      { "id": 1946, "name": "グリーン", "checked": false, "parentId": 1943 },
+      { "id": 1947, "name": "パープル", "checked": false, "parentId": 1943 },
+      { "id": 1948, "name": "ブルー", "checked": false, "parentId": 1943 }
+    ]
+  },
+  {
+    "id": 1949,
+    "name": "ダイナーなネオンクロック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1950, "name": "レッド", "checked": false, "parentId": 1949 },
+      { "id": 1951, "name": "ブルー", "checked": false, "parentId": 1949 },
+      { "id": 1952, "name": "イエロー", "checked": false, "parentId": 1949 },
+      { "id": 1953, "name": "エメラルド", "checked": false, "parentId": 1949 },
+      { "id": 1954, "name": "ピンク", "checked": false, "parentId": 1949 },
+      { "id": 1955, "name": "クリーム", "checked": false, "parentId": 1949 },
+      { "id": 1956, "name": "パープル", "checked": false, "parentId": 1949 }
+    ]
+  },
+  {
+    "id": 1957,
+    "name": "ダイナーなミニテーブル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1958, "name": "レッド", "checked": false, "parentId": 1957 },
+      { "id": 1959, "name": "ブルー", "checked": false, "parentId": 1957 },
+      { "id": 1960, "name": "イエロー", "checked": false, "parentId": 1957 },
+      { "id": 1961, "name": "エメラルド", "checked": false, "parentId": 1957 },
+      { "id": 1962, "name": "ピンク", "checked": false, "parentId": 1957 },
+      { "id": 1963, "name": "クリーム", "checked": false, "parentId": 1957 },
+      { "id": 1964, "name": "ブラック", "checked": false, "parentId": 1957 }
+    ]
+  },
+  {
+    "id": 1965,
+    "name": "タイプライター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1966, "name": "ブラック", "checked": false, "parentId": 1965 },
+      { "id": 1967, "name": "ブルー", "checked": false, "parentId": 1965 },
+      { "id": 1968, "name": "ブラウン", "checked": false, "parentId": 1965 },
+      { "id": 1969, "name": "グリーン", "checked": false, "parentId": 1965 },
+      { "id": 1970, "name": "ゴールド", "checked": false, "parentId": 1965 },
+      { "id": 1971, "name": "シルバー", "checked": false, "parentId": 1965 }
+    ]
+  },
+  {
+    "id": 1972,
+    "name": "たいまつ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1973,
+    "name": "タイヤのゆうぐ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1974, "name": "ブラック", "checked": false, "parentId": 1973 },
+      { "id": 1975, "name": "レッド", "checked": false, "parentId": 1973 },
+      { "id": 1976, "name": "イエロー", "checked": false, "parentId": 1973 },
+      { "id": 1977, "name": "エメラルド", "checked": false, "parentId": 1973 },
+      { "id": 1978, "name": "ブルー", "checked": false, "parentId": 1973 },
+      { "id": 1979, "name": "ホワイト", "checked": false, "parentId": 1973 }
+    ]
+  },
+  {
+    "id": 1980,
+    "name": "ダイヤルしきでんわ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1981, "name": "ブラック", "checked": false, "parentId": 1980 },
+      { "id": 1982, "name": "ホワイト", "checked": false, "parentId": 1980 },
+      { "id": 1983, "name": "グリーン", "checked": false, "parentId": 1980 },
+      { "id": 1984, "name": "ブルー", "checked": false, "parentId": 1980 },
+      { "id": 1985, "name": "レッド", "checked": false, "parentId": 1980 },
+      { "id": 1986, "name": "イエロー", "checked": false, "parentId": 1980 },
+      { "id": 1987, "name": "オレンジ", "checked": false, "parentId": 1980 },
+      { "id": 1988, "name": "シルバー", "checked": false, "parentId": 1980 }
+    ]
+  },
+  {
+    "id": 1989,
+    "name": "たいりょうき",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1990, "name": "大漁", "checked": false, "parentId": 1989 },
+      { "id": 1991, "name": "鶴亀丸", "checked": false, "parentId": 1989 },
+      { "id": 1992, "name": "丸福丸", "checked": false, "parentId": 1989 },
+      { "id": 1993, "name": "魚政丸", "checked": false, "parentId": 1989 }
+    ]
+  },
+  {
+    "id": 1994,
+    "name": "タウラスのバスタブ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1995,
+    "name": "タオルラック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1996, "name": "シルバー", "checked": false, "parentId": 1995 },
+      { "id": 1997, "name": "ゴールド", "checked": false, "parentId": 1995 },
+      { "id": 1998, "name": "ブロンズ", "checked": false, "parentId": 1995 },
+      { "id": 1999, "name": "ブラック", "checked": false, "parentId": 1995 }
+    ]
+  },
+  {
+    "id": 2000,
+    "name": "たかいにわいし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2001,
+    "name": "たきび",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2002,
+    "name": "たけのいちりんざし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2003, "name": "青竹", "checked": false, "parentId": 2002 },
+      { "id": 2004, "name": "枯竹", "checked": false, "parentId": 2002 },
+      { "id": 2005, "name": "煤竹", "checked": false, "parentId": 2002 }
+    ]
+  },
+  {
+    "id": 2006,
+    "name": "たけのかご",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2007, "name": "青竹", "checked": false, "parentId": 2006 },
+      { "id": 2008, "name": "枯竹", "checked": false, "parentId": 2006 },
+      { "id": 2009, "name": "煤竹", "checked": false, "parentId": 2006 }
+    ]
+  },
+  {
+    "id": 2010,
+    "name": "たけのキャンドルホルダー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2011, "name": "青竹", "checked": false, "parentId": 2010 },
+      { "id": 2012, "name": "枯竹", "checked": false, "parentId": 2010 },
+      { "id": 2013, "name": "煤竹", "checked": false, "parentId": 2010 }
+    ]
+  },
+  {
+    "id": 2014,
+    "name": "たけのくるまどめ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2015, "name": "青竹", "checked": false, "parentId": 2014 },
+      { "id": 2016, "name": "枯竹", "checked": false, "parentId": 2014 },
+      { "id": 2017, "name": "煤竹", "checked": false, "parentId": 2014 }
+    ]
+  },
+  {
+    "id": 2018,
+    "name": "たけのこランプ",
+    "checked": false,
+    "variation": false
   }
 ]
