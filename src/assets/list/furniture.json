@@ -5613,5 +5613,270 @@
       { "id": 2259, "name": "ホワイト", "checked": false, "parentId": 2254 },
       { "id": 2260, "name": "レインボー", "checked": false, "parentId": 2254 }
     ]
+  },
+  {
+    "id": 2261,
+    "name": "テーブルクリスマスツリー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2262, "name": "カラフル", "checked": false, "parentId": 2261 },
+      { "id": 2263, "name": "ブルー", "checked": false, "parentId": 2261 },
+      { "id": 2264, "name": "レッド", "checked": false, "parentId": 2261 },
+      { "id": 2265, "name": "ピンク", "checked": false, "parentId": 2261 },
+      { "id": 2266, "name": "ゴールド", "checked": false, "parentId": 2261 },
+      { "id": 2267, "name": "ホワイト", "checked": false, "parentId": 2261 }
+    ]
+  },
+  {
+    "id": 2268,
+    "name": "テーブルサッカー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2269, "name": "ブラウン", "checked": false, "parentId": 2268 },
+      { "id": 2270, "name": "ダークブラウン", "checked": false, "parentId": 2268 },
+      { "id": 2271, "name": "ブルー", "checked": false, "parentId": 2268 }
+    ]
+  },
+  {
+    "id": 2272,
+    "name": "テーブルセッティング",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2273, "name": "ホワイト", "checked": false, "parentId": 2272 },
+      { "id": 2274, "name": "ピンク", "checked": false, "parentId": 2272 },
+      { "id": 2275, "name": "イエロー", "checked": false, "parentId": 2272 },
+      { "id": 2276, "name": "ライトブルー", "checked": false, "parentId": 2272 },
+      { "id": 2277, "name": "ブラック", "checked": false, "parentId": 2272 }
+    ]
+  },
+  {
+    "id": 2278,
+    "name": "テーブルランプ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2279,
+    "name": "ティーセット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2280, "name": "グリーン", "checked": false, "parentId": 2279 },
+      { "id": 2281, "name": "ブルー", "checked": false, "parentId": 2279 },
+      { "id": 2282, "name": "レッド", "checked": false, "parentId": 2279 },
+      { "id": 2283, "name": "ホワイト", "checked": false, "parentId": 2279 }
+    ]
+  },
+  {
+    "id": 2284,
+    "name": "ディレクターズチェア",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2285, "name": "ライトブラウン", "checked": false, "parentId": 2284 },
+      { "id": 2286, "name": "ダークブラウン", "checked": false, "parentId": 2284 },
+      { "id": 2287, "name": "ホワイト", "checked": false, "parentId": 2284 },
+      { "id": 2288, "name": "ブラック", "checked": false, "parentId": 2284 }
+    ]
+  },
+  {
+    "id": 2289,
+    "name": "ておしぐるま",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2290, "name": "ナチュラル", "checked": false, "parentId": 2289 },
+      { "id": 2291, "name": "カラフル", "checked": false, "parentId": 2289 },
+      { "id": 2292, "name": "ポップ", "checked": false, "parentId": 2289 },
+      { "id": 2293, "name": "クール", "checked": false, "parentId": 2289 },
+      { "id": 2294, "name": "パステル", "checked": false, "parentId": 2289 },
+      { "id": 2295, "name": "キュート", "checked": false, "parentId": 2289 }
+    ]
+  },
+  {
+    "id": 2296,
+    "name": "ておしポンプ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2297, "name": "グリーン", "checked": false, "parentId": 2296 },
+      { "id": 2298, "name": "ブラック", "checked": false, "parentId": 2296 },
+      { "id": 2299, "name": "シルバー", "checked": false, "parentId": 2296 },
+      { "id": 2300, "name": "ブラウン", "checked": false, "parentId": 2296 }
+    ]
+  },
+  {
+    "id": 2301,
+    "name": "デコイ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2302, "name": "ナチュラル", "checked": false, "parentId": 2301 },
+      { "id": 2303, "name": "マガモ", "checked": false, "parentId": 2301 },
+      { "id": 2304, "name": "カルガモ", "checked": false, "parentId": 2301 },
+      { "id": 2305, "name": "スズガモ", "checked": false, "parentId": 2301 },
+      { "id": 2306, "name": "ホシハジロ", "checked": false, "parentId": 2301 },
+      { "id": 2307, "name": "オオフナガモ", "checked": false, "parentId": 2301 },
+      { "id": 2308, "name": "アヒル", "checked": false, "parentId": 2301 }
+    ]
+  },
+  {
+    "id": 2309,
+    "name": "デジタルアラームどけい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2310, "name": "オレンジ", "checked": false, "parentId": 2309 },
+      { "id": 2311, "name": "ライム", "checked": false, "parentId": 2309 },
+      { "id": 2312, "name": "ライトブルー", "checked": false, "parentId": 2309 },
+      { "id": 2313, "name": "ブルー", "checked": false, "parentId": 2309 },
+      { "id": 2314, "name": "パープル", "checked": false, "parentId": 2309 },
+      { "id": 2315, "name": "ピンク", "checked": false, "parentId": 2309 },
+      { "id": 2316, "name": "ホワイト", "checked": false, "parentId": 2309 },
+      { "id": 2317, "name": "ブラック", "checked": false, "parentId": 2309 }
+    ]
+  },
+  {
+    "id": 2318,
+    "name": "てじなセット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2319, "name": "レッド", "checked": false, "parentId": 2318 },
+      { "id": 2320, "name": "ブルー", "checked": false, "parentId": 2318 }
+    ]
+  },
+  {
+    "id": 2321,
+    "name": "デスクトップPC",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2322, "name": "ブラック", "checked": false, "parentId": 2321 },
+      { "id": 2323, "name": "シルバー", "checked": false, "parentId": 2321 },
+      { "id": 2324, "name": "ホワイト", "checked": false, "parentId": 2321 },
+      { "id": 2325, "name": "ピンク", "checked": false, "parentId": 2321 }
+    ]
+  },
+  {
+    "id": 2326,
+    "name": "てっこつ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2327, "name": "レッド", "checked": false, "parentId": 2326 },
+      { "id": 2328, "name": "グレー", "checked": false, "parentId": 2326 },
+      { "id": 2329, "name": "ブラック", "checked": false, "parentId": 2326 }
+    ]
+  },
+  {
+    "id": 2330,
+    "name": "てつどうもけい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2331, "name": "春", "checked": false, "parentId": 2330 },
+      { "id": 2332, "name": "夏", "checked": false, "parentId": 2330 },
+      { "id": 2333, "name": "秋", "checked": false, "parentId": 2330 },
+      { "id": 2334, "name": "冬", "checked": false, "parentId": 2330 }
+    ]
+  },
+  {
+    "id": 2335,
+    "name": "てまわしオルガン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2336, "name": "ナチュラル", "checked": false, "parentId": 2335 },
+      { "id": 2337, "name": "ブルー", "checked": false, "parentId": 2335 },
+      { "id": 2338, "name": "イエロー", "checked": false, "parentId": 2335 },
+      { "id": 2339, "name": "ダークブラウン", "checked": false, "parentId": 2335 }
+    ]
+  },
+  {
+    "id": 2340,
+    "name": "テラリウム",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2341, "name": "ブラック", "checked": false, "parentId": 2340 },
+      { "id": 2342, "name": "ゴールド", "checked": false, "parentId": 2340 },
+      { "id": 2343, "name": "ブラウン", "checked": false, "parentId": 2340 }
+    ]
+  },
+  {
+    "id": 2344,
+    "name": "テレビカメラ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2345, "name": "ブラック", "checked": false, "parentId": 2344 },
+      { "id": 2346, "name": "ホワイト", "checked": false, "parentId": 2344 }
+    ]
+  },
+  {
+    "id": 2347,
+    "name": "でんしこうさくセット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2348, "name": "グリーン", "checked": false, "parentId": 2347 },
+      { "id": 2349, "name": "ブラック", "checked": false, "parentId": 2347 }
+    ]
+  },
+  {
+    "id": 2350,
+    "name": "でんしレンジ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2351, "name": "ホワイト", "checked": false, "parentId": 2350 },
+      { "id": 2352, "name": "ブラック", "checked": false, "parentId": 2350 },
+      { "id": 2353, "name": "レッド", "checked": false, "parentId": 2350 },
+      { "id": 2354, "name": "グリーン", "checked": false, "parentId": 2350 }
+    ]
+  },
+  {
+    "id": 2355,
+    "name": "でんちゅう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2356, "name": "広告なし", "checked": false, "parentId": 2355 },
+      { "id": 2357, "name": "広告あり", "checked": false, "parentId": 2355 }
+    ]
+  },
+  {
+    "id": 2358,
+    "name": "でんどうキックボード",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2359, "name": "レッド", "checked": false, "parentId": 2358 },
+      { "id": 2360, "name": "ホワイト", "checked": false, "parentId": 2358 },
+      { "id": 2361, "name": "イエロー", "checked": false, "parentId": 2358 },
+      { "id": 2362, "name": "グリーン", "checked": false, "parentId": 2358 },
+      { "id": 2363, "name": "ブルー", "checked": false, "parentId": 2358 },
+      { "id": 2364, "name": "ピンク", "checked": false, "parentId": 2358 }
+    ]
+  },
+  {
+    "id": 2365,
+    "name": "でんわボックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2366, "name": "レッド", "checked": false, "parentId": 2365 },
+      { "id": 2367, "name": "グリーン", "checked": false, "parentId": 2365 },
+      { "id": 2368, "name": "ブルー", "checked": false, "parentId": 2365 },
+      { "id": 2369, "name": "イエロー", "checked": false, "parentId": 2365 },
+      { "id": 2370, "name": "ブラウン", "checked": false, "parentId": 2365 },
+      { "id": 2371, "name": "ホワイト", "checked": false, "parentId": 2365 },
+      { "id": 2372, "name": "ブラック", "checked": false, "parentId": 2365 },
+      { "id": 2373, "name": "ゴールド", "checked": false, "parentId": 2365 }
+    ]
   }
 ]
