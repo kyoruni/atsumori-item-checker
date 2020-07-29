@@ -6146,5 +6146,45 @@
     "name": "なんきょくてん",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 2478,
+    "name": "にだんベッド",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2479, "name": "シルバー", "checked": false, "parentId": 2478 },
+      { "id": 2480, "name": "ブラック", "checked": false, "parentId": 2478 },
+      { "id": 2481, "name": "ホワイト", "checked": false, "parentId": 2478 },
+      { "id": 2482, "name": "レッド", "checked": false, "parentId": 2478 },
+      { "id": 2483, "name": "ブルー", "checked": false, "parentId": 2478 },
+      { "id": 2484, "name": "イエロー", "checked": false, "parentId": 2478 },
+      { "id": 2485, "name": "ピンク", "checked": false, "parentId": 2478 }
+    ]
+  },
+  {
+    "id": 2486,
+    "name": "にほんとう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2487, "name": "黒", "checked": false, "parentId": 2486 },
+      { "id": 2488, "name": "紺", "checked": false, "parentId": 2486 },
+      { "id": 2489, "name": "白", "checked": false, "parentId": 2486 },
+      { "id": 2490, "name": "赤", "checked": false, "parentId": 2486 },
+      { "id": 2491, "name": "金", "checked": false, "parentId": 2486 }
+    ]
+  },
+  {
+    "id": 2492,
+    "name": "ニュートラルコーナー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2493,
+    "name": "ニュートンのゆりかご",
+    "checked": false,
+    "variation": false
   }
 ]
