@@ -6267,5 +6267,36 @@
       { "id": 2531, "name": "陶土の恐竜", "checked": false, "parentId": 2525 },
       { "id": 2532, "name": "陶土のケーキ", "checked": false, "parentId": 2525 }
     ]
+  },
+  {
+    "id": 2533,
+    "name": "ノートパソコン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2534, "name": "ブラック", "checked": false, "parentId": 2533 },
+      { "id": 2535, "name": "シルバー", "checked": false, "parentId": 2533 },
+      { "id": 2536, "name": "ホワイト", "checked": false, "parentId": 2533 },
+      { "id": 2537, "name": "レッド", "checked": false, "parentId": 2533 },
+      { "id": 2538, "name": "ピンク", "checked": false, "parentId": 2533 },
+      { "id": 2539, "name": "ブルー", "checked": false, "parentId": 2533 },
+      { "id": 2540, "name": "ゴールド", "checked": false, "parentId": 2533 }
+    ]
+  },
+  {
+    "id": 2541,
+    "name": "ノームのおきもの",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2542, "name": "はつらつノーム", "checked": false, "parentId": 2541 },
+      { "id": 2543, "name": "ねぼすけノーム", "checked": false, "parentId": 2541 },
+      { "id": 2544, "name": "おとぼけノーム", "checked": false, "parentId": 2541 },
+      { "id": 2545, "name": "たよれるノーム", "checked": false, "parentId": 2541 },
+      { "id": 2546, "name": "はらぺこノーム", "checked": false, "parentId": 2541 },
+      { "id": 2547, "name": "のんびりノーム", "checked": false, "parentId": 2541 },
+      { "id": 2548, "name": "熱血ノーム", "checked": false, "parentId": 2541 },
+      { "id": 2549, "name": "チョイわるノーム", "checked": false, "parentId": 2541 }
+    ]
   }
 ]
