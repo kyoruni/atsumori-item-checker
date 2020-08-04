@@ -7507,5 +7507,93 @@
       { "id": 3033, "name": "ブラック", "checked": false, "parentId": 3030 },
       { "id": 3034, "name": "ホワイト", "checked": false, "parentId": 3030 }
     ]
+  },
+  {
+    "id": 3035,
+    "name": "ペール",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3036,
+    "name": "ベッドデスク",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3037, "name": "ナチュラル", "checked": false, "parentId": 3036 },
+      { "id": 3038, "name": "ブラウン", "checked": false, "parentId": 3036 },
+      { "id": 3039, "name": "ホワイト", "checked": false, "parentId": 3036 },
+      { "id": 3040, "name": "ブラック", "checked": false, "parentId": 3036 },
+      { "id": 3041, "name": "ブルー", "checked": false, "parentId": 3036 },
+      { "id": 3042, "name": "オレンジ", "checked": false, "parentId": 3036 },
+      { "id": 3043, "name": "ライトブルー", "checked": false, "parentId": 3036 },
+      { "id": 3044, "name": "ピンク", "checked": false, "parentId": 3036 }
+    ]
+  },
+  {
+    "id": 3045,
+    "name": "ペットのごはん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3046, "name": "ブルー", "checked": false, "parentId": 3045 },
+      { "id": 3047, "name": "オレンジ", "checked": false, "parentId": 3045 },
+      { "id": 3048, "name": "レッド", "checked": false, "parentId": 3045 },
+      { "id": 3049, "name": "グリーン", "checked": false, "parentId": 3045 },
+      { "id": 3050, "name": "ピンク", "checked": false, "parentId": 3045 }
+    ]
+  },
+  {
+    "id": 3051,
+    "name": "ペットのベッド",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3052, "name": "ナチュラル", "checked": false, "parentId": 3051 },
+      { "id": 3053, "name": "ダークブラウン", "checked": false, "parentId": 3051 },
+      { "id": 3054, "name": "ホワイト", "checked": false, "parentId": 3051 }
+    ]
+  },
+  {
+    "id": 3055,
+    "name": "ペナント",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3056, "name": "スポーツ", "checked": false, "parentId": 3055 },
+      { "id": 3057, "name": "ユニバーシティ", "checked": false, "parentId": 3055 },
+      { "id": 3058, "name": "クラシック", "checked": false, "parentId": 3055 },
+      { "id": 3059, "name": "スポンサー", "checked": false, "parentId": 3055 },
+      { "id": 3060, "name": "お土産", "checked": false, "parentId": 3055 }
+    ]
+  },
+  {
+    "id": 3061,
+    "name": "ベルつきアラームクロック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3062, "name": "ライトブルー", "checked": false, "parentId": 3061 },
+      { "id": 3063, "name": "レッド", "checked": false, "parentId": 3061 },
+      { "id": 3064, "name": "イエロー", "checked": false, "parentId": 3061 },
+      { "id": 3065, "name": "ホワイト", "checked": false, "parentId": 3061 },
+      { "id": 3066, "name": "ブラック", "checked": false, "parentId": 3061 },
+      { "id": 3067, "name": "ブロンズ", "checked": false, "parentId": 3061 },
+      { "id": 3068, "name": "シルバー", "checked": false, "parentId": 3061 },
+      { "id": 3069, "name": "ゴールド", "checked": false, "parentId": 3061 }
+    ]
+  },
+  {
+    "id": 3070,
+    "name": "ベンチブランコ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3071, "name": "ライトウッド", "checked": false, "parentId": 3070 },
+      { "id": 3072, "name": "ナチュラルウッド", "checked": false, "parentId": 3070 },
+      { "id": 3073, "name": "ホワイトウッド", "checked": false, "parentId": 3070 },
+      { "id": 3074, "name": "レッドウッド", "checked": false, "parentId": 3070 },
+      { "id": 3075, "name": "ダークウッド", "checked": false, "parentId": 3070 }
+    ]
   }
 ]
