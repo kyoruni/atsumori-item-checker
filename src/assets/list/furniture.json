@@ -8721,5 +8721,75 @@
       { "id": 3583, "name": "グリーン", "checked": false, "parentId": 3578 },
       { "id": 3584, "name": "レッド", "checked": false, "parentId": 3578 }
     ]
+  },
+  {
+    "id": 3585,
+    "name": "ゆうしょうき",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3586, "name": "レッド", "checked": false, "parentId": 3585 },
+      { "id": 3587, "name": "ブルー", "checked": false, "parentId": 3585 },
+      { "id": 3588, "name": "グリーン", "checked": false, "parentId": 3585 },
+      { "id": 3589, "name": "ブラック", "checked": false, "parentId": 3585 }
+    ]
+  },
+  {
+    "id": 3590,
+    "name": "ゆうじんうちゅうせん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3591,
+    "name": "ゆきのイルミネーション",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3592, "name": "ホワイト", "checked": false, "parentId": 3591 },
+      { "id": 3593, "name": "ピンク", "checked": false, "parentId": 3591 },
+      { "id": 3594, "name": "イエロー", "checked": false, "parentId": 3591 },
+      { "id": 3595, "name": "レインボー", "checked": false, "parentId": 3591 }
+    ]
+  },
+  {
+    "id": 3596,
+    "name": "ユッカ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3597, "name": "ホワイト", "checked": false, "parentId": 3596 },
+      { "id": 3598, "name": "ブラウン", "checked": false, "parentId": 3596 },
+      { "id": 3599, "name": "グリーン", "checked": false, "parentId": 3596 },
+      { "id": 3600, "name": "ブルー", "checked": false, "parentId": 3596 },
+      { "id": 3601, "name": "ブラック", "checked": false, "parentId": 3596 }
+    ]
+  },
+  {
+    "id": 3602,
+    "name": "ゆびわ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3603, "name": "レッド", "checked": false, "parentId": 3602 },
+      { "id": 3604, "name": "ブルー", "checked": false, "parentId": 3602 },
+      { "id": 3605, "name": "グリーン", "checked": false, "parentId": 3602 },
+      { "id": 3606, "name": "ホワイト", "checked": false, "parentId": 3602 },
+      { "id": 3607, "name": "エメラルド", "checked": false, "parentId": 3602 },
+      { "id": 3608, "name": "ブラウン", "checked": false, "parentId": 3602 },
+      { "id": 3609, "name": "ブラック", "checked": false, "parentId": 3602 },
+      { "id": 3610, "name": "ピンク", "checked": false, "parentId": 3602 }
+    ]
+  },
+  {
+    "id": 3611,
+    "name": "ユリのレコードプレーヤー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3612, "name": "ホワイト", "checked": false, "parentId": 3611 },
+      { "id": 3613, "name": "ピンク", "checked": false, "parentId": 3611 },
+      { "id": 3614, "name": "イエロー", "checked": false, "parentId": 3611 }
+    ]
   }
 ]
