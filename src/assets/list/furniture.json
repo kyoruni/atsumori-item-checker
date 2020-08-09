@@ -8673,5 +8673,53 @@
       { "id": 3564, "name": "ブルー", "checked": false, "parentId": 3559 },
       { "id": 3565, "name": "ホワイト", "checked": false, "parentId": 3559 }
     ]
+  },
+  {
+    "id": 3566,
+    "name": "やかん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3567,
+    "name": "ヤシのウォールプランター",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3568,
+    "name": "やじろべえ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3569,
+    "name": "やたい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3570, "name": "ナチュラル", "checked": false, "parentId": 3569 },
+      { "id": 3571, "name": "ダークブラウン", "checked": false, "parentId": 3569 },
+      { "id": 3572, "name": "ライトブラウン", "checked": false, "parentId": 3569 },
+      { "id": 3573, "name": "グリーン", "checked": false, "parentId": 3569 },
+      { "id": 3574, "name": "ピンク", "checked": false, "parentId": 3569 },
+      { "id": 3575, "name": "ホワイト", "checked": false, "parentId": 3569 },
+      { "id": 3576, "name": "ブラック", "checked": false, "parentId": 3569 },
+      { "id": 3577, "name": "グレー", "checked": false, "parentId": 3569 }
+    ]
+  },
+  {
+    "id": 3578,
+    "name": "ヤマドリヤシ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3579, "name": "ブラック", "checked": false, "parentId": 3578 },
+      { "id": 3580, "name": "ホワイト", "checked": false, "parentId": 3578 },
+      { "id": 3581, "name": "ブラウン", "checked": false, "parentId": 3578 },
+      { "id": 3582, "name": "ブルー", "checked": false, "parentId": 3578 },
+      { "id": 3583, "name": "グリーン", "checked": false, "parentId": 3578 },
+      { "id": 3584, "name": "レッド", "checked": false, "parentId": 3578 }
+    ]
   }
 ]
