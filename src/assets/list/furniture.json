@@ -8791,5 +8791,48 @@
       { "id": 3613, "name": "ピンク", "checked": false, "parentId": 3611 },
       { "id": 3614, "name": "イエロー", "checked": false, "parentId": 3611 }
     ]
+  },
+  {
+    "id": 3615,
+    "name": "ようしきトイレ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3616, "name": "ホワイト", "checked": false, "parentId": 3615 },
+      { "id": 3617, "name": "ナチュラルウッド", "checked": false, "parentId": 3615 },
+      { "id": 3618, "name": "ダークウッド", "checked": false, "parentId": 3615 }
+    ]
+  },
+  {
+    "id": 3619,
+    "name": "ようふうのはかいし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3620, "name": "ホワイト", "checked": false, "parentId": 3619 },
+      { "id": 3621, "name": "グレー", "checked": false, "parentId": 3619 },
+      { "id": 3622, "name": "ブラック", "checked": false, "parentId": 3619 },
+      { "id": 3623, "name": "ブラウン", "checked": false, "parentId": 3619 },
+      { "id": 3624, "name": "苔石", "checked": false, "parentId": 3619 }
+    ]
+  },
+  {
+    "id": 3625,
+    "name": "ようほうばこ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3626, "name": "ナチュラル", "checked": false, "parentId": 3625 },
+      { "id": 3627, "name": "ホワイト", "checked": false, "parentId": 3625 },
+      { "id": 3628, "name": "レッド", "checked": false, "parentId": 3625 },
+      { "id": 3629, "name": "ブルー", "checked": false, "parentId": 3625 },
+      { "id": 3630, "name": "イエロー", "checked": false, "parentId": 3625 }
+    ]
+  },
+  {
+    "id": 3631,
+    "name": "よくあるにわいし",
+    "checked": false,
+    "variation": false
   }
 ]
