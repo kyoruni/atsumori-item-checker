@@ -9073,5 +9073,101 @@
       { "id": 3740, "name": "ブラック&レッド", "checked": false, "parentId": 3736 },
       { "id": 3741, "name": "アイテム", "checked": false, "parentId": 3736 }
     ]
+  },
+  {
+    "id": 3742,
+    "name": "れいぞうこ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3743, "name": "ホワイト", "checked": false, "parentId": 3742 },
+      { "id": 3744, "name": "レッド", "checked": false, "parentId": 3742 },
+      { "id": 3745, "name": "ピンク", "checked": false, "parentId": 3742 },
+      { "id": 3746, "name": "イエロー", "checked": false, "parentId": 3742 },
+      { "id": 3747, "name": "ブルー", "checked": false, "parentId": 3742 },
+      { "id": 3748, "name": "ブラウン", "checked": false, "parentId": 3742 },
+      { "id": 3749, "name": "ブラック", "checked": false, "parentId": 3742 },
+      { "id": 3750, "name": "シルバー", "checked": false, "parentId": 3742 }
+    ]
+  },
+  {
+    "id": 3751,
+    "name": "れいとうこ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3752, "name": "ホワイト", "checked": false, "parentId": 3751 },
+      { "id": 3753, "name": "ブラック", "checked": false, "parentId": 3751 },
+      { "id": 3754, "name": "ベージュ", "checked": false, "parentId": 3751 },
+      { "id": 3755, "name": "シルバー", "checked": false, "parentId": 3751 }
+    ]
+  },
+  {
+    "id": 3756,
+    "name": "レオのちょうこく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3757,
+    "name": "レコードボックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3758, "name": "ブラック", "checked": false, "parentId": 3757 },
+      { "id": 3759, "name": "ホワイト", "checked": false, "parentId": 3757 },
+      { "id": 3760, "name": "レッド", "checked": false, "parentId": 3757 },
+      { "id": 3761, "name": "イエロー", "checked": false, "parentId": 3757 },
+      { "id": 3762, "name": "グリーン", "checked": false, "parentId": 3757 },
+      { "id": 3763, "name": "ブルー", "checked": false, "parentId": 3757 },
+      { "id": 3764, "name": "グレー", "checked": false, "parentId": 3757 },
+      { "id": 3765, "name": "ピンク", "checked": false, "parentId": 3757 }
+    ]
+  },
+  {
+    "id": 3766,
+    "name": "レトロなきゅうゆき",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3767, "name": "レッド", "checked": false, "parentId": 3766 },
+      { "id": 3768, "name": "グリーン", "checked": false, "parentId": 3766 },
+      { "id": 3769, "name": "イエロー", "checked": false, "parentId": 3766 },
+      { "id": 3770, "name": "ホワイト", "checked": false, "parentId": 3766 },
+      { "id": 3771, "name": "ブラック", "checked": false, "parentId": 3766 },
+      { "id": 3772, "name": "レトロ", "checked": false, "parentId": 3766 }
+    ]
+  },
+  {
+    "id": 3773,
+    "name": "レトロなステレオ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3774, "name": "ブラック", "checked": false, "parentId": 3773 },
+      { "id": 3775, "name": "ブラウン", "checked": false, "parentId": 3773 }
+    ]
+  },
+  {
+    "id": 3776,
+    "name": "レトロなせんぷうき",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3777, "name": "ブルー", "checked": false, "parentId": 3776 },
+      { "id": 3778, "name": "グリーン", "checked": false, "parentId": 3776 },
+      { "id": 3779, "name": "オレンジ", "checked": false, "parentId": 3776 }
+    ]
+  },
+  {
+    "id": 3780,
+    "name": "レンガのいど",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3781, "name": "レッド", "checked": false, "parentId": 3780 },
+      { "id": 3782, "name": "ホワイト", "checked": false, "parentId": 3780 },
+      { "id": 3783, "name": "グレー", "checked": false, "parentId": 3780 }
+    ]
   }
 ]
