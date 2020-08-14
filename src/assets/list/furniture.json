@@ -9169,5 +9169,62 @@
       { "id": 3782, "name": "ホワイト", "checked": false, "parentId": 3780 },
       { "id": 3783, "name": "グレー", "checked": false, "parentId": 3780 }
     ]
+  },
+  {
+    "id": 3784,
+    "name": "ロケット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3785,
+    "name": "ロッカー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3786, "name": "シルバー", "checked": false, "parentId": 3785 },
+      { "id": 3787, "name": "ホワイト", "checked": false, "parentId": 3785 },
+      { "id": 3788, "name": "ブラック", "checked": false, "parentId": 3785 },
+      { "id": 3789, "name": "レッド", "checked": false, "parentId": 3785 },
+      { "id": 3790, "name": "ブルー", "checked": false, "parentId": 3785 },
+      { "id": 3791, "name": "グリーン", "checked": false, "parentId": 3785 },
+      { "id": 3792, "name": "イエロー", "checked": false, "parentId": 3785 }
+    ]
+  },
+  {
+    "id": 3793,
+    "name": "ロッキングチェア",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3794, "name": "ライトウッド", "checked": false, "parentId": 3793 },
+      { "id": 3795, "name": "ナチュラルウッド", "checked": false, "parentId": 3793 },
+      { "id": 3796, "name": "ダークウッド", "checked": false, "parentId": 3793 },
+      { "id": 3797, "name": "ホワイト", "checked": false, "parentId": 3793 },
+      { "id": 3798, "name": "ブラック", "checked": false, "parentId": 3793 }
+    ]
+  },
+  {
+    "id": 3799,
+    "name": "ロッドスタンド",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3800, "name": "ナチュラル", "checked": false, "parentId": 3799 },
+      { "id": 3801, "name": "ホワイト", "checked": false, "parentId": 3799 },
+      { "id": 3802, "name": "ブラック", "checked": false, "parentId": 3799 }
+    ]
+  },
+  {
+    "id": 3803,
+    "name": "ろてんぶろ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3804, "name": "グレー", "checked": false, "parentId": 3803 },
+      { "id": 3805, "name": "ブラック", "checked": false, "parentId": 3803 },
+      { "id": 3806, "name": "ブラウン", "checked": false, "parentId": 3803 },
+      { "id": 3807, "name": "ホワイト", "checked": false, "parentId": 3803 }
+    ]
   }
 ]
