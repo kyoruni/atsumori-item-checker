@@ -9014,5 +9014,64 @@
       { "id": 3719, "name": "ブルー", "checked": false, "parentId": 3716 },
       { "id": 3720, "name": "ホワイト", "checked": false, "parentId": 3716 }
     ]
+  },
+  {
+    "id": 3721,
+    "name": "リサとカイゾーのえざら",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3722,
+    "name": "リブラのてんびん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3723,
+    "name": "りょうめんウォールクロック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3724, "name": "ブラック", "checked": false, "parentId": 3723 },
+      { "id": 3725, "name": "ホワイト", "checked": false, "parentId": 3723 },
+      { "id": 3726, "name": "シルバー", "checked": false, "parentId": 3723 },
+      { "id": 3727, "name": "グリーン", "checked": false, "parentId": 3723 },
+      { "id": 3728, "name": "レッド", "checked": false, "parentId": 3723 },
+      { "id": 3729, "name": "イエロー", "checked": false, "parentId": 3723 }
+    ]
+  },
+  {
+    "id": 3730,
+    "name": "リンゴのチェア",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3731, "name": "赤リンゴ", "checked": false, "parentId": 3730 },
+      { "id": 3732, "name": "青リンゴ", "checked": false, "parentId": 3730 }
+    ]
+  },
+  {
+    "id": 3733,
+    "name": "リンゴのテレビ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3734, "name": "赤リンゴ", "checked": false, "parentId": 3733 },
+      { "id": 3735, "name": "青リンゴ", "checked": false, "parentId": 3733 }
+    ]
+  },
+  {
+    "id": 3736,
+    "name": "ルーレット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3737, "name": "カラフルナンバー", "checked": false, "parentId": 3736 },
+      { "id": 3738, "name": "ツートンナンバー", "checked": false, "parentId": 3736 },
+      { "id": 3739, "name": "イチかバチか", "checked": false, "parentId": 3736 },
+      { "id": 3740, "name": "ブラック&レッド", "checked": false, "parentId": 3736 },
+      { "id": 3741, "name": "アイテム", "checked": false, "parentId": 3736 }
+    ]
   }
 ]
