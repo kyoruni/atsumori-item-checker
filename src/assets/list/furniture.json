@@ -8834,5 +8834,185 @@
     "name": "よくあるにわいし",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 3632,
+    "name": "ラジカセ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3633, "name": "シルバー", "checked": false, "parentId": 3632 },
+      { "id": 3634, "name": "オレンジ", "checked": false, "parentId": 3632 },
+      { "id": 3635, "name": "ホワイト", "checked": false, "parentId": 3632 },
+      { "id": 3636, "name": "ブラック", "checked": false, "parentId": 3632 }
+    ]
+  },
+  {
+    "id": 3637,
+    "name": "ラタンのくずかご",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3638, "name": "ブラウン", "checked": false, "parentId": 3637 },
+      { "id": 3639, "name": "レッドブラウン", "checked": false, "parentId": 3637 },
+      { "id": 3640, "name": "ライトブラウン", "checked": false, "parentId": 3637 },
+      { "id": 3641, "name": "ホワイト", "checked": false, "parentId": 3637 },
+      { "id": 3642, "name": "グレー", "checked": false, "parentId": 3637 },
+      { "id": 3643, "name": "ブラック", "checked": false, "parentId": 3637 }
+    ]
+  },
+  {
+    "id": 3644,
+    "name": "ラタンのクロゼット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3645, "name": "ブラウン", "checked": false, "parentId": 3644 },
+      { "id": 3646, "name": "レッドブラウン", "checked": false, "parentId": 3644 },
+      { "id": 3647, "name": "ライトブラウン", "checked": false, "parentId": 3644 },
+      { "id": 3648, "name": "ホワイト", "checked": false, "parentId": 3644 },
+      { "id": 3649, "name": "グレー", "checked": false, "parentId": 3644 },
+      { "id": 3650, "name": "ブラック", "checked": false, "parentId": 3644 }
+    ]
+  },
+  {
+    "id": 3651,
+    "name": "ラタンのサイドテーブル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3652, "name": "ブラウン", "checked": false, "parentId": 3651 },
+      { "id": 3653, "name": "レッドブラウン", "checked": false, "parentId": 3651 },
+      { "id": 3654, "name": "ライトブラウン", "checked": false, "parentId": 3651 },
+      { "id": 3655, "name": "ホワイト", "checked": false, "parentId": 3651 },
+      { "id": 3656, "name": "グレー", "checked": false, "parentId": 3651 },
+      { "id": 3657, "name": "ブラック", "checked": false, "parentId": 3651 }
+    ]
+  },
+  {
+    "id": 3658,
+    "name": "ラタンのスツール",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3659, "name": "ブラウン", "checked": false, "parentId": 3658 },
+      { "id": 3660, "name": "レッドブラウン", "checked": false, "parentId": 3658 },
+      { "id": 3661, "name": "ライトブラウン", "checked": false, "parentId": 3658 },
+      { "id": 3662, "name": "ホワイト", "checked": false, "parentId": 3658 },
+      { "id": 3663, "name": "グレー", "checked": false, "parentId": 3658 },
+      { "id": 3664, "name": "ブラック", "checked": false, "parentId": 3658 }
+    ]
+  },
+  {
+    "id": 3665,
+    "name": "ラタンのソファ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3666, "name": "ブラウン", "checked": false, "parentId": 3665 },
+      { "id": 3667, "name": "レッドブラウン", "checked": false, "parentId": 3665 },
+      { "id": 3668, "name": "ライトブラウン", "checked": false, "parentId": 3665 },
+      { "id": 3669, "name": "ホワイト", "checked": false, "parentId": 3665 },
+      { "id": 3670, "name": "グレー", "checked": false, "parentId": 3665 },
+      { "id": 3671, "name": "ブラック", "checked": false, "parentId": 3665 }
+    ]
+  },
+  {
+    "id": 3672,
+    "name": "ラタンのタオルバスケット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3673, "name": "ブラウン", "checked": false, "parentId": 3672 },
+      { "id": 3674, "name": "レッドブラウン", "checked": false, "parentId": 3672 },
+      { "id": 3675, "name": "ライトブラウン", "checked": false, "parentId": 3672 },
+      { "id": 3676, "name": "ホワイト", "checked": false, "parentId": 3672 },
+      { "id": 3677, "name": "グレー", "checked": false, "parentId": 3672 },
+      { "id": 3678, "name": "ブラック", "checked": false, "parentId": 3672 }
+    ]
+  },
+  {
+    "id": 3679,
+    "name": "ラタンのテーブルランプ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3680, "name": "ブラウン", "checked": false, "parentId": 3679 },
+      { "id": 3681, "name": "レッドブラウン", "checked": false, "parentId": 3679 },
+      { "id": 3682, "name": "ライトブラウン", "checked": false, "parentId": 3679 },
+      { "id": 3683, "name": "ホワイト", "checked": false, "parentId": 3679 },
+      { "id": 3684, "name": "グレー", "checked": false, "parentId": 3679 },
+      { "id": 3685, "name": "ブラック", "checked": false, "parentId": 3679 }
+    ]
+  },
+  {
+    "id": 3686,
+    "name": "ラタンのドレッサー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3687, "name": "ブラウン", "checked": false, "parentId": 3686 },
+      { "id": 3688, "name": "レッドブラウン", "checked": false, "parentId": 3686 },
+      { "id": 3689, "name": "ライトブラウン", "checked": false, "parentId": 3686 },
+      { "id": 3690, "name": "ホワイト", "checked": false, "parentId": 3686 },
+      { "id": 3691, "name": "グレー", "checked": false, "parentId": 3686 },
+      { "id": 3692, "name": "ブラック", "checked": false, "parentId": 3686 }
+    ]
+  },
+  {
+    "id": 3693,
+    "name": "ラタンのベッド",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3694, "name": "ブラウン", "checked": false, "parentId": 3693 },
+      { "id": 3695, "name": "レッドブラウン", "checked": false, "parentId": 3693 },
+      { "id": 3696, "name": "ライトブラウン", "checked": false, "parentId": 3693 },
+      { "id": 3697, "name": "ホワイト", "checked": false, "parentId": 3693 },
+      { "id": 3698, "name": "グレー", "checked": false, "parentId": 3693 },
+      { "id": 3699, "name": "ブラック", "checked": false, "parentId": 3693 }
+    ]
+  },
+  {
+    "id": 3700,
+    "name": "ラタンのローテーブル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3701, "name": "ブラウン", "checked": false, "parentId": 3700 },
+      { "id": 3702, "name": "レッドブラウン", "checked": false, "parentId": 3700 },
+      { "id": 3703, "name": "ライトブラウン", "checked": false, "parentId": 3700 },
+      { "id": 3704, "name": "ホワイト", "checked": false, "parentId": 3700 },
+      { "id": 3705, "name": "グレー", "checked": false, "parentId": 3700 },
+      { "id": 3706, "name": "ブラック", "checked": false, "parentId": 3700 }
+    ]
+  },
+  {
+    "id": 3707,
+    "name": "ランタン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3708, "name": "レッド", "checked": false, "parentId": 3707 },
+      { "id": 3709, "name": "ブルー", "checked": false, "parentId": 3707 },
+      { "id": 3710, "name": "グリーン", "checked": false, "parentId": 3707 },
+      { "id": 3711, "name": "イエロー", "checked": false, "parentId": 3707 },
+      { "id": 3712, "name": "ピンク", "checked": false, "parentId": 3707 },
+      { "id": 3713, "name": "ライトブルー", "checked": false, "parentId": 3707 },
+      { "id": 3714, "name": "ブラック", "checked": false, "parentId": 3707 },
+      { "id": 3715, "name": "ゴールド", "checked": false, "parentId": 3707 }
+    ]
+  },
+  {
+    "id": 3716,
+    "name": "ランニングマシン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3717, "name": "ブラック", "checked": false, "parentId": 3716 },
+      { "id": 3718, "name": "レッド", "checked": false, "parentId": 3716 },
+      { "id": 3719, "name": "ブルー", "checked": false, "parentId": 3716 },
+      { "id": 3720, "name": "ホワイト", "checked": false, "parentId": 3716 }
+    ]
   }
 ]
