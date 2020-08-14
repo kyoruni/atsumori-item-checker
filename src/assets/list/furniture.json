@@ -9226,5 +9226,59 @@
       { "id": 3806, "name": "ブラウン", "checked": false, "parentId": 3803 },
       { "id": 3807, "name": "ホワイト", "checked": false, "parentId": 3803 }
     ]
+  },
+  {
+    "id": 3808,
+    "name": "ワイルドなまるたのベンチ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3809, "name": "ダークウッド", "checked": false, "parentId": 3808 },
+      { "id": 3810, "name": "オレンジウッド", "checked": false, "parentId": 3808 },
+      { "id": 3811, "name": "ホワイトウッド", "checked": false, "parentId": 3808 },
+      { "id": 3812, "name": "白樺", "checked": false, "parentId": 3808 }
+    ]
+  },
+  {
+    "id": 3813,
+    "name": "わしきトイレ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3814,
+    "name": "わたあめのやたい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3815, "name": "ピンク", "checked": false, "parentId": 3814 },
+      { "id": 3816, "name": "ブルー", "checked": false, "parentId": 3814 },
+      { "id": 3817, "name": "ブラック", "checked": false, "parentId": 3814 }
+    ]
+  },
+  {
+    "id": 3818,
+    "name": "わなげ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3819, "name": "ナチュラル", "checked": false, "parentId": 3818 },
+      { "id": 3820, "name": "カラフル", "checked": false, "parentId": 3818 },
+      { "id": 3821, "name": "パステル", "checked": false, "parentId": 3818 },
+      { "id": 3822, "name": "クール", "checked": false, "parentId": 3818 }
+    ]
+  },
+  {
+    "id": 3823,
+    "name": "わふうのはかいし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3824, "name": "白御影石", "checked": false, "parentId": 3823 },
+      { "id": 3825, "name": "本小松石", "checked": false, "parentId": 3823 },
+      { "id": 3826, "name": "黒御影石", "checked": false, "parentId": 3823 },
+      { "id": 3827, "name": "草水石", "checked": false, "parentId": 3823 },
+      { "id": 3828, "name": "朽ちた石", "checked": false, "parentId": 3823 }
+    ]
   }
 ]
