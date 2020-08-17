@@ -1059,5 +1059,17 @@
     "name": "ロビーのゆか",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 177,
+    "name": "マーメイドなゆか",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 178,
+    "name": "かいぞくのゆか",
+    "checked": false,
+    "variation": false
   }
 ]

@@ -9280,5 +9280,107 @@
       { "id": 3827, "name": "草水石", "checked": false, "parentId": 3823 },
       { "id": 3828, "name": "朽ちた石", "checked": false, "parentId": 3823 }
     ]
+  },
+  {
+    "id": 3829,
+    "name": "たなばたのささ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3830,
+    "name": "かいぞくのたいほう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3831,
+    "name": "かいぞくのかじ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3832,
+    "name": "マーメイドなテーブル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3833,
+    "name": "マーメイドなシェルフ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3834,
+    "name": "マーメイドなドレッサー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3835,
+    "name": "マーメイドなスクリーン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3836,
+    "name": "マーメイドなランプ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3837,
+    "name": "マーメイドなウォールクロック",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3838,
+    "name": "マーメイドなベッド",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3839,
+    "name": "マーメイドなクロゼット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3840,
+    "name": "マーメイドなソファ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3841,
+    "name": "マーメイドなチェスト",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3842,
+    "name": "マーメイドなチェア",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3843,
+    "name": "よこむきのかいぞくのたる",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3844,
+    "name": "かいぞくのたからばこ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3845,
+    "name": "かいぞくのたる",
+    "checked": false,
+    "variation": false
   }
 ]

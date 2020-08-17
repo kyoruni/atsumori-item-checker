@@ -790,5 +790,17 @@
     "name": "レトロドットのラグ",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 133,
+    "name": "マーメイドなラグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 134,
+    "name": "かいぞくのラグ",
+    "checked": false,
+    "variation": false
   }
 ]

@@ -1480,5 +1480,17 @@
     "name": "ワイルドウッドのかべ",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 248,
+    "name": "マーメイドなかべがみ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 249,
+    "name": "かいぞくのかべがみ",
+    "checked": false,
+    "variation": false
   }
 ]
