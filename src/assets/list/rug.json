@@ -288,6 +288,12 @@
     "variation": false
   },
   {
+    "id": 134,
+    "name": "かいぞくのラグ",
+    "checked": false,
+    "variation": false
+  },
+  {
     "id": 49,
     "name": "かせきのラグ",
     "checked": false,
@@ -636,6 +642,12 @@
     "variation": false
   },
   {
+    "id": 133,
+    "name": "マーメイドなラグ",
+    "checked": false,
+    "variation": false
+  },
+  {
     "id": 107,
     "name": "まほうじんのラグ",
     "checked": false,
@@ -788,18 +800,6 @@
   {
     "id": 132,
     "name": "レトロドットのラグ",
-    "checked": false,
-    "variation": false
-  },
-  {
-    "id": 133,
-    "name": "マーメイドなラグ",
-    "checked": false,
-    "variation": false
-  },
-  {
-    "id": 134,
-    "name": "かいぞくのラグ",
     "checked": false,
     "variation": false
   }
