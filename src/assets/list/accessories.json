@@ -356,5 +356,64 @@
       { "id": 138, "name": "ライム", "checked": false, "parentId": 134 },
       { "id": 139, "name": "ライトブルー", "checked": false, "parentId": 134 }
     ]
+  },
+  {
+    "id": 140,
+    "name": "たぬきかいはつアイマスク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 141,
+    "name": "たぬきかいはつシュノーケル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 142,
+    "name": "ダブルブリッジめがね",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 143, "name": "ゴールド", "checked": false, "parentId": 142 },
+      { "id": 144, "name": "パープル", "checked": false, "parentId": 142 },
+      { "id": 145, "name": "シルバー", "checked": false, "parentId": 142 },
+      { "id": 146, "name": "ブルー", "checked": false, "parentId": 142 }
+    ]
+  },
+  {
+    "id": 147,
+    "name": "たべこぼし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 148,
+    "name": "ちいさいサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 149, "name": "ゴールド", "checked": false, "parentId": 148 },
+      { "id": 150, "name": "ブラック", "checked": false, "parentId": 148 },
+      { "id": 151, "name": "ワインレッド", "checked": false, "parentId": 148 }
+    ]
+  },
+  {
+    "id": 152,
+    "name": "つけばな",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 153,
+    "name": "ドットサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 154, "name": "レッド", "checked": false, "parentId": 153 },
+      { "id": 155, "name": "グリーン", "checked": false, "parentId": 153 },
+      { "id": 156, "name": "ブルー", "checked": false, "parentId": 153 },
+      { "id": 157, "name": "ブラック", "checked": false, "parentId": 153 }
+    ]
   }
 ]
