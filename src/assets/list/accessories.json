@@ -215,5 +215,146 @@
     "name": "ごはんつぶ",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 76,
+    "name": "サーモントめがね",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 77, "name": "ブラック", "checked": false, "parentId": 76 },
+      { "id": 78, "name": "ブラウン", "checked": false, "parentId": 76 },
+      { "id": 79, "name": "グリーン", "checked": false, "parentId": 76 },
+      { "id": 80, "name": "グレー", "checked": false, "parentId": 76 }
+    ]
+  },
+  {
+    "id": 81,
+    "name": "サイバーサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 82, "name": "レッド", "checked": false, "parentId": 81 },
+      { "id": 83, "name": "ブラック", "checked": false, "parentId": 81 },
+      { "id": 84, "name": "シルバー", "checked": false, "parentId": 81 },
+      { "id": 85, "name": "パープル", "checked": false, "parentId": 81 },
+      { "id": 86, "name": "グリーン", "checked": false, "parentId": 81 },
+      { "id": 87, "name": "イエロー", "checked": false, "parentId": 81 }
+    ]
+  },
+  {
+    "id": 88,
+    "name": "さんかくサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 89, "name": "レッド", "checked": false, "parentId": 88 },
+      { "id": 90, "name": "オレンジ", "checked": false, "parentId": 88 },
+      { "id": 91, "name": "ブルー", "checked": false, "parentId": 88 },
+      { "id": 92, "name": "パープル", "checked": false, "parentId": 88 },
+      { "id": 93, "name": "グリーン", "checked": false, "parentId": 88 },
+      { "id": 94, "name": "ホワイト", "checked": false, "parentId": 88 },
+      { "id": 95, "name": "ブラック", "checked": false, "parentId": 88 }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "シュノーケル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 97, "name": "ブルー", "checked": false, "parentId": 96 },
+      { "id": 98, "name": "オレンジ", "checked": false, "parentId": 96 },
+      { "id": 99, "name": "レッド", "checked": false, "parentId": 96 },
+      { "id": 100, "name": "ピンク", "checked": false, "parentId": 96 },
+      { "id": 101, "name": "グリーン", "checked": false, "parentId": 96 },
+      { "id": 102, "name": "ブラック", "checked": false, "parentId": 96 }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "すいえいゴーグル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 104, "name": "ブラック", "checked": false, "parentId": 103 },
+      { "id": 105, "name": "ブルー", "checked": false, "parentId": 103 },
+      { "id": 106, "name": "ピンク", "checked": false, "parentId": 103 },
+      { "id": 107, "name": "グリーン", "checked": false, "parentId": 103 },
+      { "id": 108, "name": "パープル", "checked": false, "parentId": 103 },
+      { "id": 109, "name": "レッド", "checked": false, "parentId": 103 }
+    ]
+  },
+  {
+    "id": 110,
+    "name": "スカルキャンディマスク",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 111, "name": "パープル", "checked": false, "parentId": 110 },
+      { "id": 112, "name": "オレンジ", "checked": false, "parentId": 110 },
+      { "id": 113, "name": "ブルー", "checked": false, "parentId": 110 }
+    ]
+  },
+  {
+    "id": 114,
+    "name": "スキーゴーグル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 115, "name": "ホワイト", "checked": false, "parentId": 114 },
+      { "id": 116, "name": "イエロー", "checked": false, "parentId": 114 },
+      { "id": 117, "name": "パープル", "checked": false, "parentId": 114 },
+      { "id": 118, "name": "ピンク", "checked": false, "parentId": 114 },
+      { "id": 119, "name": "グリーン", "checked": false, "parentId": 114 },
+      { "id": 120, "name": "オレンジ", "checked": false, "parentId": 114 }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "スクエアめがね",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 122, "name": "ブラウン", "checked": false, "parentId": 121 },
+      { "id": 123, "name": "ブラック", "checked": false, "parentId": 121 },
+      { "id": 124, "name": "グレー", "checked": false, "parentId": 121 },
+      { "id": 125, "name": "ブルー", "checked": false, "parentId": 121 }
+    ]
+  },
+  {
+    "id": 126,
+    "name": "スチームパンクなゴーグル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 127, "name": "グリーン", "checked": false, "parentId": 126 },
+      { "id": 128, "name": "パープル", "checked": false, "parentId": 126 }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "ストローメガネ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 130, "name": "グリーン", "checked": false, "parentId": 129 },
+      { "id": 131, "name": "ブルー", "checked": false, "parentId": 129 },
+      { "id": 132, "name": "ピンク", "checked": false, "parentId": 129 },
+      { "id": 133, "name": "ホワイト", "checked": false, "parentId": 129 }
+    ]
+  },
+  {
+    "id": 134,
+    "name": "スポーツサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 135, "name": "ブラック", "checked": false, "parentId": 134 },
+      { "id": 136, "name": "ホワイト", "checked": false, "parentId": 134 },
+      { "id": 137, "name": "ピンク", "checked": false, "parentId": 134 },
+      { "id": 138, "name": "ライム", "checked": false, "parentId": 134 },
+      { "id": 139, "name": "ライトブルー", "checked": false, "parentId": 134 }
+    ]
   }
 ]
