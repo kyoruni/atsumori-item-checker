@@ -415,5 +415,22 @@
       { "id": 156, "name": "ブルー", "checked": false, "parentId": 153 },
       { "id": 157, "name": "ブラック", "checked": false, "parentId": 153 }
     ]
+  },
+  {
+    "id": 158,
+    "name": "ナイトビジョン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 159,
+    "name": "ネコのつけばな",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 160, "name": "ホワイト", "checked": false, "parentId": 159 },
+      { "id": 161, "name": "ブラウン", "checked": false, "parentId": 159 },
+      { "id": 162, "name": "ネイビー", "checked": false, "parentId": 159 }
+    ]
   }
 ]
