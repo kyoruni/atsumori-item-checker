@@ -143,5 +143,77 @@
       { "id": 56, "name": "ベビーブルー", "checked": false, "parentId": 49 },
       { "id": 57, "name": "ベビーオレンジ", "checked": false, "parentId": 49 }
     ]
+  },
+  {
+    "id": 58,
+    "name": "カイゼルひげ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 59,
+    "name": "かいぞくのアイパッチ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 60,
+    "name": "かいぞくのひげ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 61,
+    "name": "ガスマスク",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 62, "name": "ブラック", "checked": false, "parentId": 61 },
+      { "id": 63, "name": "カーキ", "checked": false, "parentId": 61 }
+    ]
+  },
+  {
+    "id": 64,
+    "name": "カラスマスク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 65,
+    "name": "がんたい",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 66,
+    "name": "きゅうりパック",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 67,
+    "name": "くちばし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 68,
+    "name": "ケイトのサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 69, "name": "トワイライト", "checked": false, "parentId": 68 },
+      { "id": 70, "name": "ミッドナイト", "checked": false, "parentId": 68 },
+      { "id": 71, "name": "パッション", "checked": false, "parentId": 68 },
+      { "id": 72, "name": "オーシャン", "checked": false, "parentId": 68 },
+      { "id": 73, "name": "サンセット", "checked": false, "parentId": 68 },
+      { "id": 74, "name": "ラブ", "checked": false, "parentId": 68 }
+    ]
+  },
+  {
+    "id": 75,
+    "name": "ごはんつぶ",
+    "checked": false,
+    "variation": false
   }
 ]
