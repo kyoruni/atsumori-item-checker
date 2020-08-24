@@ -546,6 +546,12 @@
     "variation": false
   },
   {
+    "id": 135,
+    "name": "つきのラグ",
+    "checked": false,
+    "variation": false
+  },
+  {
     "id": 91,
     "name": "テントウムシのラグ",
     "checked": false,
@@ -800,12 +806,6 @@
   {
     "id": 132,
     "name": "レトロドットのラグ",
-    "checked": false,
-    "variation": false
-  },
-  {
-    "id": 135,
-    "name": "つきのラグ",
     "checked": false,
     "variation": false
   }

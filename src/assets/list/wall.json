@@ -984,6 +984,12 @@
     "variation": false
   },
   {
+    "id": 250,
+    "name": "はなびたいかいのかべ",
+    "checked": false,
+    "variation": false
+  },
+  {
     "id": 164,
     "name": "ハニカムタイルのかべ",
     "checked": false,
@@ -1490,12 +1496,6 @@
   {
     "id": 247,
     "name": "ワイルドウッドのかべ",
-    "checked": false,
-    "variation": false
-  },
-  {
-    "id": 250,
-    "name": "はなびたいかいのかべ",
     "checked": false,
     "variation": false
   }
