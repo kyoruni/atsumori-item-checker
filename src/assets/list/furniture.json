@@ -9382,5 +9382,17 @@
       { "id": 3827, "name": "草水石", "checked": false, "parentId": 3823 },
       { "id": 3828, "name": "朽ちた石", "checked": false, "parentId": 3823 }
     ]
+  },
+  {
+    "id": 3846,
+    "name": "ロデオふうスプリングゆうぐ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3847,
+    "name": "ゆめみのベッド",
+    "checked": false,
+    "variation": false
   }
 ]

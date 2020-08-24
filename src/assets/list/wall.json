@@ -1492,5 +1492,11 @@
     "name": "ワイルドウッドのかべ",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 250,
+    "name": "はなびたいかいのかべ",
+    "checked": false,
+    "variation": false
   }
 ]
