@@ -71,10 +71,10 @@
   },
   {
     "id": 11,
-    "name": "accessory",
+    "name": "accessories",
     "text": "アクセサリ",
     "icon": "fas fa-glasses",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 12,

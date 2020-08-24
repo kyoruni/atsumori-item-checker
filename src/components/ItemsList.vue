@@ -76,6 +76,7 @@ import furnitureList from '@/assets/list/furniture.json'
 import wallList from '@/assets/list/wall.json'
 import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
+import accessoriesList from '@/assets/list/accessories.json'
 import umbrellaList from '@/assets/list/umbrella.json'
 import bugList from '@/assets/list/bug.json'
 import fishList from '@/assets/list/fish.json'
@@ -134,6 +135,9 @@ export default {
         case 'rug':
           labelText = 'ラグ'
           break
+        case 'accessories':
+          labelText = 'アクセサリー'
+          break
         case 'umbrella':
           labelText = 'かさ'
           break
@@ -162,8 +166,8 @@ export default {
     },
     // バリエーション含めたアイテム数
     itemVariationCount () {
-      // カテゴリーが家具以外は何もしない
-      if (!this.category === 'furniture') return
+      // カテゴリーが家具 アクセサリー以外は何もしない
+      if (!this.category === 'furniture' || !this.category === 'accessories') return
       let count = 0
       this.items.forEach(item => {
         if (item.variation) {
@@ -181,8 +185,8 @@ export default {
     },
     // バリエーション含めたチェック数
     checkedItemVariationCount () {
-      // カテゴリーが家具以外は何もしない
-      if (!this.category === 'furniture') return
+      // カテゴリーが家具 アクセサリー以外は何もしない
+      if (!this.category === 'furniture' || !this.category === 'accessories') return
       let count = 0
       const checkedItems = this.items.filter(item => item.checked)
       checkedItems.forEach(checkedItem => {
@@ -217,6 +221,10 @@ export default {
         case 'rug':
           this.items = rugList
           this.displayItems = rugList
+          break
+        case 'accessories':
+          this.items = accessoriesList
+          this.displayItems = accessoriesList
           break
         case 'umbrella':
           this.items = umbrellaList
