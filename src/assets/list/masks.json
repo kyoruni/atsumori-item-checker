@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "アイアンアーマーヘルメット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "あかちゃんのぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3, "name": "ベビーミント", "checked": false, "parentId": 2 },
+      { "id": 4, "name": "ベビーパープル", "checked": false, "parentId": 2 },
+      { "id": 5, "name": "ベビーイエロー", "checked": false, "parentId": 2 },
+      { "id": 6, "name": "ベビーグリーン", "checked": false, "parentId": 2 },
+      { "id": 7, "name": "ベビーピンク", "checked": false, "parentId": 2 },
+      { "id": 8, "name": "ベビーグレー", "checked": false, "parentId": 2 },
+      { "id": 9, "name": "ベビーブルー", "checked": false, "parentId": 2 },
+      { "id": 10, "name": "ベビーオレンジ", "checked": false, "parentId": 2 }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "アストロヘルメット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "アメフトヘルメット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 13, "name": "グリーン", "checked": false, "parentId": 12 },
+      { "id": 14, "name": "ホワイト", "checked": false, "parentId": 12 },
+      { "id": 15, "name": "イエロー", "checked": false, "parentId": 12 },
+      { "id": 16, "name": "ワインレッド", "checked": false, "parentId": 12 },
+      { "id": 17, "name": "ブルー", "checked": false, "parentId": 12 },
+      { "id": 18, "name": "ターコイズ", "checked": false, "parentId": 12 },
+      { "id": 19, "name": "レッド", "checked": false, "parentId": 12 },
+      { "id": 20, "name": "ブラック", "checked": false, "parentId": 12 }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "アラビアのぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 22, "name": "ホワイト", "checked": false, "parentId": 21 },
+      { "id": 23, "name": "レッド", "checked": false, "parentId": 21 },
+      { "id": 24, "name": "ブラック", "checked": false, "parentId": 21 }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "ヴィジュアルけいウィッグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 26,
+    "name": "ウサギのかぶりもの",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 27, "name": "ピンク", "checked": false, "parentId": 26 },
+      { "id": 28, "name": "イエロー", "checked": false, "parentId": 26 },
+      { "id": 29, "name": "ホワイト", "checked": false, "parentId": 26 }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "おきなののうめん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 31,
+    "name": "おだんごあたま",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 32, "name": "ピンク", "checked": false, "parentId": 31 },
+      { "id": 33, "name": "ブルー", "checked": false, "parentId": 31 },
+      { "id": 34, "name": "マスタード", "checked": false, "parentId": 31 },
+      { "id": 35, "name": "ホワイト", "checked": false, "parentId": 31 },
+      { "id": 36, "name": "パープル", "checked": false, "parentId": 31 },
+      { "id": 37, "name": "グリーン", "checked": false, "parentId": 31 },
+      { "id": 38, "name": "オレンジ", "checked": false, "parentId": 31 }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "おひめさま",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 40, "name": "シルバー", "checked": false, "parentId": 39 },
+      { "id": 41, "name": "ゴールド", "checked": false, "parentId": 39 },
+      { "id": 42, "name": "ピンクゴールド", "checked": false, "parentId": 39 }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "おほしさまのあたま",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 44,
+    "name": "オランダのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 45,
+    "name": "おんがくかのかつら",
+    "checked": false,
+    "variation": false
+  }
+]

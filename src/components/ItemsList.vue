@@ -76,6 +76,7 @@ import furnitureList from '@/assets/list/furniture.json'
 import wallList from '@/assets/list/wall.json'
 import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
+import masksList from '@/assets/list/masks.json'
 import accessoriesList from '@/assets/list/accessories.json'
 import umbrellaList from '@/assets/list/umbrella.json'
 import bugList from '@/assets/list/bug.json'
@@ -134,6 +135,9 @@ export default {
           break
         case 'rug':
           labelText = 'ラグ'
+          break
+        case 'masks':
+          labelText = 'かぶりもの'
           break
         case 'accessories':
           labelText = 'アクセサリー'
@@ -221,6 +225,10 @@ export default {
         case 'rug':
           this.items = rugList
           this.displayItems = rugList
+          break
+        case 'masks':
+          this.items = masksList
+          this.displayItems = masksList
           break
         case 'accessories':
           this.items = accessoriesList
