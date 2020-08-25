@@ -270,5 +270,45 @@
       { "id": 101, "name": "ライムイエロー", "checked": false, "parentId": 97 },
       { "id": 102, "name": "カーキ", "checked": false, "parentId": 97 }
     ]
+  },
+  {
+    "id": 103,
+    "name": "ターバン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 104, "name": "パープル", "checked": false, "parentId": 103 },
+      { "id": 105, "name": "ブルー", "checked": false, "parentId": 103 },
+      { "id": 106, "name": "ピンク", "checked": false, "parentId": 103 },
+      { "id": 107, "name": "イエロー", "checked": false, "parentId": 103 }
+    ]
+  },
+  {
+    "id": 108,
+    "name": "たまねぎヘアー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 109,
+    "name": "ちょんまげ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 110,
+    "name": "ツタンカーメン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 111,
+    "name": "デビルなかぶりもの",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 112, "name": "ブラック", "checked": false, "parentId": 111 },
+      { "id": 113, "name": "レッド", "checked": false, "parentId": 111 }
+    ]
   }
 ]
