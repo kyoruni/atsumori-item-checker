@@ -120,5 +120,136 @@
     "name": "おんがくかのかつら",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 46,
+    "name": "ガイコツのかぶりもの",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 47,
+    "name": "カエルのかぶりもの",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 48, "name": "グリーン", "checked": false, "parentId": 47 },
+      { "id": 49, "name": "ブルー", "checked": false, "parentId": 47 },
+      { "id": 50, "name": "レッド", "checked": false, "parentId": 47 },
+      { "id": 51, "name": "イエロー", "checked": false, "parentId": 47 }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "カッパのおさら",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 53, "name": "グリーン", "checked": false, "parentId": 52 },
+      { "id": 54, "name": "ピンク", "checked": false, "parentId": 52 }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "かぶと",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 56, "name": "あか", "checked": false, "parentId": 55 },
+      { "id": 57, "name": "くろ", "checked": false, "parentId": 55 },
+      { "id": 58, "name": "あお", "checked": false, "parentId": 55 },
+      { "id": 59, "name": "しろ", "checked": false, "parentId": 55 },
+      { "id": 60, "name": "やまぶきいろ", "checked": false, "parentId": 55 }
+    ]
+  },
+  {
+    "id": 61,
+    "name": "かみぶくろ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 62,
+    "name": "キツネのおめん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 63, "name": "ホワイト", "checked": false, "parentId": 62 },
+      { "id": 64, "name": "ブラック", "checked": false, "parentId": 62 }
+    ]
+  },
+  {
+    "id": 65,
+    "name": "キャッチャーマスク",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 66, "name": "レッド", "checked": false, "parentId": 65 },
+      { "id": 67, "name": "ネイビー", "checked": false, "parentId": 65 },
+      { "id": 68, "name": "グリーン", "checked": false, "parentId": 65 },
+      { "id": 69, "name": "オレンジ", "checked": false, "parentId": 65 },
+      { "id": 70, "name": "イエロー", "checked": false, "parentId": 65 }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "クマのかぶりもの",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 72, "name": "ブラウン", "checked": false, "parentId": 71 },
+      { "id": 73, "name": "ブラック", "checked": false, "parentId": 71 },
+      { "id": 74, "name": "ピンク", "checked": false, "parentId": 71 },
+      { "id": 75, "name": "ブルー", "checked": false, "parentId": 71 }
+    ]
+  },
+  {
+    "id": 76,
+    "name": "くろこ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 77,
+    "name": "ゲイシャさん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 78, "name": "あか", "checked": false, "parentId": 77 },
+      { "id": 79, "name": "ももいろ", "checked": false, "parentId": 77 },
+      { "id": 80, "name": "やまぶきいろ", "checked": false, "parentId": 77 },
+      { "id": 81, "name": "みどり", "checked": false, "parentId": 77 },
+      { "id": 82, "name": "あお", "checked": false, "parentId": 77 },
+      { "id": 83, "name": "むらさき", "checked": false, "parentId": 77 },
+      { "id": 84, "name": "くろ", "checked": false, "parentId": 77 }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "ゴーグルつきヘルメット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 86, "name": "ピンク", "checked": false, "parentId": 85 },
+      { "id": 87, "name": "グリーン", "checked": false, "parentId": 85 },
+      { "id": 88, "name": "パープル", "checked": false, "parentId": 85 },
+      { "id": 89, "name": "ブルー", "checked": false, "parentId": 85 },
+      { "id": 90, "name": "レッド", "checked": false, "parentId": 85 },
+      { "id": 91, "name": "ライトブルー", "checked": false, "parentId": 85 },
+      { "id": 92, "name": "ブラック", "checked": false, "parentId": 85 },
+      { "id": 93, "name": "イエロー", "checked": false, "parentId": 85 }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "ゴールデンアーマーヘルメット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 95,
+    "name": "コインヘッドピース",
+    "checked": false,
+    "variation": false
   }
 ]
