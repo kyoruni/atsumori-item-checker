@@ -251,5 +251,24 @@
     "name": "コインヘッドピース",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 96,
+    "name": "じゅんぱくのヴェール",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 97,
+    "name": "しょうぼうしのぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 98, "name": "ブラック", "checked": false, "parentId": 97 },
+      { "id": 99, "name": "ファイアーカラー", "checked": false, "parentId": 97 },
+      { "id": 100, "name": "ブラウン", "checked": false, "parentId": 97 },
+      { "id": 101, "name": "ライムイエロー", "checked": false, "parentId": 97 },
+      { "id": 102, "name": "カーキ", "checked": false, "parentId": 97 }
+    ]
   }
 ]
