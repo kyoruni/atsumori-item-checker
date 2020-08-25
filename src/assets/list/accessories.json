@@ -648,5 +648,101 @@
       { "id": 241, "name": "ホワイト", "checked": false, "parentId": 234 },
       { "id": 242, "name": "パープル", "checked": false, "parentId": 234 }
     ]
+  },
+  {
+    "id": 243,
+    "name": "まきヒゲ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 244,
+    "name": "マスク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 235,
+    "name": "まるめがね",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 236, "name": "ブラック", "checked": false, "parentId": 235 },
+      { "id": 237, "name": "ゴールド", "checked": false, "parentId": 235 },
+      { "id": 238, "name": "グレー", "checked": false, "parentId": 235 },
+      { "id": 239, "name": "ブラウン", "checked": false, "parentId": 235 },
+      { "id": 240, "name": "パープル", "checked": false, "parentId": 235 }
+    ]
+  },
+  {
+    "id": 241,
+    "name": "モノクル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 242, "name": "ブラック", "checked": false, "parentId": 241 },
+      { "id": 243, "name": "ゴールド", "checked": false, "parentId": 241 },
+      { "id": 244, "name": "シルバー", "checked": false, "parentId": 241 }
+    ]
+  },
+  {
+    "id": 245,
+    "name": "ラインストーンめがね",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 246, "name": "レッド", "checked": false, "parentId": 245 },
+      { "id": 247, "name": "オーカー", "checked": false, "parentId": 245 },
+      { "id": 248, "name": "パープル", "checked": false, "parentId": 245 }
+    ]
+  },
+  {
+    "id": 249,
+    "name": "ラウンドサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 250, "name": "ブラウン", "checked": false, "parentId": 249 },
+      { "id": 251, "name": "ライトブラウン", "checked": false, "parentId": 249 },
+      { "id": 252, "name": "ダークブラウン", "checked": false, "parentId": 249 },
+      { "id": 253, "name": "グリーン", "checked": false, "parentId": 249 }
+    ]
+  },
+  {
+    "id": 254,
+    "name": "ラウンドひげ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 255,
+    "name": "レザーマスク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 256,
+    "name": "レトロなサングラス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 257, "name": "イエロー", "checked": false, "parentId": 256 },
+      { "id": 258, "name": "グリーン", "checked": false, "parentId": 256 },
+      { "id": 259, "name": "レッド", "checked": false, "parentId": 256 },
+      { "id": 260, "name": "パープル", "checked": false, "parentId": 256 },
+      { "id": 261, "name": "ブルー", "checked": false, "parentId": 256 },
+      { "id": 262, "name": "グレー", "checked": false, "parentId": 256 }
+    ]
+  },
+  {
+    "id": 263,
+    "name": "をかしなめがね",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 264, "name": "ブラウン", "checked": false, "parentId": 263 },
+      { "id": 265, "name": "ピンク", "checked": false, "parentId": 263 },
+      { "id": 266, "name": "ブルー", "checked": false, "parentId": 263 }
+    ]
   }
 ]
