@@ -310,5 +310,51 @@
       { "id": 112, "name": "ブラック", "checked": false, "parentId": 111 },
       { "id": 113, "name": "レッド", "checked": false, "parentId": 111 }
     ]
+  },
+  {
+    "id": 114,
+    "name": "にんじゃずきん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 115, "name": "こん", "checked": false, "parentId": 114 },
+      { "id": 116, "name": "はいいろ", "checked": false, "parentId": 114 },
+      { "id": 117, "name": "あか", "checked": false, "parentId": 114 },
+      { "id": 118, "name": "むらさき", "checked": false, "parentId": 114 },
+      { "id": 119, "name": "みずいろ", "checked": false, "parentId": 114 },
+      { "id": 120, "name": "みどり", "checked": false, "parentId": 114 },
+      { "id": 121, "name": "きいろ", "checked": false, "parentId": 114 },
+      { "id": 122, "name": "だいだい", "checked": false, "parentId": 114 }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "ネコのかぶりもの",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 124, "name": "ネイビー", "checked": false, "parentId": 123 },
+      { "id": 125, "name": "ブラウン", "checked": false, "parentId": 123 },
+      { "id": 126, "name": "ホワイト", "checked": false, "parentId": 123 }
+    ]
+  },
+  {
+    "id": 127,
+    "name": "のうぎょうぼう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 128, "name": "ピンク", "checked": false, "parentId": 127 },
+      { "id": 129, "name": "ブルー", "checked": false, "parentId": 127 },
+      { "id": 130, "name": "オレンジ", "checked": false, "parentId": 127 },
+      { "id": 131, "name": "グリーン", "checked": false, "parentId": 127 },
+      { "id": 132, "name": "パープル", "checked": false, "parentId": 127 }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "のうめん",
+    "checked": false,
+    "variation": false
   }
 ]
