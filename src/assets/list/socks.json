@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "アーガイルソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2, "name": "ブルー", "checked": false, "parentId": 1 },
+      { "id": 3, "name": "レッド", "checked": false, "parentId": 1 },
+      { "id": 4, "name": "グリーン", "checked": false, "parentId": 1 },
+      { "id": 5, "name": "ベージュ", "checked": false, "parentId": 1 },
+      { "id": 6, "name": "グレー", "checked": false, "parentId": 1 },
+      { "id": 7, "name": "ホワイト", "checked": false, "parentId": 1 },
+      { "id": 8, "name": "オレンジ", "checked": false, "parentId": 1 },
+      { "id": 9, "name": "ピンク", "checked": false, "parentId": 1 }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "あなあきソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 11, "name": "ブルー", "checked": false, "parentId": 10 },
+      { "id": 12, "name": "ネイビー", "checked": false, "parentId": 10 },
+      { "id": 13, "name": "ホワイト", "checked": false, "parentId": 10 }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "あなあきタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 15, "name": "ブラック", "checked": false, "parentId": 14 },
+      { "id": 16, "name": "ピンク", "checked": false, "parentId": 14 },
+      { "id": 17, "name": "ライトブルー", "checked": false, "parentId": 14 },
+      { "id": 18, "name": "レッド", "checked": false, "parentId": 14 },
+      { "id": 19, "name": "パープル", "checked": false, "parentId": 14 },
+      { "id": 20, "name": "グリーン", "checked": false, "parentId": 14 },
+      { "id": 21, "name": "ブルー", "checked": false, "parentId": 14 },
+      { "id": 22, "name": "イエロー", "checked": false, "parentId": 14 }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "あみタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 24, "name": "ブラック", "checked": false, "parentId": 23 },
+      { "id": 25, "name": "ホワイト", "checked": false, "parentId": 23 },
+      { "id": 26, "name": "レッド", "checked": false, "parentId": 23 }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "アランニットのソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 28, "name": "ベージュ", "checked": false, "parentId": 27 },
+      { "id": 29, "name": "ホワイト", "checked": false, "parentId": 27 },
+      { "id": 30, "name": "レッド", "checked": false, "parentId": 27 },
+      { "id": 31, "name": "グリーン", "checked": false, "parentId": 27 },
+      { "id": 32, "name": "ブルー", "checked": false, "parentId": 27 },
+      { "id": 33, "name": "ブラック", "checked": false, "parentId": 27 }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "エアロビレギンス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 35, "name": "レッド×ピンク", "checked": false, "parentId": 34 },
+      { "id": 36, "name": "エメラルド×ライム", "checked": false, "parentId": 34 },
+      { "id": 37, "name": "パープル×オレンジ", "checked": false, "parentId": 34 },
+      { "id": 38, "name": "ライトブルー×サーモンピンク", "checked": false, "parentId": 34 },
+      { "id": 39, "name": "イエロー×ブルー", "checked": false, "parentId": 34 }
+    ]
+  }
+]
