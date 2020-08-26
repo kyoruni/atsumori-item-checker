@@ -79,5 +79,138 @@
       { "id": 38, "name": "ライトブルー×サーモンピンク", "checked": false, "parentId": 34 },
       { "id": 39, "name": "イエロー×ブルー", "checked": false, "parentId": 34 }
     ]
+  },
+  {
+    "id": 40,
+    "name": "ガーターつきストッキング",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 41, "name": "ブラック", "checked": false, "parentId": 40 },
+      { "id": 42, "name": "ホワイト", "checked": false, "parentId": 40 },
+      { "id": 43, "name": "パープル", "checked": false, "parentId": 40 },
+      { "id": 44, "name": "レッド", "checked": false, "parentId": 40 }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "かぎばりあみソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 46, "name": "ベージュ", "checked": false, "parentId": 45 },
+      { "id": 47, "name": "グレー", "checked": false, "parentId": 45 },
+      { "id": 48, "name": "パープル", "checked": false, "parentId": 45 },
+      { "id": 49, "name": "ブルー", "checked": false, "parentId": 45 }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "かさねばきソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 51, "name": "パープル", "checked": false, "parentId": 50 },
+      { "id": 52, "name": "ブルー", "checked": false, "parentId": 50 },
+      { "id": 53, "name": "イエロー", "checked": false, "parentId": 50 },
+      { "id": 54, "name": "グリーン", "checked": false, "parentId": 50 },
+      { "id": 55, "name": "レッド", "checked": false, "parentId": 50 },
+      { "id": 56, "name": "オレンジ", "checked": false, "parentId": 50 }
+    ]
+  },
+  {
+    "id": 57,
+    "name": "カントリーソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 58, "name": "レッドリボン", "checked": false, "parentId": 57 },
+      { "id": 59, "name": "グリーンリボン", "checked": false, "parentId": 57 },
+      { "id": 60, "name": "ブルーリボン", "checked": false, "parentId": 57 },
+      { "id": 61, "name": "ブラックリボン", "checked": false, "parentId": 57 }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "キッズソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 63, "name": "レッド×ライトブルー", "checked": false, "parentId": 62 },
+      { "id": 64, "name": "ブルー×オレンジ", "checked": false, "parentId": 62 },
+      { "id": 65, "name": "ライム×ピンク", "checked": false, "parentId": 62 },
+      { "id": 66, "name": "イエロー×パープル", "checked": false, "parentId": 62 },
+      { "id": 67, "name": "ライトブルー×レッド", "checked": false, "parentId": 62 },
+      { "id": 68, "name": "パープル×グリーン", "checked": false, "parentId": 62 },
+      { "id": 69, "name": "ピンク×イエロー", "checked": false, "parentId": 62 },
+      { "id": 70, "name": "ブラック×グレー", "checked": false, "parentId": 62 }
+    ]
+  },
+  {
+    "id": 71,
+    "name": "キャラクターソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 72, "name": "ピンク", "checked": false, "parentId": 71 },
+      { "id": 73, "name": "ブルー", "checked": false, "parentId": 71 },
+      { "id": 74, "name": "レッド", "checked": false, "parentId": 71 },
+      { "id": 75, "name": "グリーン", "checked": false, "parentId": 71 },
+      { "id": 76, "name": "ブラック", "checked": false, "parentId": 71 }
+    ]
+  },
+  {
+    "id": 77,
+    "name": "くしゅくしゅソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 78, "name": "マスタード", "checked": false, "parentId": 77 },
+      { "id": 79, "name": "レッド", "checked": false, "parentId": 77 },
+      { "id": 80, "name": "ブルー", "checked": false, "parentId": 77 },
+      { "id": 81, "name": "グリーン", "checked": false, "parentId": 77 },
+      { "id": 82, "name": "パープル", "checked": false, "parentId": 77 }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "ケイトのソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 84, "name": "トワイライト", "checked": false, "parentId": 83 },
+      { "id": 85, "name": "ミッドナイト", "checked": false, "parentId": 83 },
+      { "id": 86, "name": "パッション", "checked": false, "parentId": 83 },
+      { "id": 87, "name": "オーシャン", "checked": false, "parentId": 83 },
+      { "id": 88, "name": "サンセット", "checked": false, "parentId": 83 },
+      { "id": 89, "name": "ラブ", "checked": false, "parentId": 83 }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "ケイトのタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 91, "name": "トワイライト", "checked": false, "parentId": 90 },
+      { "id": 92, "name": "ミッドナイト", "checked": false, "parentId": 90 },
+      { "id": 93, "name": "パッション", "checked": false, "parentId": 90 },
+      { "id": 94, "name": "オーシャン", "checked": false, "parentId": 90 },
+      { "id": 95, "name": "サンセット", "checked": false, "parentId": 90 },
+      { "id": 96, "name": "ラブ", "checked": false, "parentId": 90 }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "コンプレッションタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 98, "name": "ブルー", "checked": false, "parentId": 97 },
+      { "id": 99, "name": "イエロー", "checked": false, "parentId": 97 },
+      { "id": 100, "name": "ピンク", "checked": false, "parentId": 97 },
+      { "id": 101, "name": "ミント", "checked": false, "parentId": 97 },
+      { "id": 102, "name": "レッド", "checked": false, "parentId": 97 }
+    ]
   }
 ]
