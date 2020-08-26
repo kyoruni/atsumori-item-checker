@@ -67,7 +67,7 @@
     "name": "masks",
     "text": "かぶりもの",
     "icon": "fab fa-redhat",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 11,
