@@ -81,7 +81,7 @@
     "name": "socks",
     "text": "くつした",
     "icon": "fas fa-socks",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 13,

@@ -78,6 +78,7 @@ import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
 import masksList from '@/assets/list/masks.json'
 import accessoriesList from '@/assets/list/accessories.json'
+import socksList from '@/assets/list/socks.json'
 import umbrellaList from '@/assets/list/umbrella.json'
 import bugList from '@/assets/list/bug.json'
 import fishList from '@/assets/list/fish.json'
@@ -141,6 +142,9 @@ export default {
           break
         case 'accessories':
           labelText = 'アクセサリー'
+          break
+        case 'socks':
+          labelText = 'くつした'
           break
         case 'umbrella':
           labelText = 'かさ'
@@ -233,6 +237,10 @@ export default {
         case 'accessories':
           this.items = accessoriesList
           this.displayItems = accessoriesList
+          break
+        case 'socks':
+          this.items = socksList
+          this.displayItems = socksList
           break
         case 'umbrella':
           this.items = umbrellaList
