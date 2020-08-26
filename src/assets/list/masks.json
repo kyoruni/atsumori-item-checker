@@ -596,5 +596,36 @@
     "name": "モヒカン",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 234,
+    "name": "やきゅうのヘルメット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 235, "name": "レッド", "checked": false, "parentId": 234 },
+      { "id": 236, "name": "ネイビー", "checked": false, "parentId": 234 },
+      { "id": 237, "name": "グリーン", "checked": false, "parentId": 234 },
+      { "id": 238, "name": "オレンジ", "checked": false, "parentId": 234 },
+      { "id": 239, "name": "イエロー", "checked": false, "parentId": 234 }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "ゆきだるまのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 241,
+    "name": "ようせつマスク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 242,
+    "name": "リーゼント",
+    "checked": false,
+    "variation": false
   }
 ]
