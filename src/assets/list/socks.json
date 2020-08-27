@@ -212,5 +212,147 @@
       { "id": 101, "name": "ミント", "checked": false, "parentId": 97 },
       { "id": 102, "name": "レッド", "checked": false, "parentId": 97 }
     ]
+  },
+  {
+    "id": 103,
+    "name": "サッカーソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 104, "name": "ブルー", "checked": false, "parentId": 103 },
+      { "id": 105, "name": "レッド", "checked": false, "parentId": 103 },
+      { "id": 106, "name": "グリーン", "checked": false, "parentId": 103 },
+      { "id": 107, "name": "ライトブルー", "checked": false, "parentId": 103 },
+      { "id": 108, "name": "ブラック", "checked": false, "parentId": 103 },
+      { "id": 109, "name": "オレンジ", "checked": false, "parentId": 103 },
+      { "id": 110, "name": "ホワイト", "checked": false, "parentId": 103 }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "シースルーソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 112, "name": "ブルー", "checked": false, "parentId": 111 },
+      { "id": 113, "name": "ワインレッド", "checked": false, "parentId": 111 },
+      { "id": 114, "name": "ブラウン", "checked": false, "parentId": 111 },
+      { "id": 115, "name": "グリーン", "checked": false, "parentId": 111 },
+      { "id": 116, "name": "オリーブ", "checked": false, "parentId": 111 },
+      { "id": 117, "name": "グレー", "checked": false, "parentId": 111 }
+    ]
+  },
+  {
+    "id": 118,
+    "name": "シンプルなニーハイソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 119, "name": "ピンク", "checked": false, "parentId": 118 },
+      { "id": 120, "name": "ホワイト", "checked": false, "parentId": 118 },
+      { "id": 121, "name": "レッド", "checked": false, "parentId": 118 },
+      { "id": 122, "name": "ブルー", "checked": false, "parentId": 118 }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "ストッキング",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 124, "name": "ブラック", "checked": false, "parentId": 123 },
+      { "id": 125, "name": "グレー", "checked": false, "parentId": 123 },
+      { "id": 126, "name": "ホワイト", "checked": false, "parentId": 123 },
+      { "id": 127, "name": "ブラウン", "checked": false, "parentId": 123 },
+      { "id": 128, "name": "ベージュ", "checked": false, "parentId": 123 }
+    ]
+  },
+  {
+    "id": 129,
+    "name": "ストライプソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 130, "name": "レッド", "checked": false, "parentId": 129 },
+      { "id": 131, "name": "グレー", "checked": false, "parentId": 129 },
+      { "id": 132, "name": "ピンク", "checked": false, "parentId": 129 },
+      { "id": 133, "name": "ライトブルー", "checked": false, "parentId": 129 },
+      { "id": 134, "name": "イエロー", "checked": false, "parentId": 129 },
+      { "id": 135, "name": "パープル", "checked": false, "parentId": 129 },
+      { "id": 136, "name": "グリーン", "checked": false, "parentId": 129 },
+      { "id": 137, "name": "オレンジ", "checked": false, "parentId": 129 }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "ストレッチレギンス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 139, "name": "ネイビー", "checked": false, "parentId": 138 },
+      { "id": 140, "name": "グレー", "checked": false, "parentId": 138 },
+      { "id": 141, "name": "ダークグレー", "checked": false, "parentId": 138 },
+      { "id": 142, "name": "ホワイト", "checked": false, "parentId": 138 },
+      { "id": 143, "name": "ブラック", "checked": false, "parentId": 138 },
+      { "id": 144, "name": "ブラウン", "checked": false, "parentId": 138 },
+      { "id": 145, "name": "グリーン", "checked": false, "parentId": 138 }
+    ]
+  },
+  {
+    "id": 146,
+    "name": "スニーカーインソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 147, "name": "グレー", "checked": false, "parentId": 146 },
+      { "id": 148, "name": "ホワイト", "checked": false, "parentId": 146 },
+      { "id": 149, "name": "ワインレッド", "checked": false, "parentId": 146 },
+      { "id": 150, "name": "ライトブルー", "checked": false, "parentId": 146 },
+      { "id": 151, "name": "オレンジ", "checked": false, "parentId": 146 },
+      { "id": 152, "name": "グリーン", "checked": false, "parentId": 146 },
+      { "id": 153, "name": "ネイビー", "checked": false, "parentId": 146 },
+      { "id": 154, "name": "イエロー", "checked": false, "parentId": 146 }
+    ]
+  },
+  {
+    "id": 155,
+    "name": "スパイダーなタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 156, "name": "ブラック", "checked": false, "parentId": 155 },
+      { "id": 157, "name": "ホワイト", "checked": false, "parentId": 155 },
+      { "id": 158, "name": "オレンジ", "checked": false, "parentId": 155 },
+      { "id": 159, "name": "パープル", "checked": false, "parentId": 155 }
+    ]
+  },
+  {
+    "id": 160,
+    "name": "スパンコールレギンス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 161, "name": "ピンク", "checked": false, "parentId": 160 },
+      { "id": 162, "name": "レッド", "checked": false, "parentId": 160 },
+      { "id": 163, "name": "ブラック", "checked": false, "parentId": 160 },
+      { "id": 164, "name": "イエロー", "checked": false, "parentId": 160 },
+      { "id": 165, "name": "ホワイト", "checked": false, "parentId": 160 },
+      { "id": 166, "name": "ブルー", "checked": false, "parentId": 160 },
+      { "id": 167, "name": "パープル", "checked": false, "parentId": 160 },
+      { "id": 168, "name": "グリーン", "checked": false, "parentId": 160 }
+    ]
+  },
+  {
+    "id": 169,
+    "name": "せいがいはソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 170, "name": "ブルー", "checked": false, "parentId": 169 },
+      { "id": 171, "name": "ブラウン", "checked": false, "parentId": 169 },
+      { "id": 172, "name": "パープル", "checked": false, "parentId": 169 },
+      { "id": 173, "name": "グリーン", "checked": false, "parentId": 169 },
+      { "id": 174, "name": "グレー", "checked": false, "parentId": 169 }
+    ]
   }
 ]
