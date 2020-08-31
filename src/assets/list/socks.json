@@ -458,5 +458,78 @@
       { "id": 216, "name": "シアン", "checked": false, "parentId": 213 },
       { "id": 217, "name": "グレー", "checked": false, "parentId": 213 }
     ]
+  },
+  {
+    "id": 218,
+    "name": "ニュアンスソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 219, "name": "グリーン", "checked": false, "parentId": 218 },
+      { "id": 220, "name": "レッド", "checked": false, "parentId": 218 },
+      { "id": 221, "name": "ブルー", "checked": false, "parentId": 218 },
+      { "id": 222, "name": "ネイビー", "checked": false, "parentId": 218 },
+      { "id": 223, "name": "パープル", "checked": false, "parentId": 218 },
+      { "id": 224, "name": "キャメル", "checked": false, "parentId": 218 },
+      { "id": 225, "name": "カーキ", "checked": false, "parentId": 218 },
+      { "id": 226, "name": "ブラウン", "checked": false, "parentId": 218 }
+    ]
+  },
+  {
+    "id": 227,
+    "name": "ニュアンスタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 228, "name": "ブラウン", "checked": false, "parentId": 227 },
+      { "id": 229, "name": "イエロー", "checked": false, "parentId": 227 },
+      { "id": 230, "name": "グリーン", "checked": false, "parentId": 227 },
+      { "id": 231, "name": "パープル", "checked": false, "parentId": 227 },
+      { "id": 232, "name": "ブルー", "checked": false, "parentId": 227 },
+      { "id": 233, "name": "ピンク", "checked": false, "parentId": 227 },
+      { "id": 234, "name": "レッド", "checked": false, "parentId": 227 },
+      { "id": 235, "name": "イエローグリーン", "checked": false, "parentId": 227 }
+    ]
+  },
+  {
+    "id": 236,
+    "name": "ネオンタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 237, "name": "イエロー", "checked": false, "parentId": 236 },
+      { "id": 238, "name": "ピンク", "checked": false, "parentId": 236 },
+      { "id": 239, "name": "オレンジ", "checked": false, "parentId": 236 },
+      { "id": 240, "name": "グリーン", "checked": false, "parentId": 236 },
+      { "id": 241, "name": "パープル", "checked": false, "parentId": 236 }
+    ]
+  },
+  {
+    "id": 242,
+    "name": "ネオンレギンス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 243, "name": "イエロー", "checked": false, "parentId": 242 },
+      { "id": 244, "name": "ピンク", "checked": false, "parentId": 242 },
+      { "id": 245, "name": "オレンジ", "checked": false, "parentId": 242 },
+      { "id": 246, "name": "グリーン", "checked": false, "parentId": 242 },
+      { "id": 247, "name": "パープル", "checked": false, "parentId": 242 }
+    ]
+  },
+  {
+    "id": 248,
+    "name": "ノルディックなソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 249, "name": "ネイビー", "checked": false, "parentId": 248 },
+      { "id": 250, "name": "アイボリー", "checked": false, "parentId": 248 },
+      { "id": 251, "name": "レッド", "checked": false, "parentId": 248 },
+      { "id": 252, "name": "ブルー", "checked": false, "parentId": 248 },
+      { "id": 253, "name": "グレー", "checked": false, "parentId": 248 },
+      { "id": 254, "name": "グリーン", "checked": false, "parentId": 248 },
+      { "id": 255, "name": "ライトブルー", "checked": false, "parentId": 248 }
+    ]
   }
 ]
