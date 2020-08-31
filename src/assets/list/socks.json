@@ -740,5 +740,74 @@
       { "id": 360, "name": "レッド", "checked": false, "parentId": 354 },
       { "id": 361, "name": "グレー", "checked": false, "parentId": 354 }
     ]
+  },
+  {
+    "id": 362,
+    "name": "ラインソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 363, "name": "ブルー", "checked": false, "parentId": 362 },
+      { "id": 364, "name": "オレンジ", "checked": false, "parentId": 362 },
+      { "id": 365, "name": "グリーン", "checked": false, "parentId": 362 },
+      { "id": 366, "name": "レッド", "checked": false, "parentId": 362 },
+      { "id": 367, "name": "ネイビー", "checked": false, "parentId": 362 },
+      { "id": 368, "name": "ワインレッド", "checked": false, "parentId": 362 },
+      { "id": 369, "name": "ダークグリーン", "checked": false, "parentId": 362 },
+      { "id": 370, "name": "パープル", "checked": false, "parentId": 362 }
+    ]
+  },
+  {
+    "id": 371,
+    "name": "ランニングタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 372, "name": "ピンク", "checked": false, "parentId": 371 },
+      { "id": 373, "name": "イエロー", "checked": false, "parentId": 371 },
+      { "id": 374, "name": "ブルー", "checked": false, "parentId": 371 },
+      { "id": 375, "name": "グリーン", "checked": false, "parentId": 371 }
+    ]
+  },
+  {
+    "id": 376,
+    "name": "リボンソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 377, "name": "ピンク", "checked": false, "parentId": 376 },
+      { "id": 378, "name": "イエロー", "checked": false, "parentId": 376 },
+      { "id": 379, "name": "ブラック", "checked": false, "parentId": 376 },
+      { "id": 380, "name": "ホワイト", "checked": false, "parentId": 376 },
+      { "id": 381, "name": "ブルー", "checked": false, "parentId": 376 },
+      { "id": 382, "name": "ピーコックブルー", "checked": false, "parentId": 376 }
+    ]
+  },
+  {
+    "id": 383,
+    "name": "レースのソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 384, "name": "ホワイト", "checked": false, "parentId": 383 },
+      { "id": 385, "name": "ピンク", "checked": false, "parentId": 383 },
+      { "id": 386, "name": "グリーン", "checked": false, "parentId": 383 },
+      { "id": 387, "name": "ブラック", "checked": false, "parentId": 383 },
+      { "id": 388, "name": "ベージュ", "checked": false, "parentId": 383 }
+    ]
+  },
+  {
+    "id": 389,
+    "name": "レッグウォーマー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 390, "name": "パープル", "checked": false, "parentId": 389 },
+      { "id": 391, "name": "ブラック", "checked": false, "parentId": 389 },
+      { "id": 392, "name": "グレー", "checked": false, "parentId": 389 },
+      { "id": 393, "name": "ピンク", "checked": false, "parentId": 389 },
+      { "id": 394, "name": "ライトパープル", "checked": false, "parentId": 389 },
+      { "id": 395, "name": "ブルー", "checked": false, "parentId": 389 }
+    ]
   }
 ]
