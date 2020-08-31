@@ -70,13 +70,12 @@
 </template>
 
 <script>
-import categories from '@/assets/json/categories.json'
 import variables from '@/assets/scss/_variables.scss'
 import furnitureList from '@/assets/list/furniture.json'
 import wallList from '@/assets/list/wall.json'
 import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
-import masksList from '@/assets/list/masks.json'
+import capsList from '@/assets/list/caps.json'
 import accessoriesList from '@/assets/list/accessories.json'
 import socksList from '@/assets/list/socks.json'
 import umbrellaList from '@/assets/list/umbrella.json'
@@ -137,7 +136,7 @@ export default {
         case 'rug':
           labelText = 'ラグ'
           break
-        case 'masks':
+        case 'caps':
           labelText = 'かぶりもの'
           break
         case 'accessories':
@@ -230,9 +229,9 @@ export default {
           this.items = rugList
           this.displayItems = rugList
           break
-        case 'masks':
-          this.items = masksList
-          this.displayItems = masksList
+        case 'caps':
+          this.items = capsList
+          this.displayItems = capsList
           break
         case 'accessories':
           this.items = accessoriesList
@@ -395,18 +394,15 @@ export default {
       return returnArray
     },
     bugFixed () {
-      // 全カテゴリでループ
-      let checkedData = []
-      categories.forEach(category => {
-        // v0.01 → v0.02：バイナリ変換しない形に戻して、ローカルストレージ上書き
-        const localStorageData = localStorage.getItem(category.name)
-        if (localStorageData) {
-          checkedData = this.base64ToArray(localStorageData)
-          localStorage.setItem(category.name + 'v0.02', checkedData)
-          // データ移行が完了したら、ローカルストレージから削除
-          localStorage.removeItem(category.name)
-        }
-      })
+      const deleteCategory = 'masksv0.02'
+      const newCategory = 'capsv0.02'
+      // masksカテゴリーのデータを削除
+      const localStorageData = localStorage.getItem(deleteCategory)
+      if (!localStorageData) return null // かぶりものにチェックがない場合、何もしない
+      // masksカテゴリーのデータを、capsカテゴリーに移動
+      localStorage.setItem(newCategory, localStorageData)
+      // データ移行が完了したら、ローカルストレージから削除
+      localStorage.removeItem(deleteCategory)
     },
   },
   beforeMount () {
