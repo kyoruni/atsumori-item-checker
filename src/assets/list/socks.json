@@ -531,5 +531,155 @@
       { "id": 254, "name": "グリーン", "checked": false, "parentId": 248 },
       { "id": 255, "name": "ライトブルー", "checked": false, "parentId": 248 }
     ]
+  },
+  {
+    "id": 256,
+    "name": "はながらししゅうのタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 257, "name": "ブラウン", "checked": false, "parentId": 256 },
+      { "id": 258, "name": "ブラック", "checked": false, "parentId": 256 },
+      { "id": 259, "name": "グリーン", "checked": false, "parentId": 256 },
+      { "id": 260, "name": "ベージュ", "checked": false, "parentId": 256 },
+      { "id": 261, "name": "ブルー", "checked": false, "parentId": 256 },
+      { "id": 262, "name": "パープル", "checked": false, "parentId": 256 }
+    ]
+  },
+  {
+    "id": 263,
+    "name": "ビビッドなソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 264, "name": "グリーン", "checked": false, "parentId": 263 },
+      { "id": 265, "name": "レッド", "checked": false, "parentId": 263 },
+      { "id": 266, "name": "ライトブルー", "checked": false, "parentId": 263 },
+      { "id": 267, "name": "ブルー", "checked": false, "parentId": 263 },
+      { "id": 268, "name": "パープル", "checked": false, "parentId": 263 },
+      { "id": 269, "name": "ピンク", "checked": false, "parentId": 263 },
+      { "id": 270, "name": "オレンジ", "checked": false, "parentId": 263 },
+      { "id": 271, "name": "イエロー", "checked": false, "parentId": 263 }
+    ]
+  },
+  {
+    "id": 272,
+    "name": "ビビッドなタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 273, "name": "ライトブルー", "checked": false, "parentId": 272 },
+      { "id": 274, "name": "パープル", "checked": false, "parentId": 272 },
+      { "id": 275, "name": "レッド", "checked": false, "parentId": 272 },
+      { "id": 276, "name": "ピンク", "checked": false, "parentId": 272 },
+      { "id": 277, "name": "ブルー", "checked": false, "parentId": 272 },
+      { "id": 278, "name": "イエロー", "checked": false, "parentId": 272 },
+      { "id": 279, "name": "グリーン", "checked": false, "parentId": 272 },
+      { "id": 280, "name": "オレンジ", "checked": false, "parentId": 272 }
+    ]
+  },
+  {
+    "id": 281,
+    "name": "ビビッドなレギンス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 282, "name": "ライトブルー", "checked": false, "parentId": 281 },
+      { "id": 283, "name": "パープル", "checked": false, "parentId": 281 },
+      { "id": 284, "name": "レッド", "checked": false, "parentId": 281 },
+      { "id": 285, "name": "ピンク", "checked": false, "parentId": 281 },
+      { "id": 286, "name": "ブルー", "checked": false, "parentId": 281 },
+      { "id": 287, "name": "イエロー", "checked": false, "parentId": 281 },
+      { "id": 288, "name": "グリーン", "checked": false, "parentId": 281 },
+      { "id": 289, "name": "オレンジ", "checked": false, "parentId": 281 }
+    ]
+  },
+  {
+    "id": 290,
+    "name": "フットカバー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 291, "name": "ブルー", "checked": false, "parentId": 290 },
+      { "id": 292, "name": "ピンク", "checked": false, "parentId": 290 },
+      { "id": 293, "name": "ブラウン", "checked": false, "parentId": 290 },
+      { "id": 294, "name": "オリーブ", "checked": false, "parentId": 290 },
+      { "id": 295, "name": "グリーン", "checked": false, "parentId": 290 },
+      { "id": 296, "name": "パープル", "checked": false, "parentId": 290 },
+      { "id": 297, "name": "ブラック", "checked": false, "parentId": 290 },
+      { "id": 298, "name": "ホワイト", "checked": false, "parentId": 290 }
+    ]
+  },
+  {
+    "id": 299,
+    "name": "フラワードットタイツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 300, "name": "ホワイト", "checked": false, "parentId": 299 },
+      { "id": 301, "name": "ピンク", "checked": false, "parentId": 299 },
+      { "id": 302, "name": "ブルー", "checked": false, "parentId": 299 },
+      { "id": 303, "name": "イエロー", "checked": false, "parentId": 299 },
+      { "id": 304, "name": "ブラック", "checked": false, "parentId": 299 }
+    ]
+  },
+  {
+    "id": 305,
+    "name": "フリルソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 306, "name": "ホワイト", "checked": false, "parentId": 305 },
+      { "id": 307, "name": "イエロー", "checked": false, "parentId": 305 },
+      { "id": 308, "name": "ピンク", "checked": false, "parentId": 305 },
+      { "id": 309, "name": "グリーン", "checked": false, "parentId": 305 },
+      { "id": 310, "name": "パープル", "checked": false, "parentId": 305 },
+      { "id": 311, "name": "ブルー", "checked": false, "parentId": 305 }
+    ]
+  },
+  {
+    "id": 312,
+    "name": "フリルつきニーハイソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 313, "name": "ブラック", "checked": false, "parentId": 312 },
+      { "id": 314, "name": "グリーン", "checked": false, "parentId": 312 },
+      { "id": 315, "name": "レッド", "checked": false, "parentId": 312 },
+      { "id": 316, "name": "ブラウン", "checked": false, "parentId": 312 },
+      { "id": 317, "name": "ミント", "checked": false, "parentId": 312 },
+      { "id": 318, "name": "ピンク", "checked": false, "parentId": 312 },
+      { "id": 319, "name": "パープル", "checked": false, "parentId": 312 },
+      { "id": 320, "name": "イエロー", "checked": false, "parentId": 312 }
+    ]
+  },
+  {
+    "id": 321,
+    "name": "ボーダーソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 322, "name": "モノトーン", "checked": false, "parentId": 321 },
+      { "id": 323, "name": "ライトブルー", "checked": false, "parentId": 321 },
+      { "id": 324, "name": "グリーン", "checked": false, "parentId": 321 },
+      { "id": 325, "name": "イエロー", "checked": false, "parentId": 321 },
+      { "id": 326, "name": "オレンジ", "checked": false, "parentId": 321 },
+      { "id": 327, "name": "レッド", "checked": false, "parentId": 321 },
+      { "id": 328, "name": "パープル", "checked": false, "parentId": 321 },
+      { "id": 329, "name": "ブルー", "checked": false, "parentId": 321 }
+    ]
+  },
+  {
+    "id": 330,
+    "name": "ポンポンソックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 331, "name": "ピンク", "checked": false, "parentId": 330 },
+      { "id": 332, "name": "ブルー", "checked": false, "parentId": 330 },
+      { "id": 333, "name": "グリーン", "checked": false, "parentId": 330 },
+      { "id": 334, "name": "オレンジ", "checked": false, "parentId": 330 },
+      { "id": 335, "name": "パープル", "checked": false, "parentId": 330 }
+    ]
   }
 ]
