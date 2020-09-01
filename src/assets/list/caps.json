@@ -821,5 +821,238 @@
     "name": "オレンジのぼうし",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 314,
+    "name": "かいぞくのおたからおうかん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 315,
+    "name": "かいぞくのバンダナ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 316, "name": "レッド", "checked": false, "parentId": 315 },
+      { "id": 317, "name": "ブルー", "checked": false, "parentId": 315 },
+      { "id": 318, "name": "ブラック", "checked": false, "parentId": 315 }
+    ]
+  },
+  {
+    "id": 319,
+    "name": "かいぞくのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 320,
+    "name": "がくしのぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 321, "name": "レッド", "checked": false, "parentId": 320 },
+      { "id": 322, "name": "グリーン", "checked": false, "parentId": 320 },
+      { "id": 323, "name": "ブルー", "checked": false, "parentId": 320 },
+      { "id": 324, "name": "イエロー", "checked": false, "parentId": 320 }
+    ]
+  },
+  {
+    "id": 325,
+    "name": "がくせいぼう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 326, "name": "ブラック", "checked": false, "parentId": 325 },
+      { "id": 327, "name": "ワインレッド", "checked": false, "parentId": 325 },
+      { "id": 328, "name": "グリーン", "checked": false, "parentId": 325 },
+      { "id": 329, "name": "ホワイト", "checked": false, "parentId": 325 },
+      { "id": 330, "name": "パープル", "checked": false, "parentId": 325 },
+      { "id": 331, "name": "グレー", "checked": false, "parentId": 325 },
+      { "id": 332, "name": "ブルー", "checked": false, "parentId": 325 }
+    ]
+  },
+  {
+    "id": 333,
+    "name": "かさぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 334,
+    "name": "カラフルボーダーニットぼう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 335, "name": "レッド", "checked": false, "parentId": 334 },
+      { "id": 336, "name": "ブルー", "checked": false, "parentId": 334 },
+      { "id": 337, "name": "グリーン", "checked": false, "parentId": 334 },
+      { "id": 338, "name": "イエロー", "checked": false, "parentId": 334 },
+      { "id": 339, "name": "パープル", "checked": false, "parentId": 334 },
+      { "id": 340, "name": "ライトブルー", "checked": false, "parentId": 334 }
+    ]
+  },
+  {
+    "id": 341,
+    "name": "カンカンぼう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 342, "name": "クリーム", "checked": false, "parentId": 341 },
+      { "id": 343, "name": "ベージュ", "checked": false, "parentId": 341 },
+      { "id": 344, "name": "ライトブラウン", "checked": false, "parentId": 341 },
+      { "id": 345, "name": "ブラウン", "checked": false, "parentId": 341 },
+      { "id": 346, "name": "ダークブラウン", "checked": false, "parentId": 341 },
+      { "id": 347, "name": "モノトーン", "checked": false, "parentId": 341 },
+      { "id": 348, "name": "ライトブルー", "checked": false, "parentId": 341 },
+      { "id": 349, "name": "ピンク", "checked": false, "parentId": 341 }
+    ]
+  },
+  {
+    "id": 350,
+    "name": "かんぼう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 351,
+    "name": "キウイのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 352,
+    "name": "キクのかんむり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 353,
+    "name": "キクのかんむり・シック",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 354,
+    "name": "キクのかんむり・シンプル",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 355,
+    "name": "きちょうのぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 356, "name": "ネイビー", "checked": false, "parentId": 355 },
+      { "id": 357, "name": "ブラック", "checked": false, "parentId": 355 },
+      { "id": 358, "name": "ライトブルー", "checked": false, "parentId": 355 }
+    ]
+  },
+  {
+    "id": 359,
+    "name": "キャスケット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 360, "name": "キャメル", "checked": false, "parentId": 359 },
+      { "id": 361, "name": "ブルー", "checked": false, "parentId": 359 },
+      { "id": 362, "name": "グリーン", "checked": false, "parentId": 359 },
+      { "id": 363, "name": "パープル", "checked": false, "parentId": 359 },
+      { "id": 364, "name": "グレー", "checked": false, "parentId": 359 },
+      { "id": 365, "name": "ホワイト", "checked": false, "parentId": 359 }
+    ]
+  },
+  {
+    "id": 366,
+    "name": "キャプテンのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 367,
+    "name": "クイーンのかんむり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 368,
+    "name": "グレンガリーぼう",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 369,
+    "name": "けいかんのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 370,
+    "name": "ケイトのキャップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 371, "name": "トワイライト", "checked": false, "parentId": 370 },
+      { "id": 372, "name": "ミッドナイト", "checked": false, "parentId": 370 },
+      { "id": 373, "name": "パッション", "checked": false, "parentId": 370 },
+      { "id": 374, "name": "オーシャン", "checked": false, "parentId": 370 },
+      { "id": 375, "name": "サンセット", "checked": false, "parentId": 370 },
+      { "id": 376, "name": "ラブ", "checked": false, "parentId": 370 }
+    ]
+  },
+  {
+    "id": 377,
+    "name": "ケイトのぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 378, "name": "トワイライト", "checked": false, "parentId": 377 },
+      { "id": 379, "name": "ミッドナイト", "checked": false, "parentId": 377 },
+      { "id": 380, "name": "パッション", "checked": false, "parentId": 377 },
+      { "id": 381, "name": "オーシャン", "checked": false, "parentId": 377 },
+      { "id": 382, "name": "サンセット", "checked": false, "parentId": 377 },
+      { "id": 383, "name": "ラブ", "checked": false, "parentId": 377 }
+    ]
+  },
+  {
+    "id": 384,
+    "name": "げしさいのはなかんむり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 385,
+    "name": "コスモスのかんむり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 386,
+    "name": "コスモスのかんむり・ダーク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 387,
+    "name": "コスモスのかんむり・ラブリー",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 388,
+    "name": "コックさんのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 389,
+    "name": "コンバットヘルメット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 390, "name": "カーキ", "checked": false, "parentId": 389 },
+      { "id": 391, "name": "ブラウン", "checked": false, "parentId": 389 }
+    ]
   }
 ]
