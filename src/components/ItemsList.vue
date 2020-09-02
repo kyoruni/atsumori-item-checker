@@ -119,7 +119,7 @@ export default {
     },
     // バリエーションのあるカテゴリーかどうか
     showVariation () {
-      return this.category === 'furniture'
+      return this.category === 'furniture' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks'
     },
     labelText () {
       let labelText
