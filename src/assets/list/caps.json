@@ -1507,5 +1507,84 @@
       { "id": 572, "name": "ネイビー", "checked": false, "parentId": 567 },
       { "id": 573, "name": "クリーム", "checked": false, "parentId": 567 }
     ]
+  },
+  {
+    "id": 574,
+    "name": "ナースキャップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 575, "name": "ピンク", "checked": false, "parentId": 574 },
+      { "id": 576, "name": "ホワイト", "checked": false, "parentId": 574 },
+      { "id": 577, "name": "ブルー", "checked": false, "parentId": 574 }
+    ]
+  },
+  {
+    "id": 578,
+    "name": "なかおれハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 579, "name": "ベージュ", "checked": false, "parentId": 578 },
+      { "id": 580, "name": "ブラック", "checked": false, "parentId": 578 },
+      { "id": 581, "name": "グリーン", "checked": false, "parentId": 578 },
+      { "id": 582, "name": "グレー", "checked": false, "parentId": 578 },
+      { "id": 583, "name": "ホワイト", "checked": false, "parentId": 578 },
+      { "id": 584, "name": "レッド", "checked": false, "parentId": 578 }
+    ]
+  },
+  {
+    "id": 585,
+    "name": "ナシのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 586,
+    "name": "ニットキャップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 587, "name": "ブラック", "checked": false, "parentId": 586 },
+      { "id": 588, "name": "ホワイト", "checked": false, "parentId": 586 },
+      { "id": 589, "name": "グレー", "checked": false, "parentId": 586 },
+      { "id": 590, "name": "オーカー", "checked": false, "parentId": 586 },
+      { "id": 591, "name": "レッド", "checked": false, "parentId": 586 },
+      { "id": 592, "name": "ブルー", "checked": false, "parentId": 586 },
+      { "id": 593, "name": "グリーン", "checked": false, "parentId": 586 },
+      { "id": 594, "name": "ピンク", "checked": false, "parentId": 586 }
+    ]
+  },
+  {
+    "id": 595,
+    "name": "ニューイヤーシルクハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 596, "name": "レッド", "checked": false, "parentId": 595 },
+      { "id": 597, "name": "ブルー", "checked": false, "parentId": 595 },
+      { "id": 598, "name": "イエロー", "checked": false, "parentId": 595 },
+      { "id": 599, "name": "グリーン", "checked": false, "parentId": 595 },
+      { "id": 600, "name": "オレンジ", "checked": false, "parentId": 595 },
+      { "id": 601, "name": "パープル", "checked": false, "parentId": 595 },
+      { "id": 602, "name": "ピンク", "checked": false, "parentId": 595 },
+      { "id": 603, "name": "ライトブルー", "checked": false, "parentId": 595 }
+    ]
+  },
+  {
+    "id": 604,
+    "name": "ニューイヤーハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 605, "name": "レッド", "checked": false, "parentId": 604 },
+      { "id": 606, "name": "ブルー", "checked": false, "parentId": 604 },
+      { "id": 607, "name": "イエロー", "checked": false, "parentId": 604 },
+      { "id": 608, "name": "グリーン", "checked": false, "parentId": 604 },
+      { "id": 609, "name": "オレンジ", "checked": false, "parentId": 604 },
+      { "id": 610, "name": "パープル", "checked": false, "parentId": 604 },
+      { "id": 611, "name": "ピンク", "checked": false, "parentId": 604 },
+      { "id": 612, "name": "ライトブルー", "checked": false, "parentId": 604 }
+    ]
   }
 ]
