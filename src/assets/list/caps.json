@@ -2058,5 +2058,68 @@
     "name": "ユリのかんむり・ダーク",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 783,
+    "name": "リボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 784, "name": "グリーン", "checked": false, "parentId": 783 },
+      { "id": 785, "name": "レッド", "checked": false, "parentId": 783 },
+      { "id": 786, "name": "ブルー", "checked": false, "parentId": 783 },
+      { "id": 787, "name": "イエロー", "checked": false, "parentId": 783 },
+      { "id": 788, "name": "オレンジ", "checked": false, "parentId": 783 },
+      { "id": 789, "name": "ピンク", "checked": false, "parentId": 783 },
+      { "id": 790, "name": "ホワイト", "checked": false, "parentId": 783 },
+      { "id": 791, "name": "ブラック", "checked": false, "parentId": 783 }
+    ]
+  },
+  {
+    "id": 792,
+    "name": "リボンつきむぎわらぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 793, "name": "ブルー", "checked": false, "parentId": 792 },
+      { "id": 794, "name": "ピンク", "checked": false, "parentId": 792 },
+      { "id": 795, "name": "ブラック", "checked": false, "parentId": 792 },
+      { "id": 796, "name": "ブラウン", "checked": false, "parentId": 792 }
+    ]
+  },
+  {
+    "id": 797,
+    "name": "リボンボーラーハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 798, "name": "ブルー", "checked": false, "parentId": 797 },
+      { "id": 799, "name": "ベージュ", "checked": false, "parentId": 797 },
+      { "id": 800, "name": "グリーン", "checked": false, "parentId": 797 },
+      { "id": 801, "name": "レッド", "checked": false, "parentId": 797 },
+      { "id": 802, "name": "ピンク", "checked": false, "parentId": 797 }
+    ]
+  },
+  {
+    "id": 803,
+    "name": "リンゴのぼうし",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 804,
+    "name": "レインハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 805, "name": "イエロー", "checked": false, "parentId": 804 },
+      { "id": 806, "name": "グリーン", "checked": false, "parentId": 804 },
+      { "id": 807, "name": "ピンク", "checked": false, "parentId": 804 },
+      { "id": 808, "name": "ブルー", "checked": false, "parentId": 804 },
+      { "id": 809, "name": "レッド", "checked": false, "parentId": 804 },
+      { "id": 810, "name": "ブラック", "checked": false, "parentId": 804 },
+      { "id": 811, "name": "パープル", "checked": false, "parentId": 804 },
+      { "id": 812, "name": "ベージュ", "checked": false, "parentId": 804 }
+    ]
   }
 ]
