@@ -1279,5 +1279,233 @@
       { "id": 494, "name": "ブルー", "checked": false, "parentId": 487 },
       { "id": 495, "name": "オレンジ", "checked": false, "parentId": 487 }
     ]
+  },
+  {
+    "id": 496,
+    "name": "タオル",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 497, "name": "ホワイト", "checked": false, "parentId": 496 },
+      { "id": 498, "name": "ブラック", "checked": false, "parentId": 496 },
+      { "id": 499, "name": "ブルー", "checked": false, "parentId": 496 },
+      { "id": 500, "name": "ブラウン", "checked": false, "parentId": 496 },
+      { "id": 501, "name": "イエロー", "checked": false, "parentId": 496 },
+      { "id": 502, "name": "ワインレッド", "checked": false, "parentId": 496 }
+    ]
+  },
+  {
+    "id": 503,
+    "name": "たぬきかいはつキャップ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 504,
+    "name": "たぬきかいはつバンダナ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 505,
+    "name": "たまごのから",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 506,
+    "name": "たまごのパーティーハット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 507,
+    "name": "たんけんぼう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 508, "name": "キャメル", "checked": false, "parentId": 507 },
+      { "id": 509, "name": "カーキ", "checked": false, "parentId": 507 },
+      { "id": 510, "name": "ベージュ", "checked": false, "parentId": 507 },
+      { "id": 511, "name": "ブルー", "checked": false, "parentId": 507 }
+    ]
+  },
+  {
+    "id": 512,
+    "name": "ちいさめシルクハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 513, "name": "パープル", "checked": false, "parentId": 512 },
+      { "id": 514, "name": "ブラック", "checked": false, "parentId": 512 },
+      { "id": 515, "name": "レッド", "checked": false, "parentId": 512 }
+    ]
+  },
+  {
+    "id": 516,
+    "name": "ちいさめなぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 517, "name": "ライトブルー", "checked": false, "parentId": 516 },
+      { "id": 518, "name": "ピンク", "checked": false, "parentId": 516 },
+      { "id": 519, "name": "ブラック", "checked": false, "parentId": 516 }
+    ]
+  },
+  {
+    "id": 520,
+    "name": "チャイナハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 521, "name": "グリーン", "checked": false, "parentId": 520 },
+      { "id": 522, "name": "ブルー", "checked": false, "parentId": 520 },
+      { "id": 523, "name": "イエロー", "checked": false, "parentId": 520 },
+      { "id": 524, "name": "ブラック", "checked": false, "parentId": 520 }
+    ]
+  },
+  {
+    "id": 525,
+    "name": "チューリップのかんむり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 526,
+    "name": "チューリップのかんむり・シック",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 527,
+    "name": "チューリップのかんむり・ダーク",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 528,
+    "name": "チューリップハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 529, "name": "オレンジ", "checked": false, "parentId": 528 },
+      { "id": 530, "name": "ブラウン", "checked": false, "parentId": 528 },
+      { "id": 531, "name": "キャメル", "checked": false, "parentId": 528 }
+    ]
+  },
+  {
+    "id": 532,
+    "name": "チロリアンハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 533, "name": "グリーン", "checked": false, "parentId": 532 },
+      { "id": 534, "name": "ブルー", "checked": false, "parentId": 532 },
+      { "id": 535, "name": "レッド", "checked": false, "parentId": 532 }
+    ]
+  },
+  {
+    "id": 536,
+    "name": "ツイードキャップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 537, "name": "ブラウン", "checked": false, "parentId": 536 },
+      { "id": 538, "name": "ブルー", "checked": false, "parentId": 536 },
+      { "id": 539, "name": "グリーン", "checked": false, "parentId": 536 }
+    ]
+  },
+  {
+    "id": 540,
+    "name": "つうがくぼう",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 541, "name": "イエロー", "checked": false, "parentId": 540 },
+      { "id": 542, "name": "ネイビー", "checked": false, "parentId": 540 }
+    ]
+  },
+  {
+    "id": 543,
+    "name": "つばひろストローハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 544, "name": "ブラック", "checked": false, "parentId": 543 },
+      { "id": 545, "name": "ベージュ", "checked": false, "parentId": 543 },
+      { "id": 546, "name": "ホワイト", "checked": false, "parentId": 543 }
+    ]
+  },
+  {
+    "id": 547,
+    "name": "ティアラ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 548, "name": "シルバー", "checked": false, "parentId": 547 },
+      { "id": 549, "name": "ピンクゴールド", "checked": false, "parentId": 547 },
+      { "id": 550, "name": "ゴールド", "checked": false, "parentId": 547 }
+    ]
+  },
+  {
+    "id": 551,
+    "name": "てづくりのおうかん",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 552,
+    "name": "デニムキャップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 553, "name": "ブルー", "checked": false, "parentId": 552 },
+      { "id": 554, "name": "ライトブルー", "checked": false, "parentId": 552 },
+      { "id": 555, "name": "ブラック", "checked": false, "parentId": 552 },
+      { "id": 556, "name": "ホワイト", "checked": false, "parentId": 552 }
+    ]
+  },
+  {
+    "id": 557,
+    "name": "テンガロンハット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 558, "name": "ブラウン", "checked": false, "parentId": 557 },
+      { "id": 559, "name": "ベージュ", "checked": false, "parentId": 557 },
+      { "id": 560, "name": "レッド", "checked": false, "parentId": 557 },
+      { "id": 561, "name": "ピンク", "checked": false, "parentId": 557 },
+      { "id": 562, "name": "ホワイト", "checked": false, "parentId": 557 }
+    ]
+  },
+  {
+    "id": 563,
+    "name": "てんしのわ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 564,
+    "name": "とんがりぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 565, "name": "ブルー", "checked": false, "parentId": 564 },
+      { "id": 566, "name": "パープル", "checked": false, "parentId": 564 }
+    ]
+  },
+  {
+    "id": 567,
+    "name": "どんぐりニット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 568, "name": "マロン", "checked": false, "parentId": 567 },
+      { "id": 569, "name": "マスタード", "checked": false, "parentId": 567 },
+      { "id": 570, "name": "カーキ", "checked": false, "parentId": 567 },
+      { "id": 571, "name": "ワインレッド", "checked": false, "parentId": 567 },
+      { "id": 572, "name": "ネイビー", "checked": false, "parentId": 567 },
+      { "id": 573, "name": "クリーム", "checked": false, "parentId": 567 }
+    ]
   }
 ]
