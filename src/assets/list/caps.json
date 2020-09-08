@@ -2121,5 +2121,44 @@
       { "id": 811, "name": "パープル", "checked": false, "parentId": 804 },
       { "id": 812, "name": "ベージュ", "checked": false, "parentId": 804 }
     ]
+  },
+  {
+    "id": 813,
+    "name": "ワークキャップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 814, "name": "グレー", "checked": false, "parentId": 813 },
+      { "id": 815, "name": "ベージュ", "checked": false, "parentId": 813 },
+      { "id": 816, "name": "レッド", "checked": false, "parentId": 813 },
+      { "id": 817, "name": "ブルー", "checked": false, "parentId": 813 },
+      { "id": 818, "name": "グリーン", "checked": false, "parentId": 813 }
+    ]
+  },
+  {
+    "id": 819,
+    "name": "わかざり",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 820, "name": "あか", "checked": false, "parentId": 819 },
+      { "id": 821, "name": "みずいろ", "checked": false, "parentId": 819 },
+      { "id": 822, "name": "こん", "checked": false, "parentId": 819 },
+      { "id": 823, "name": "やまぶきいろ", "checked": false, "parentId": 819 },
+      { "id": 824, "name": "むらさき", "checked": false, "parentId": 819 },
+      { "id": 825, "name": "ももいろ", "checked": false, "parentId": 819 },
+      { "id": 826, "name": "みどり", "checked": false, "parentId": 819 },
+      { "id": 827, "name": "そらいろ", "checked": false, "parentId": 819 }
+    ]
+  },
+  {
+    "id": 828,
+    "name": "わぼうし",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 829, "name": "しろ", "checked": false, "parentId": 828 },
+      { "id": 830, "name": "こん", "checked": false, "parentId": 828 }
+    ]
   }
 ]
