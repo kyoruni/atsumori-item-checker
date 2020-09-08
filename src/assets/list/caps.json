@@ -2040,5 +2040,23 @@
     "name": "モモのぼうし",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 780,
+    "name": "ユリのかんむり",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 781,
+    "name": "ユリのかんむり・キュート",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 782,
+    "name": "ユリのかんむり・ダーク",
+    "checked": false,
+    "variation": false
   }
 ]
