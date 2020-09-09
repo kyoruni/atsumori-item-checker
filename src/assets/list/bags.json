@@ -124,5 +124,84 @@
     "name": "せおいばしご",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 35,
+    "name": "タウンリュック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 36, "name": "グリーン", "checked": false, "parentId": 35 },
+      { "id": 37, "name": "オレンジ", "checked": false, "parentId": 35 },
+      { "id": 38, "name": "ブルー", "checked": false, "parentId": 35 },
+      { "id": 39, "name": "レッド", "checked": false, "parentId": 35 }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "たぬきかいはつナップサック",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 41,
+    "name": "たびびとのリュック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 42, "name": "オレンジ", "checked": false, "parentId": 41 },
+      { "id": 43, "name": "ブルー", "checked": false, "parentId": 41 },
+      { "id": 44, "name": "ブラウン", "checked": false, "parentId": 41 }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "ちょうちょのバッグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 46,
+    "name": "ツールバッグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 47,
+    "name": "てあみポーチ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 48, "name": "グリーン", "checked": false, "parentId": 47 },
+      { "id": 49, "name": "パープル", "checked": false, "parentId": 47 }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "ドライサック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 51, "name": "イエロー", "checked": false, "parentId": 50 },
+      { "id": 52, "name": "ブルー", "checked": false, "parentId": 50 }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "トラベルポーチ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 54, "name": "ピンク", "checked": false, "parentId": 53 },
+      { "id": 55, "name": "グリーン", "checked": false, "parentId": 53 },
+      { "id": 56, "name": "ライトブルー", "checked": false, "parentId": 53 },
+      { "id": 57, "name": "パープル", "checked": false, "parentId": 53 }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "どんぐりポシェット",
+    "checked": false,
+    "variation": false
   }
 ]
