@@ -78,6 +78,7 @@ import rugList from '@/assets/list/rug.json'
 import capsList from '@/assets/list/caps.json'
 import accessoriesList from '@/assets/list/accessories.json'
 import socksList from '@/assets/list/socks.json'
+import bagsList from '@/assets/list/bags.json'
 import umbrellaList from '@/assets/list/umbrella.json'
 import bugList from '@/assets/list/bug.json'
 import fishList from '@/assets/list/fish.json'
@@ -119,7 +120,7 @@ export default {
     },
     // バリエーションのあるカテゴリーかどうか
     showVariation () {
-      return this.category === 'furniture' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks'
+      return this.category === 'furniture' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks' || this.category === 'bags'
     },
     labelText () {
       let labelText
@@ -144,6 +145,9 @@ export default {
           break
         case 'socks':
           labelText = 'くつした'
+          break
+        case 'bags':
+          labelText = 'バッグ'
           break
         case 'umbrella':
           labelText = 'かさ'
@@ -240,6 +244,10 @@ export default {
         case 'socks':
           this.items = socksList
           this.displayItems = socksList
+          break
+        case 'bags':
+          this.items = bagsList
+          this.displayItems = bagsList
           break
         case 'umbrella':
           this.items = umbrellaList

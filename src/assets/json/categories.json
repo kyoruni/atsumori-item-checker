@@ -95,7 +95,7 @@
     "name": "bag",
     "text": "バッグ",
     "icon": "fas fa-shopping-bag",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 15,
