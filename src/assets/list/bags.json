@@ -203,5 +203,25 @@
     "name": "どんぐりポシェット",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 59,
+    "name": "ナップサック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 60, "name": "ブルー", "checked": false, "parentId": 59 },
+      { "id": 61, "name": "ブラック", "checked": false, "parentId": 59 }
+    ]
+  },
+  {
+    "id": 62,
+    "name": "ななめかけボストン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 63, "name": "レッド", "checked": false, "parentId": 62 },
+      { "id": 64, "name": "ブルー", "checked": false, "parentId": 62 }
+    ]
   }
 ]
