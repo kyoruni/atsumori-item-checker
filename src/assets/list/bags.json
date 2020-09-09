@@ -223,5 +223,126 @@
       { "id": 63, "name": "レッド", "checked": false, "parentId": 62 },
       { "id": 64, "name": "ブルー", "checked": false, "parentId": 62 }
     ]
+  },
+  {
+    "id": 65,
+    "name": "パーティーバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 66, "name": "ピンク", "checked": false, "parentId": 65 },
+      { "id": 67, "name": "ブルー", "checked": false, "parentId": 65 },
+      { "id": 68, "name": "ブラック", "checked": false, "parentId": 65 }
+    ]
+  },
+  {
+    "id": 69,
+    "name": "ハードシェルリュック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 70, "name": "ブルー", "checked": false, "parentId": 69 },
+      { "id": 71, "name": "レッド", "checked": false, "parentId": 69 },
+      { "id": 72, "name": "シルバー", "checked": false, "parentId": 69 }
+    ]
+  },
+  {
+    "id": 73,
+    "name": "ははのナップサック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 74, "name": "M", "checked": false, "parentId": 73 },
+      { "id": 75, "name": "フラワー", "checked": false, "parentId": 73 },
+      { "id": 76, "name": "ドット", "checked": false, "parentId": 73 },
+      { "id": 77, "name": "カラフルキルト", "checked": false, "parentId": 73 },
+      { "id": 78, "name": "チェリー", "checked": false, "parentId": 73 },
+      { "id": 79, "name": "デニムストライプ", "checked": false, "parentId": 73 },
+      { "id": 80, "name": "フォレスト", "checked": false, "parentId": 73 },
+      { "id": 81, "name": "ヒヨコ", "checked": false, "parentId": 73 }
+    ]
+  },
+  {
+    "id": 82,
+    "name": "はるのみずたまショルダー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 83, "name": "ポップ", "checked": false, "parentId": 82 },
+      { "id": 84, "name": "クール", "checked": false, "parentId": 82 }
+    ]
+  },
+  {
+    "id": 85,
+    "name": "はんぷショルダー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 86, "name": "ブルー", "checked": false, "parentId": 85 },
+      { "id": 87, "name": "オレンジ", "checked": false, "parentId": 85 },
+      { "id": 88, "name": "アイボリー", "checked": false, "parentId": 85 }
+    ]
+  },
+  {
+    "id": 89,
+    "name": "はんぷリュック",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 90,
+    "name": "フィッシングバッグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 91,
+    "name": "フェイクファーバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 92, "name": "ピンク", "checked": false, "parentId": 91 },
+      { "id": 93, "name": "パープル", "checked": false, "parentId": 91 }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "ふたつきリュック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 95, "name": "グリーン", "checked": false, "parentId": 94 },
+      { "id": 96, "name": "ブルー", "checked": false, "parentId": 94 },
+      { "id": 97, "name": "グレー", "checked": false, "parentId": 94 },
+      { "id": 98, "name": "ピンク", "checked": false, "parentId": 94 }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "ぶどうのしゅうかくおけ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 100,
+    "name": "フリンジレザーバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 101, "name": "キャメル", "checked": false, "parentId": 100 },
+      { "id": 102, "name": "ホワイト", "checked": false, "parentId": 100 }
+    ]
+  },
+  {
+    "id": 103,
+    "name": "ボディバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 104, "name": "ピンク", "checked": false, "parentId": 103 },
+      { "id": 105, "name": "グリーン", "checked": false, "parentId": 103 },
+      { "id": 106, "name": "イエロー", "checked": false, "parentId": 103 },
+      { "id": 107, "name": "ホワイト", "checked": false, "parentId": 103 }
+    ]
   }
 ]
