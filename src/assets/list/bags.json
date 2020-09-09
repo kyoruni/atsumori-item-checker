@@ -1,7 +1,42 @@
 [
   {
     "id": 1,
-    "name": "アオスジアゲハ",
+    "name": "DALのバッグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 2,
+    "name": "アウトドアリュック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 3, "name": "カーキ", "checked": false, "parentId": 2 },
+      { "id": 4, "name": "オレンジ", "checked": false, "parentId": 2 },
+      { "id": 5, "name": "ネイビー", "checked": false, "parentId": 2 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "イースターなバッグ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "おおきめザック",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 8, "name": "レッド", "checked": false, "parentId": 7 },
+      { "id": 9, "name": "グリーン", "checked": false, "parentId": 7 },
+      { "id": 10, "name": "ブラック", "checked": false, "parentId": 7 },
+      { "id": 11, "name": "ブルー", "checked": false, "parentId": 7 }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "おさかなポシェット",
     "checked": false,
     "variation": false
   }
