@@ -344,5 +344,38 @@
       { "id": 106, "name": "イエロー", "checked": false, "parentId": 103 },
       { "id": 107, "name": "ホワイト", "checked": false, "parentId": 103 }
     ]
+  },
+  {
+    "id": 108,
+    "name": "ミニレザーバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 109, "name": "ホワイト", "checked": false, "parentId": 108 },
+      { "id": 110, "name": "ブラック", "checked": false, "parentId": 108 }
+    ]
+  },
+  {
+    "id": 111,
+    "name": "ムシかご",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 112,
+    "name": "メッセンジャーバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 113, "name": "グリーン", "checked": false, "parentId": 112 },
+      { "id": 114, "name": "オレンジ", "checked": false, "parentId": 112 },
+      { "id": 115, "name": "ブラック", "checked": false, "parentId": 112 }
+    ]
+  },
+  {
+    "id": 116,
+    "name": "もみじのポシェット",
+    "checked": false,
+    "variation": false
   }
 ]
