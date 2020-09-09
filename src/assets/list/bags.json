@@ -39,5 +39,17 @@
     "name": "おさかなポシェット",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 13,
+    "name": "かいがらポシェット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 14,
+    "name": "くさあみリュック",
+    "checked": false,
+    "variation": false
   }
 ]
