@@ -377,5 +377,31 @@
     "name": "もみじのポシェット",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 117,
+    "name": "ラタンポシェット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 118,
+    "name": "レザーショルダー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 119, "name": "ブラウン", "checked": false, "parentId": 118 },
+      { "id": 120, "name": "ネイビー", "checked": false, "parentId": 118 }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "レザーボディバッグ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 122, "name": "ネイビー", "checked": false, "parentId": 121 },
+      { "id": 123, "name": "ブラック", "checked": false, "parentId": 121 }
+    ]
   }
 ]
