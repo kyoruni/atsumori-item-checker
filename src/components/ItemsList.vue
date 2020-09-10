@@ -75,6 +75,7 @@ import furnitureList from '@/assets/list/furniture.json'
 import wallList from '@/assets/list/wall.json'
 import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
+import bottomsList from '@/assets/list/bottoms.json'
 import capsList from '@/assets/list/caps.json'
 import accessoriesList from '@/assets/list/accessories.json'
 import socksList from '@/assets/list/socks.json'
@@ -120,7 +121,7 @@ export default {
     },
     // バリエーションのあるカテゴリーかどうか
     showVariation () {
-      return this.category === 'furniture' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks' || this.category === 'bags'
+      return this.category === 'furniture' || this.category === 'bottoms' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks' || this.category === 'bags'
     },
     labelText () {
       let labelText
@@ -136,6 +137,9 @@ export default {
           break
         case 'rug':
           labelText = 'ラグ'
+          break
+        case 'bottoms':
+          labelText = 'ボトムス'
           break
         case 'caps':
           labelText = 'かぶりもの'
@@ -232,6 +236,10 @@ export default {
         case 'rug':
           this.items = rugList
           this.displayItems = rugList
+          break
+        case 'bottoms':
+          this.items = bottomsList
+          this.displayItems = bottomsList
           break
         case 'caps':
           this.items = capsList

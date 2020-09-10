@@ -53,7 +53,7 @@
     "name": "bottoms",
     "text": "ボトムス",
     "icon": "fas fa-tshirt",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 9,
