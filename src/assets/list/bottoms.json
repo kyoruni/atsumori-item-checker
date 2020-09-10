@@ -1,8 +1,123 @@
 [
   {
     "id": 1,
-    "name": "DALのバッグ",
+    "name": "MA‐1スカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2, "name": "カーキ", "checked": false, "parentId": 1 },
+      { "id": 3, "name": "ブラック", "checked": false, "parentId": 1 },
+      { "id": 4, "name": "ブルー", "checked": false, "parentId": 1 },
+      { "id": 5, "name": "ブラウン", "checked": false, "parentId": 1 }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "アウトドアパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 7, "name": "イエロー", "checked": false, "parentId": 6 },
+      { "id": 8, "name": "ブラック", "checked": false, "parentId": 6 },
+      { "id": 9, "name": "パープル", "checked": false, "parentId": 6 },
+      { "id": 10, "name": "レッド", "checked": false, "parentId": 6 },
+      { "id": 11, "name": "ブルー", "checked": false, "parentId": 6 },
+      { "id": 12, "name": "グリーン", "checked": false, "parentId": 6 },
+      { "id": 13, "name": "ブラウン", "checked": false, "parentId": 6 },
+      { "id": 14, "name": "イエローグリーン", "checked": false, "parentId": 6 }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "あなあきショートデニム",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 16, "name": "ライトブルー", "checked": false, "parentId": 15 },
+      { "id": 17, "name": "ブルー", "checked": false, "parentId": 15 },
+      { "id": 18, "name": "ホワイト", "checked": false, "parentId": 15 },
+      { "id": 19, "name": "ブラック", "checked": false, "parentId": 15 }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "あなあきデニム",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 21, "name": "ライトブルー", "checked": false, "parentId": 20 },
+      { "id": 22, "name": "ブルー", "checked": false, "parentId": 20 },
+      { "id": 23, "name": "ホワイト", "checked": false, "parentId": 20 },
+      { "id": 24, "name": "ブラック", "checked": false, "parentId": 20 }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "アニマルがらスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 26, "name": "タイガー", "checked": false, "parentId": 25 },
+      { "id": 27, "name": "ゼブラ", "checked": false, "parentId": 25 }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "アメコミがらハーフパンツ",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 29,
+    "name": "アメフトズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 30, "name": "グリーン", "checked": false, "parentId": 29 },
+      { "id": 31, "name": "ホワイト", "checked": false, "parentId": 29 },
+      { "id": 32, "name": "イエロー", "checked": false, "parentId": 29 },
+      { "id": 33, "name": "ワインレッド", "checked": false, "parentId": 29 },
+      { "id": 34, "name": "ブルー", "checked": false, "parentId": 29 },
+      { "id": 35, "name": "ターコイズ", "checked": false, "parentId": 29 },
+      { "id": 36, "name": "レッド", "checked": false, "parentId": 29 },
+      { "id": 37, "name": "ブラック", "checked": false, "parentId": 29 }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "エスニックパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 39, "name": "オレンジ", "checked": false, "parentId": 38 },
+      { "id": 40, "name": "カーキ", "checked": false, "parentId": 38 },
+      { "id": 41, "name": "ピンク", "checked": false, "parentId": 38 },
+      { "id": 42, "name": "ブルー", "checked": false, "parentId": 38 },
+      { "id": 43, "name": "ブラック", "checked": false, "parentId": 38 }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "エナグワス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 45, "name": "レッド", "checked": false, "parentId": 44 },
+      { "id": 46, "name": "ブルー", "checked": false, "parentId": 44 },
+      { "id": 47, "name": "ピンク", "checked": false, "parentId": 44 },
+      { "id": 48, "name": "グリーン", "checked": false, "parentId": 44 },
+      { "id": 49, "name": "オレンジ", "checked": false, "parentId": 44 }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "エプロンつきスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 51, "name": "パープル", "checked": false, "parentId": 50 },
+      { "id": 52, "name": "ブルー", "checked": false, "parentId": 50 },
+      { "id": 53, "name": "ベージュ", "checked": false, "parentId": 50 }
+    ]
   }
 ]
