@@ -431,5 +431,295 @@
       { "id": 195, "name": "マゼンタ", "checked": false, "parentId": 193 },
       { "id": 196, "name": "グリーン", "checked": false, "parentId": 193 }
     ]
+  },
+  {
+    "id": 197,
+    "name": "サーフパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 198, "name": "ブルー", "checked": false, "parentId": 197 },
+      { "id": 199, "name": "パープル", "checked": false, "parentId": 197 },
+      { "id": 200, "name": "グリーン", "checked": false, "parentId": 197 },
+      { "id": 201, "name": "ピンク", "checked": false, "parentId": 197 },
+      { "id": 202, "name": "グレー", "checked": false, "parentId": 197 }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "サイクルボトム",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 204, "name": "ブルー×レッド", "checked": false, "parentId": 203 },
+      { "id": 205, "name": "ブラック×ブルー", "checked": false, "parentId": 203 },
+      { "id": 206, "name": "ブラック×レッド", "checked": false, "parentId": 203 },
+      { "id": 207, "name": "ブラック×イエロー", "checked": false, "parentId": 203 },
+      { "id": 208, "name": "レッド×グリーン", "checked": false, "parentId": 203 },
+      { "id": 209, "name": "オレンジ×レッド", "checked": false, "parentId": 203 },
+      { "id": 210, "name": "グリーン×パープル", "checked": false, "parentId": 203 },
+      { "id": 211, "name": "パープル×ピンク", "checked": false, "parentId": 203 }
+    ]
+  },
+  {
+    "id": 212,
+    "name": "サッカーのズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 213, "name": "グリーン", "checked": false, "parentId": 212 },
+      { "id": 214, "name": "レッド", "checked": false, "parentId": 212 },
+      { "id": 215, "name": "ネイビー", "checked": false, "parentId": 212 },
+      { "id": 216, "name": "ブルー", "checked": false, "parentId": 212 },
+      { "id": 217, "name": "ライトブルー", "checked": false, "parentId": 212 },
+      { "id": 218, "name": "ホワイト", "checked": false, "parentId": 212 },
+      { "id": 219, "name": "オレンジ", "checked": false, "parentId": 212 },
+      { "id": 220, "name": "ブラック", "checked": false, "parentId": 212 }
+    ]
+  },
+  {
+    "id": 221,
+    "name": "サテンのパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 222, "name": "グリーン", "checked": false, "parentId": 221 },
+      { "id": 223, "name": "ブルー", "checked": false, "parentId": 221 },
+      { "id": 224, "name": "ライトパープル", "checked": false, "parentId": 221 },
+      { "id": 225, "name": "ピンク", "checked": false, "parentId": 221 },
+      { "id": 226, "name": "ダークレッド", "checked": false, "parentId": 221 },
+      { "id": 227, "name": "ルージュ", "checked": false, "parentId": 221 },
+      { "id": 228, "name": "ブラウン", "checked": false, "parentId": 221 }
+    ]
+  },
+  {
+    "id": 229,
+    "name": "ししゅうのはながらスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 230, "name": "グリーン", "checked": false, "parentId": 229 },
+      { "id": 231, "name": "ブルー", "checked": false, "parentId": 229 },
+      { "id": 232, "name": "ワインレッド", "checked": false, "parentId": 229 }
+    ]
+  },
+  {
+    "id": 233,
+    "name": "ジャージショートパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 234, "name": "レッド", "checked": false, "parentId": 233 },
+      { "id": 235, "name": "グリーン", "checked": false, "parentId": 233 },
+      { "id": 236, "name": "ブラック", "checked": false, "parentId": 233 },
+      { "id": 237, "name": "ブルー", "checked": false, "parentId": 233 },
+      { "id": 238, "name": "ワインレッド", "checked": false, "parentId": 233 },
+      { "id": 239, "name": "ネイビー", "checked": false, "parentId": 233 }
+    ]
+  },
+  {
+    "id": 240,
+    "name": "ジャージズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 241, "name": "レッド", "checked": false, "parentId": 240 },
+      { "id": 242, "name": "グリーン", "checked": false, "parentId": 240 },
+      { "id": 243, "name": "ブラック", "checked": false, "parentId": 240 },
+      { "id": 244, "name": "ブルー", "checked": false, "parentId": 240 },
+      { "id": 245, "name": "ワインレッド", "checked": false, "parentId": 240 },
+      { "id": 246, "name": "ネイビー", "checked": false, "parentId": 240 }
+    ]
+  },
+  {
+    "id": 247,
+    "name": "シャギーチェックのホットパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 248, "name": "ライトブルー", "checked": false, "parentId": 247 },
+      { "id": 249, "name": "ブラウン", "checked": false, "parentId": 247 },
+      { "id": 250, "name": "ライトグリーン", "checked": false, "parentId": 247 },
+      { "id": 251, "name": "レッド", "checked": false, "parentId": 247 }
+    ]
+  },
+  {
+    "id": 252,
+    "name": "シャビーなスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 253, "name": "ベージュ", "checked": false, "parentId": 252 },
+      { "id": 254, "name": "ピンク", "checked": false, "parentId": 252 },
+      { "id": 255, "name": "ミント", "checked": false, "parentId": 252 }
+    ]
+  },
+  {
+    "id": 256,
+    "name": "スウェットスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 257, "name": "グレー", "checked": false, "parentId": 256 },
+      { "id": 258, "name": "ピンク", "checked": false, "parentId": 256 },
+      { "id": 259, "name": "ブルー", "checked": false, "parentId": 256 },
+      { "id": 260, "name": "グリーン", "checked": false, "parentId": 256 }
+    ]
+  },
+  {
+    "id": 261,
+    "name": "スウェットパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 262, "name": "グレー", "checked": false, "parentId": 261 },
+      { "id": 263, "name": "レッド", "checked": false, "parentId": 261 },
+      { "id": 264, "name": "グリーン", "checked": false, "parentId": 261 },
+      { "id": 265, "name": "ブルー", "checked": false, "parentId": 261 },
+      { "id": 266, "name": "イエロー", "checked": false, "parentId": 261 },
+      { "id": 267, "name": "ピンク", "checked": false, "parentId": 261 },
+      { "id": 268, "name": "ライトブルー", "checked": false, "parentId": 261 },
+      { "id": 269, "name": "ブラック", "checked": false, "parentId": 261 }
+    ]
+  },
+  {
+    "id": 270,
+    "name": "スウェットフリルズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 271, "name": "ブルー", "checked": false, "parentId": 270 },
+      { "id": 272, "name": "ピンク", "checked": false, "parentId": 270 },
+      { "id": 273, "name": "ミント", "checked": false, "parentId": 270 },
+      { "id": 274, "name": "オレンジ", "checked": false, "parentId": 270 },
+      { "id": 275, "name": "パープル", "checked": false, "parentId": 270 },
+      { "id": 276, "name": "グレー", "checked": false, "parentId": 270 }
+    ]
+  },
+  {
+    "id": 277,
+    "name": "スウェットロングスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 278, "name": "ネイビー", "checked": false, "parentId": 277 },
+      { "id": 279, "name": "グレー", "checked": false, "parentId": 277 },
+      { "id": 280, "name": "グリーン", "checked": false, "parentId": 277 },
+      { "id": 281, "name": "パープル", "checked": false, "parentId": 277 }
+    ]
+  },
+  {
+    "id": 282,
+    "name": "スキーウェアのズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 283, "name": "エメラルド", "checked": false, "parentId": 282 },
+      { "id": 284, "name": "レッド", "checked": false, "parentId": 282 },
+      { "id": 285, "name": "ルージュ", "checked": false, "parentId": 282 },
+      { "id": 286, "name": "ブルー", "checked": false, "parentId": 282 },
+      { "id": 287, "name": "ライトブルー", "checked": false, "parentId": 282 },
+      { "id": 288, "name": "イエロー", "checked": false, "parentId": 282 }
+    ]
+  },
+  {
+    "id": 289,
+    "name": "すそみせズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 290, "name": "ブラウン", "checked": false, "parentId": 289 },
+      { "id": 291, "name": "パープル", "checked": false, "parentId": 289 },
+      { "id": 292, "name": "グリーン", "checked": false, "parentId": 289 },
+      { "id": 293, "name": "グレー", "checked": false, "parentId": 289 }
+    ]
+  },
+  {
+    "id": 294,
+    "name": "ステテコ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 295, "name": "あか", "checked": false, "parentId": 294 },
+      { "id": 296, "name": "きみどり", "checked": false, "parentId": 294 },
+      { "id": 297, "name": "やまぶきいろ", "checked": false, "parentId": 294 },
+      { "id": 298, "name": "むらさき", "checked": false, "parentId": 294 },
+      { "id": 299, "name": "みずいろ", "checked": false, "parentId": 294 },
+      { "id": 300, "name": "あお", "checked": false, "parentId": 294 }
+    ]
+  },
+  {
+    "id": 301,
+    "name": "スパンコールのホットパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 302, "name": "レッド", "checked": false, "parentId": 301 },
+      { "id": 303, "name": "ネイビー", "checked": false, "parentId": 301 },
+      { "id": 304, "name": "ゴールド", "checked": false, "parentId": 301 },
+      { "id": 305, "name": "シルバー", "checked": false, "parentId": 301 },
+      { "id": 306, "name": "ブラック", "checked": false, "parentId": 301 },
+      { "id": 307, "name": "ピンク", "checked": false, "parentId": 301 },
+      { "id": 308, "name": "グリーン", "checked": false, "parentId": 301 },
+      { "id": 309, "name": "パープル", "checked": false, "parentId": 301 }
+    ]
+  },
+  {
+    "id": 310,
+    "name": "スポーツジャージのズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 311, "name": "ネイビー", "checked": false, "parentId": 310 },
+      { "id": 312, "name": "グレー", "checked": false, "parentId": 310 },
+      { "id": 313, "name": "ホワイト", "checked": false, "parentId": 310 },
+      { "id": 314, "name": "レッド", "checked": false, "parentId": 310 },
+      { "id": 315, "name": "ライトブルー", "checked": false, "parentId": 310 },
+      { "id": 316, "name": "グリーン", "checked": false, "parentId": 310 },
+      { "id": 317, "name": "ブルー", "checked": false, "parentId": 310 }
+    ]
+  },
+  {
+    "id": 318,
+    "name": "スラックス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 319, "name": "ブラック", "checked": false, "parentId": 318 },
+      { "id": 320, "name": "グレー", "checked": false, "parentId": 318 },
+      { "id": 321, "name": "ブルー", "checked": false, "parentId": 318 },
+      { "id": 322, "name": "レッド", "checked": false, "parentId": 318 },
+      { "id": 323, "name": "ネイビー", "checked": false, "parentId": 318 },
+      { "id": 324, "name": "ベージュ", "checked": false, "parentId": 318 },
+      { "id": 325, "name": "ホワイト", "checked": false, "parentId": 318 }
+    ]
+  },
+  {
+    "id": 326,
+    "name": "セーラーふくのスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 327, "name": "ネイビー", "checked": false, "parentId": 326 },
+      { "id": 328, "name": "オレンジ", "checked": false, "parentId": 326 },
+      { "id": 329, "name": "ライトブルー", "checked": false, "parentId": 326 },
+      { "id": 330, "name": "グリーン", "checked": false, "parentId": 326 },
+      { "id": 331, "name": "ブラウン", "checked": false, "parentId": 326 },
+      { "id": 332, "name": "パープル", "checked": false, "parentId": 326 },
+      { "id": 333, "name": "レッド", "checked": false, "parentId": 326 },
+      { "id": 334, "name": "ピンク", "checked": false, "parentId": 326 }
+    ]
+  },
+  {
+    "id": 335,
+    "name": "せいふくのズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 336, "name": "グリーン", "checked": false, "parentId": 335 },
+      { "id": 337, "name": "ネイビー", "checked": false, "parentId": 335 },
+      { "id": 338, "name": "ベージュ", "checked": false, "parentId": 335 },
+      { "id": 339, "name": "ワインレッド", "checked": false, "parentId": 335 }
+    ]
   }
 ]
