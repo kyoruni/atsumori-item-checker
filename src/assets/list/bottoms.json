@@ -1061,5 +1061,29 @@
       { "id": 496, "name": "パープル", "checked": false, "parentId": 489 },
       { "id": 497, "name": "ライトブルー", "checked": false, "parentId": 489 }
     ]
+  },
+  {
+    "id": 498,
+    "name": "ニットスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 499, "name": "ブラウン", "checked": false, "parentId": 498 },
+      { "id": 500, "name": "ライトブルー", "checked": false, "parentId": 498 },
+      { "id": 501, "name": "ピンク", "checked": false, "parentId": 498 },
+      { "id": 502, "name": "マスタード", "checked": false, "parentId": 498 }
+    ]
+  },
+  {
+    "id": 503,
+    "name": "ニットパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 504, "name": "グレー", "checked": false, "parentId": 503 },
+      { "id": 505, "name": "ブラウン", "checked": false, "parentId": 503 },
+      { "id": 506, "name": "ライトブルー", "checked": false, "parentId": 503 },
+      { "id": 507, "name": "レッド", "checked": false, "parentId": 503 }
+    ]
   }
 ]
