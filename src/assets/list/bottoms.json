@@ -1224,5 +1224,218 @@
       { "id": 570, "name": "パープル", "checked": false, "parentId": 565 },
       { "id": 571, "name": "ピンク", "checked": false, "parentId": 565 }
     ]
+  },
+  {
+    "id": 572,
+    "name": "ファースカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 573, "name": "ライトブルー", "checked": false, "parentId": 572 },
+      { "id": 574, "name": "ピンク", "checked": false, "parentId": 572 },
+      { "id": 575, "name": "レッド", "checked": false, "parentId": 572 },
+      { "id": 576, "name": "パープル", "checked": false, "parentId": 572 },
+      { "id": 577, "name": "イエロー", "checked": false, "parentId": 572 }
+    ]
+  },
+  {
+    "id": 578,
+    "name": "フィットネススウェットパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 579, "name": "ミント", "checked": false, "parentId": 578 },
+      { "id": 580, "name": "ピンク", "checked": false, "parentId": 578 },
+      { "id": 581, "name": "ライトブルー", "checked": false, "parentId": 578 },
+      { "id": 582, "name": "オレンジ", "checked": false, "parentId": 578 },
+      { "id": 583, "name": "ブラック", "checked": false, "parentId": 578 },
+      { "id": 584, "name": "イエロー", "checked": false, "parentId": 578 },
+      { "id": 585, "name": "レッド", "checked": false, "parentId": 578 },
+      { "id": 586, "name": "パープル", "checked": false, "parentId": 578 }
+    ]
+  },
+  {
+    "id": 587,
+    "name": "フリルスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 588, "name": "ピンク", "checked": false, "parentId": 587 },
+      { "id": 589, "name": "ブルー", "checked": false, "parentId": 587 },
+      { "id": 590, "name": "グリーン", "checked": false, "parentId": 587 },
+      { "id": 591, "name": "オレンジ", "checked": false, "parentId": 587 },
+      { "id": 592, "name": "パープル", "checked": false, "parentId": 587 },
+      { "id": 593, "name": "グレー", "checked": false, "parentId": 587 }
+    ]
+  },
+  {
+    "id": 594,
+    "name": "フリルつきパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 595, "name": "イエロー", "checked": false, "parentId": 594 },
+      { "id": 596, "name": "ミント", "checked": false, "parentId": 594 },
+      { "id": 597, "name": "ピンク", "checked": false, "parentId": 594 },
+      { "id": 598, "name": "ブルー", "checked": false, "parentId": 594 },
+      { "id": 599, "name": "オレンジ", "checked": false, "parentId": 594 }
+    ]
+  },
+  {
+    "id": 600,
+    "name": "フリンジスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 601, "name": "キャメル", "checked": false, "parentId": 600 },
+      { "id": 602, "name": "ブラック", "checked": false, "parentId": 600 },
+      { "id": 603, "name": "ホワイト", "checked": false, "parentId": 600 },
+      { "id": 604, "name": "ブルー", "checked": false, "parentId": 600 },
+      { "id": 605, "name": "イエロー", "checked": false, "parentId": 600 },
+      { "id": 606, "name": "グリーン", "checked": false, "parentId": 600 },
+      { "id": 607, "name": "ワインレッド", "checked": false, "parentId": 600 }
+    ]
+  },
+  {
+    "id": 608,
+    "name": "プリントデニム",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 609, "name": "ブルー", "checked": false, "parentId": 608 },
+      { "id": 610, "name": "ライトブルー", "checked": false, "parentId": 608 },
+      { "id": 611, "name": "ブラック", "checked": false, "parentId": 608 }
+    ]
+  },
+  {
+    "id": 612,
+    "name": "フレアスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 613, "name": "レッド", "checked": false, "parentId": 612 },
+      { "id": 614, "name": "ブラック", "checked": false, "parentId": 612 },
+      { "id": 615, "name": "ピンク", "checked": false, "parentId": 612 },
+      { "id": 616, "name": "ミント", "checked": false, "parentId": 612 },
+      { "id": 617, "name": "ライトブルー", "checked": false, "parentId": 612 }
+    ]
+  },
+  {
+    "id": 618,
+    "name": "ベルトのまきスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 619, "name": "イエロー", "checked": false, "parentId": 618 },
+      { "id": 620, "name": "レッド", "checked": false, "parentId": 618 },
+      { "id": 621, "name": "グリーン", "checked": false, "parentId": 618 },
+      { "id": 622, "name": "ブルー", "checked": false, "parentId": 618 }
+    ]
+  },
+  {
+    "id": 623,
+    "name": "ベルボトムパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 624, "name": "オレンジ", "checked": false, "parentId": 623 },
+      { "id": 625, "name": "ブラウン", "checked": false, "parentId": 623 },
+      { "id": 626, "name": "ベージュ", "checked": false, "parentId": 623 },
+      { "id": 627, "name": "グリーン", "checked": false, "parentId": 623 },
+      { "id": 628, "name": "ブルー", "checked": false, "parentId": 623 }
+    ]
+  },
+  {
+    "id": 629,
+    "name": "ボーダーパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 630, "name": "ブルー", "checked": false, "parentId": 629 },
+      { "id": 631, "name": "オレンジ", "checked": false, "parentId": 629 },
+      { "id": 632, "name": "グリーン", "checked": false, "parentId": 629 },
+      { "id": 633, "name": "レッド", "checked": false, "parentId": 629 },
+      { "id": 634, "name": "ブラック", "checked": false, "parentId": 629 }
+    ]
+  },
+  {
+    "id": 635,
+    "name": "ボアスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 636, "name": "グリーン", "checked": false, "parentId": 635 },
+      { "id": 637, "name": "ブルー", "checked": false, "parentId": 635 },
+      { "id": 638, "name": "パープル", "checked": false, "parentId": 635 },
+      { "id": 639, "name": "レッド", "checked": false, "parentId": 635 },
+      { "id": 640, "name": "イエロー", "checked": false, "parentId": 635 },
+      { "id": 641, "name": "ライトブルー", "checked": false, "parentId": 635 },
+      { "id": 642, "name": "ベージュ", "checked": false, "parentId": 635 },
+      { "id": 643, "name": "ブラウン", "checked": false, "parentId": 635 }
+    ]
+  },
+  {
+    "id": 644,
+    "name": "ボアハーフパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 645, "name": "パープル", "checked": false, "parentId": 644 },
+      { "id": 646, "name": "カーキ", "checked": false, "parentId": 644 },
+      { "id": 647, "name": "ベージュ", "checked": false, "parentId": 644 },
+      { "id": 648, "name": "ブルー", "checked": false, "parentId": 644 },
+      { "id": 649, "name": "レッド", "checked": false, "parentId": 644 },
+      { "id": 650, "name": "オレンジ", "checked": false, "parentId": 644 },
+      { "id": 651, "name": "ピーコックブルー", "checked": false, "parentId": 644 },
+      { "id": 652, "name": "ブラック", "checked": false, "parentId": 644 }
+    ]
+  },
+  {
+    "id": 653,
+    "name": "ボタニカルハーフパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 654, "name": "ブラック", "checked": false, "parentId": 653 },
+      { "id": 655, "name": "ホワイト", "checked": false, "parentId": 653 }
+    ]
+  },
+  {
+    "id": 656,
+    "name": "ボタンのまきスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 657, "name": "グレー", "checked": false, "parentId": 656 },
+      { "id": 658, "name": "ブルー", "checked": false, "parentId": 656 },
+      { "id": 659, "name": "オレンジ", "checked": false, "parentId": 656 },
+      { "id": 660, "name": "ピンク", "checked": false, "parentId": 656 },
+      { "id": 661, "name": "グリーン", "checked": false, "parentId": 656 },
+      { "id": 662, "name": "パープル", "checked": false, "parentId": 656 }
+    ]
+  },
+  {
+    "id": 663,
+    "name": "ボックスプリーツスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 664, "name": "ライトブルー", "checked": false, "parentId": 663 },
+      { "id": 665, "name": "ベージュ", "checked": false, "parentId": 663 },
+      { "id": 666, "name": "レッド", "checked": false, "parentId": 663 },
+      { "id": 667, "name": "グリーン", "checked": false, "parentId": 663 }
+    ]
+  },
+  {
+    "id": 668,
+    "name": "ボンテージパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 669, "name": "レッド", "checked": false, "parentId": 668 },
+      { "id": 670, "name": "ブルー", "checked": false, "parentId": 668 },
+      { "id": 671, "name": "グリーン", "checked": false, "parentId": 668 },
+      { "id": 672, "name": "パープル", "checked": false, "parentId": 668 }
+    ]
   }
 ]
