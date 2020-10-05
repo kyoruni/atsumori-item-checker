@@ -1437,5 +1437,155 @@
       { "id": 671, "name": "グリーン", "checked": false, "parentId": 668 },
       { "id": 672, "name": "パープル", "checked": false, "parentId": 668 }
     ]
+  },
+  {
+    "id": 673,
+    "name": "まえボタンレースのスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 674, "name": "イエロー", "checked": false, "parentId": 673 },
+      { "id": 675, "name": "ホワイト", "checked": false, "parentId": 673 },
+      { "id": 676, "name": "ピンク", "checked": false, "parentId": 673 },
+      { "id": 677, "name": "グリーン", "checked": false, "parentId": 673 },
+      { "id": 678, "name": "パープル", "checked": false, "parentId": 673 }
+    ]
+  },
+  {
+    "id": 679,
+    "name": "マルチカラーのハーフパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 680, "name": "グリーン", "checked": false, "parentId": 679 },
+      { "id": 681, "name": "レッド", "checked": false, "parentId": 679 },
+      { "id": 682, "name": "ブルー", "checked": false, "parentId": 679 },
+      { "id": 683, "name": "イエロー", "checked": false, "parentId": 679 }
+    ]
+  },
+  {
+    "id": 684,
+    "name": "マルチストライプのホットパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 685, "name": "ピンク", "checked": false, "parentId": 684 },
+      { "id": 686, "name": "ブルー", "checked": false, "parentId": 684 },
+      { "id": 687, "name": "レッド", "checked": false, "parentId": 684 },
+      { "id": 688, "name": "イエロー", "checked": false, "parentId": 684 }
+    ]
+  },
+  {
+    "id": 689,
+    "name": "マルチストライプワイドパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 690, "name": "イエロー", "checked": false, "parentId": 689 },
+      { "id": 691, "name": "レッド", "checked": false, "parentId": 689 },
+      { "id": 692, "name": "グリーン", "checked": false, "parentId": 689 },
+      { "id": 693, "name": "オレンジ", "checked": false, "parentId": 689 }
+    ]
+  },
+  {
+    "id": 694,
+    "name": "みずたまロングスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 695, "name": "ブラック", "checked": false, "parentId": 694 },
+      { "id": 696, "name": "レッド", "checked": false, "parentId": 694 },
+      { "id": 697, "name": "ブルー", "checked": false, "parentId": 694 },
+      { "id": 698, "name": "グリーン", "checked": false, "parentId": 694 },
+      { "id": 699, "name": "オレンジ", "checked": false, "parentId": 694 },
+      { "id": 700, "name": "イエロー", "checked": false, "parentId": 694 },
+      { "id": 701, "name": "ピンク", "checked": false, "parentId": 694 },
+      { "id": 702, "name": "ライトブルー", "checked": false, "parentId": 694 }
+    ]
+  },
+  {
+    "id": 703,
+    "name": "みどりのこしみの",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 704,
+    "name": "ムートンスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 705, "name": "ベージュ", "checked": false, "parentId": 704 },
+      { "id": 706, "name": "ピンク", "checked": false, "parentId": 704 },
+      { "id": 707, "name": "グリーン", "checked": false, "parentId": 704 },
+      { "id": 708, "name": "ブラック", "checked": false, "parentId": 704 },
+      { "id": 709, "name": "グレー", "checked": false, "parentId": 704 }
+    ]
+  },
+  {
+    "id": 710,
+    "name": "ムエタイパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 711, "name": "ブルー", "checked": false, "parentId": 710 },
+      { "id": 712, "name": "レッド", "checked": false, "parentId": 710 },
+      { "id": 713, "name": "グリーン", "checked": false, "parentId": 710 },
+      { "id": 714, "name": "パープル", "checked": false, "parentId": 710 }
+    ]
+  },
+  {
+    "id": 715,
+    "name": "めいさいスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 716, "name": "ブラウン", "checked": false, "parentId": 715 },
+      { "id": 717, "name": "カーキ", "checked": false, "parentId": 715 },
+      { "id": 718, "name": "ピンク", "checked": false, "parentId": 715 },
+      { "id": 719, "name": "ブルー", "checked": false, "parentId": 715 },
+      { "id": 720, "name": "グレー", "checked": false, "parentId": 715 },
+      { "id": 721, "name": "パープル", "checked": false, "parentId": 715 },
+      { "id": 722, "name": "レッド", "checked": false, "parentId": 715 }
+    ]
+  },
+  {
+    "id": 723,
+    "name": "めいさいパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 724, "name": "ブラウン", "checked": false, "parentId": 723 },
+      { "id": 725, "name": "カーキ", "checked": false, "parentId": 723 },
+      { "id": 726, "name": "ピンク", "checked": false, "parentId": 723 },
+      { "id": 727, "name": "ブルー", "checked": false, "parentId": 723 },
+      { "id": 728, "name": "グレー", "checked": false, "parentId": 723 },
+      { "id": 729, "name": "パープル", "checked": false, "parentId": 723 },
+      { "id": 730, "name": "レッド", "checked": false, "parentId": 723 }
+    ]
+  },
+  {
+    "id": 731,
+    "name": "もこもこホットパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 732, "name": "ピンク", "checked": false, "parentId": 731 },
+      { "id": 733, "name": "ブルー", "checked": false, "parentId": 731 },
+      { "id": 734, "name": "パープル", "checked": false, "parentId": 731 },
+      { "id": 735, "name": "グリーン", "checked": false, "parentId": 731 }
+    ]
+  },
+  {
+    "id": 736,
+    "name": "もんぺ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 737, "name": "こん", "checked": false, "parentId": 736 },
+      { "id": 738, "name": "あお", "checked": false, "parentId": 736 },
+      { "id": 739, "name": "やまぶきいろ", "checked": false, "parentId": 736 },
+      { "id": 740, "name": "えんじ", "checked": false, "parentId": 736 }
+    ]
   }
 ]
