@@ -1587,5 +1587,40 @@
       { "id": 739, "name": "やまぶきいろ", "checked": false, "parentId": 736 },
       { "id": 740, "name": "えんじ", "checked": false, "parentId": 736 }
     ]
+  },
+  {
+    "id": 741,
+    "name": "やぶれたズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 742, "name": "ブラウン", "checked": false, "parentId": 741 },
+      { "id": 743, "name": "ブラック", "checked": false, "parentId": 741 },
+      { "id": 744, "name": "グレー", "checked": false, "parentId": 741 }
+    ]
+  },
+  {
+    "id": 745,
+    "name": "ゆめかわなズボン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 746, "name": "ピンク", "checked": false, "parentId": 745 },
+      { "id": 747, "name": "グリーン", "checked": false, "parentId": 745 },
+      { "id": 748, "name": "イエロー", "checked": false, "parentId": 745 },
+      { "id": 749, "name": "ブルー", "checked": false, "parentId": 745 }
+    ]
+  },
+  {
+    "id": 750,
+    "name": "ヨットのショートパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 751, "name": "ライトブルー", "checked": false, "parentId": 750 },
+      { "id": 752, "name": "レッド", "checked": false, "parentId": 750 },
+      { "id": 753, "name": "ピンク", "checked": false, "parentId": 750 },
+      { "id": 754, "name": "パープル", "checked": false, "parentId": 750 }
+    ]
   }
 ]
