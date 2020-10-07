@@ -1721,5 +1721,97 @@
       { "id": 803, "name": "ライトブルー", "checked": false, "parentId": 796 },
       { "id": 804, "name": "ホワイト", "checked": false, "parentId": 796 }
     ]
+  },
+  {
+    "id": 805,
+    "name": "レザーパッチスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 806, "name": "レッド", "checked": false, "parentId": 805 },
+      { "id": 807, "name": "グリーン", "checked": false, "parentId": 805 },
+      { "id": 808, "name": "パープル", "checked": false, "parentId": 805 },
+      { "id": 809, "name": "オレンジ", "checked": false, "parentId": 805 }
+    ]
+  },
+  {
+    "id": 810,
+    "name": "レザーパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 811, "name": "ブラック", "checked": false, "parentId": 810 },
+      { "id": 812, "name": "ブラウン", "checked": false, "parentId": 810 },
+      { "id": 813, "name": "ベージュ", "checked": false, "parentId": 810 },
+      { "id": 814, "name": "レッド", "checked": false, "parentId": 810 },
+      { "id": 815, "name": "ブルー", "checked": false, "parentId": 810 },
+      { "id": 816, "name": "イエロー", "checked": false, "parentId": 810 }
+    ]
+  },
+  {
+    "id": 817,
+    "name": "レモンのスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 818, "name": "ライトブルー", "checked": false, "parentId": 817 },
+      { "id": 819, "name": "ホワイト", "checked": false, "parentId": 817 },
+      { "id": 820, "name": "ブラック", "checked": false, "parentId": 817 }
+    ]
+  },
+  {
+    "id": 821,
+    "name": "ロングセーラースカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 822, "name": "ネイビー", "checked": false, "parentId": 821 },
+      { "id": 823, "name": "オレンジ", "checked": false, "parentId": 821 },
+      { "id": 824, "name": "ライトブルー", "checked": false, "parentId": 821 },
+      { "id": 825, "name": "グリーン", "checked": false, "parentId": 821 },
+      { "id": 826, "name": "ブラウン", "checked": false, "parentId": 821 },
+      { "id": 827, "name": "パープル", "checked": false, "parentId": 821 },
+      { "id": 828, "name": "レッド", "checked": false, "parentId": 821 },
+      { "id": 829, "name": "ピンク", "checked": false, "parentId": 821 }
+    ]
+  },
+  {
+    "id": 830,
+    "name": "ロングチノスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 831, "name": "ベージュ", "checked": false, "parentId": 830 },
+      { "id": 832, "name": "ブラウン", "checked": false, "parentId": 830 },
+      { "id": 833, "name": "ネイビー", "checked": false, "parentId": 830 },
+      { "id": 834, "name": "カーキ", "checked": false, "parentId": 830 },
+      { "id": 835, "name": "グレー", "checked": false, "parentId": 830 }
+    ]
+  },
+  {
+    "id": 836,
+    "name": "ロングデニムスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 837, "name": "ブルー", "checked": false, "parentId": 836 },
+      { "id": 838, "name": "ライトブルー", "checked": false, "parentId": 836 },
+      { "id": 839, "name": "ネイビー", "checked": false, "parentId": 836 },
+      { "id": 840, "name": "ブラック", "checked": false, "parentId": 836 },
+      { "id": 841, "name": "ホワイト", "checked": false, "parentId": 836 }
+    ]
+  },
+  {
+    "id": 842,
+    "name": "ロングプリーツスカート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 843, "name": "ルージュ", "checked": false, "parentId": 842 },
+      { "id": 844, "name": "ホワイト", "checked": false, "parentId": 842 },
+      { "id": 845, "name": "イエロー", "checked": false, "parentId": 842 },
+      { "id": 846, "name": "シアン", "checked": false, "parentId": 842 },
+      { "id": 847, "name": "グレー", "checked": false, "parentId": 842 }
+    ]
   }
 ]
