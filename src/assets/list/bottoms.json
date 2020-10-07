@@ -1813,5 +1813,43 @@
       { "id": 846, "name": "シアン", "checked": false, "parentId": 842 },
       { "id": 847, "name": "グレー", "checked": false, "parentId": 842 }
     ]
+  },
+  {
+    "id": 848,
+    "name": "ワークアウトパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 849, "name": "ライム", "checked": false, "parentId": 848 },
+      { "id": 850, "name": "ピンク", "checked": false, "parentId": 848 },
+      { "id": 851, "name": "オレンジ", "checked": false, "parentId": 848 }
+    ]
+  },
+  {
+    "id": 852,
+    "name": "ワイドイージーパンツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 853, "name": "ネイビー", "checked": false, "parentId": 852 },
+      { "id": 854, "name": "グレー", "checked": false, "parentId": 852 },
+      { "id": 855, "name": "グリーン", "checked": false, "parentId": 852 },
+      { "id": 856, "name": "ベージュ", "checked": false, "parentId": 852 },
+      { "id": 857, "name": "ブラック", "checked": false, "parentId": 852 },
+      { "id": 858, "name": "ブラウン", "checked": false, "parentId": 852 }
+    ]
+  },
+  {
+    "id": 859,
+    "name": "ワイドチノ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 860, "name": "ブラウン", "checked": false, "parentId": 859 },
+      { "id": 861, "name": "ベージュ", "checked": false, "parentId": 859 },
+      { "id": 862, "name": "ネイビー", "checked": false, "parentId": 859 },
+      { "id": 863, "name": "カーキ", "checked": false, "parentId": 859 },
+      { "id": 864, "name": "グレー", "checked": false, "parentId": 859 }
+    ]
   }
 ]
