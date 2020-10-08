@@ -75,6 +75,7 @@ import furnitureList from '@/assets/list/furniture.json'
 import wallList from '@/assets/list/wall.json'
 import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
+import topsList from '@/assets/list/tops.json'
 import bottomsList from '@/assets/list/bottoms.json'
 import capsList from '@/assets/list/caps.json'
 import accessoriesList from '@/assets/list/accessories.json'
@@ -121,7 +122,7 @@ export default {
     },
     // バリエーションのあるカテゴリーかどうか
     showVariation () {
-      return this.category === 'furniture' || this.category === 'bottoms' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks' || this.category === 'bags'
+      return this.category === 'furniture' || this.category === 'tops' || this.category === 'bottoms' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks' || this.category === 'bags'
     },
     labelText () {
       let labelText
@@ -137,6 +138,9 @@ export default {
           break
         case 'rug':
           labelText = 'ラグ'
+          break
+        case 'tops':
+          labelText = 'トップス'
           break
         case 'bottoms':
           labelText = 'ボトムス'
@@ -181,8 +185,7 @@ export default {
     },
     // バリエーション含めたアイテム数
     itemVariationCount () {
-      // カテゴリーが家具 アクセサリー以外は何もしない
-      if (!this.category === 'furniture' || !this.category === 'accessories') return
+      if (this.category !== 'furniture' || this.category !== 'tops' || this.category !== 'bottoms' || this.category !== 'caps' || this.category !== 'accessories' || this.category !== 'socks' || this.category !== 'bags') return
       let count = 0
       this.items.forEach(item => {
         if (item.variation) {
@@ -201,7 +204,7 @@ export default {
     // バリエーション含めたチェック数
     checkedItemVariationCount () {
       // カテゴリーが家具 アクセサリー以外は何もしない
-      if (!this.category === 'furniture' || !this.category === 'accessories') return
+      if (this.category !== 'furniture' || this.category !== 'tops' || this.category !== 'bottoms' || this.category !== 'caps' || this.category !== 'accessories' || this.category !== 'socks' || this.category !== 'bags') return
       let count = 0
       const checkedItems = this.items.filter(item => item.checked)
       checkedItems.forEach(checkedItem => {
@@ -236,6 +239,10 @@ export default {
         case 'rug':
           this.items = rugList
           this.displayItems = rugList
+          break
+        case 'tops':
+          this.items = topsList
+          this.displayItems = topsList
           break
         case 'bottoms':
           this.items = bottomsList

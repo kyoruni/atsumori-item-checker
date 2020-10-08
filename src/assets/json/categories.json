@@ -46,7 +46,7 @@
     "name": "tops",
     "text": "トップス",
     "icon": "fas fa-tshirt",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 8,
