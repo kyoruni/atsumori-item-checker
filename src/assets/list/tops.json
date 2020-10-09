@@ -1,8 +1,133 @@
 [
   {
     "id": 1,
-    "name": "Tレックスのあたま",
+    "name": "１ばんだまのふく",
     "checked": false,
     "variation": false
+  },
+  {
+    "id": 2,
+    "name": "２ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 3,
+    "name": "３ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 4,
+    "name": "４ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 5,
+    "name": "５ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 6,
+    "name": "６ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 7,
+    "name": "７ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 8,
+    "name": "８ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 9,
+    "name": "９ばんだまのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 10,
+    "name": "DALエプロン",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 11,
+    "name": "DALのMA‐1",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 12,
+    "name": "DALのＴシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 13,
+    "name": "MA‐1",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 14, "name": "カーキ", "checked": false, "parentId": 13 },
+      { "id": 15, "name": "ブラック", "checked": false, "parentId": 13 },
+      { "id": 16, "name": "ブルー", "checked": false, "parentId": 13 },
+      { "id": 17, "name": "ブラウン", "checked": false, "parentId": 13 }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "MVPなTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 19,
+    "name": "No.1のふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 20,
+    "name": "No.2のふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 21,
+    "name": "No.3のふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 22,
+    "name": "No.4のふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 23,
+    "name": "OKモータースジャケット",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 24,
+    "name": "Vネックセーター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 25, "name": "ブルー", "checked": false, "parentId": 24 },
+      { "id": 26, "name": "レッド", "checked": false, "parentId": 24 },
+      { "id": 27, "name": "ブラック", "checked": false, "parentId": 24 }
+    ]
   }
 ]

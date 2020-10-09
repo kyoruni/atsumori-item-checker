@@ -185,7 +185,7 @@ export default {
     },
     // バリエーション含めたアイテム数
     itemVariationCount () {
-      if (this.category !== 'furniture' || this.category !== 'tops' || this.category !== 'bottoms' || this.category !== 'caps' || this.category !== 'accessories' || this.category !== 'socks' || this.category !== 'bags') return
+      if (!this.category === 'furniture' || !this.category === 'accessories') return
       let count = 0
       this.items.forEach(item => {
         if (item.variation) {
@@ -204,7 +204,7 @@ export default {
     // バリエーション含めたチェック数
     checkedItemVariationCount () {
       // カテゴリーが家具 アクセサリー以外は何もしない
-      if (this.category !== 'furniture' || this.category !== 'tops' || this.category !== 'bottoms' || this.category !== 'caps' || this.category !== 'accessories' || this.category !== 'socks' || this.category !== 'bags') return
+      if (!this.category === 'furniture' || !this.category === 'accessories') return
       let count = 0
       const checkedItems = this.items.filter(item => item.checked)
       checkedItems.forEach(checkedItem => {
