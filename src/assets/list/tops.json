@@ -2004,5 +2004,803 @@
       { "id": 803, "name": "オレンジ", "checked": false, "parentId": 799 },
       { "id": 804, "name": "オフホワイト", "checked": false, "parentId": 799 }
     ]
+  },
+  {
+    "id": 805,
+    "name": "パーカーオンTシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 806, "name": "ライム", "checked": false, "parentId": 805 },
+      { "id": 807, "name": "ブルー", "checked": false, "parentId": 805 },
+      { "id": 808, "name": "オレンジ", "checked": false, "parentId": 805 },
+      { "id": 809, "name": "ピンク", "checked": false, "parentId": 805 },
+      { "id": 810, "name": "ミント", "checked": false, "parentId": 805 }
+    ]
+  },
+  {
+    "id": 811,
+    "name": "パーカーオンコート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 812, "name": "ネイビー", "checked": false, "parentId": 811 },
+      { "id": 813, "name": "ブルー", "checked": false, "parentId": 811 },
+      { "id": 814, "name": "ブラック", "checked": false, "parentId": 811 },
+      { "id": 815, "name": "グリーン", "checked": false, "parentId": 811 },
+      { "id": 816, "name": "グレー", "checked": false, "parentId": 811 },
+      { "id": 817, "name": "イエロー", "checked": false, "parentId": 811 }
+    ]
+  },
+  {
+    "id": 818,
+    "name": "ハートのエプロン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 819, "name": "ピンク", "checked": false, "parentId": 818 },
+      { "id": 820, "name": "ブルー", "checked": false, "parentId": 818 },
+      { "id": 821, "name": "レッド", "checked": false, "parentId": 818 },
+      { "id": 822, "name": "パープル", "checked": false, "parentId": 818 },
+      { "id": 823, "name": "グリーン", "checked": false, "parentId": 818 }
+    ]
+  },
+  {
+    "id": 824,
+    "name": "ハートのセーター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 825, "name": "ピンク", "checked": false, "parentId": 824 },
+      { "id": 826, "name": "レッド", "checked": false, "parentId": 824 }
+    ]
+  },
+  {
+    "id": 827,
+    "name": "ハーローTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 828,
+    "name": "ハイＴシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 829,
+    "name": "バイキングのふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 830, "name": "ブラウン", "checked": false, "parentId": 829 },
+      { "id": 831, "name": "グレー", "checked": false, "parentId": 829 },
+      { "id": 832, "name": "ブルー", "checked": false, "parentId": 829 }
+    ]
+  },
+  {
+    "id": 833,
+    "name": "ハイセンスなセーター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 834, "name": "パープル", "checked": false, "parentId": 833 },
+      { "id": 835, "name": "イエロー", "checked": false, "parentId": 833 },
+      { "id": 836, "name": "ホワイト", "checked": false, "parentId": 833 },
+      { "id": 837, "name": "ブルー", "checked": false, "parentId": 833 }
+    ]
+  },
+  {
+    "id": 838,
+    "name": "パインがらアロハシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 839, "name": "ブルー", "checked": false, "parentId": 838 },
+      { "id": 840, "name": "レッド", "checked": false, "parentId": 838 },
+      { "id": 841, "name": "イエロー", "checked": false, "parentId": 838 },
+      { "id": 842, "name": "グリーン", "checked": false, "parentId": 838 },
+      { "id": 843, "name": "パープル", "checked": false, "parentId": 838 },
+      { "id": 844, "name": "ピンク", "checked": false, "parentId": 838 },
+      { "id": 845, "name": "オレンジ", "checked": false, "parentId": 838 }
+    ]
+  },
+  {
+    "id": 846,
+    "name": "はくい",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 847, "name": "あかネクタイ", "checked": false, "parentId": 846 },
+      { "id": 848, "name": "くろネクタイ", "checked": false, "parentId": 846 }
+    ]
+  },
+  {
+    "id": 849,
+    "name": "バスケシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 850, "name": "パープル", "checked": false, "parentId": 849 },
+      { "id": 851, "name": "レッド", "checked": false, "parentId": 849 },
+      { "id": 852, "name": "グリーン", "checked": false, "parentId": 849 },
+      { "id": 853, "name": "オレンジ", "checked": false, "parentId": 849 },
+      { "id": 854, "name": "ブルー", "checked": false, "parentId": 849 },
+      { "id": 855, "name": "イエロー", "checked": false, "parentId": 849 },
+      { "id": 856, "name": "ライトブルー", "checked": false, "parentId": 849 },
+      { "id": 857, "name": "ブラック", "checked": false, "parentId": 849 }
+    ]
+  },
+  {
+    "id": 858,
+    "name": "パッチワークコート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 859, "name": "ブラウン", "checked": false, "parentId": 858 },
+      { "id": 860, "name": "グリーン", "checked": false, "parentId": 858 },
+      { "id": 861, "name": "グレー", "checked": false, "parentId": 858 }
+    ]
+  },
+  {
+    "id": 862,
+    "name": "はっぴ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 863, "name": "あお", "checked": false, "parentId": 862 },
+      { "id": 864, "name": "あか", "checked": false, "parentId": 862 },
+      { "id": 865, "name": "くろ", "checked": false, "parentId": 862 },
+      { "id": 866, "name": "みどり", "checked": false, "parentId": 862 },
+      { "id": 867, "name": "むらさき", "checked": false, "parentId": 862 }
+    ]
+  },
+  {
+    "id": 868,
+    "name": "ハデなカーディガン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 869, "name": "レッド", "checked": false, "parentId": 868 },
+      { "id": 870, "name": "ブルー", "checked": false, "parentId": 868 }
+    ]
+  },
+  {
+    "id": 871,
+    "name": "ハデなジャケット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 872, "name": "ホワイト", "checked": false, "parentId": 871 },
+      { "id": 873, "name": "ブラック", "checked": false, "parentId": 871 },
+      { "id": 874, "name": "パープル", "checked": false, "parentId": 871 },
+      { "id": 875, "name": "ワインレッド", "checked": false, "parentId": 871 },
+      { "id": 876, "name": "エメラルド", "checked": false, "parentId": 871 },
+      { "id": 877, "name": "イエロー", "checked": false, "parentId": 871 }
+    ]
+  },
+  {
+    "id": 878,
+    "name": "はながらのTシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 879, "name": "ピンク", "checked": false, "parentId": 878 },
+      { "id": 880, "name": "ブルー", "checked": false, "parentId": 878 },
+      { "id": 881, "name": "イエロー", "checked": false, "parentId": 878 },
+      { "id": 882, "name": "グリーン", "checked": false, "parentId": 878 },
+      { "id": 883, "name": "パープル", "checked": false, "parentId": 878 }
+    ]
+  },
+  {
+    "id": 884,
+    "name": "はながらのニット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 885, "name": "レッド", "checked": false, "parentId": 884 },
+      { "id": 886, "name": "グリーン", "checked": false, "parentId": 884 },
+      { "id": 887, "name": "ホワイト", "checked": false, "parentId": 884 },
+      { "id": 888, "name": "イエロー", "checked": false, "parentId": 884 }
+    ]
+  },
+  {
+    "id": 889,
+    "name": "はながらのプリントキャミ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 890, "name": "ピンク", "checked": false, "parentId": 889 },
+      { "id": 891, "name": "ブルー", "checked": false, "parentId": 889 },
+      { "id": 892, "name": "オレンジ", "checked": false, "parentId": 889 },
+      { "id": 893, "name": "グリーン", "checked": false, "parentId": 889 }
+    ]
+  },
+  {
+    "id": 894,
+    "name": "ははのてあみセーター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 895, "name": "M", "checked": false, "parentId": 894 },
+      { "id": 896, "name": "フラワー", "checked": false, "parentId": 894 },
+      { "id": 897, "name": "スター", "checked": false, "parentId": 894 },
+      { "id": 898, "name": "アニマル", "checked": false, "parentId": 894 },
+      { "id": 899, "name": "テディベア", "checked": false, "parentId": 894 },
+      { "id": 900, "name": "ワンポイント", "checked": false, "parentId": 894 },
+      { "id": 901, "name": "キルトパターン", "checked": false, "parentId": 894 },
+      { "id": 902, "name": "ヒヨコ", "checked": false, "parentId": 894 }
+    ]
+  },
+  {
+    "id": 903,
+    "name": "ははのてづくりエプロン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 904, "name": "M", "checked": false, "parentId": 903 },
+      { "id": 905, "name": "フラワー", "checked": false, "parentId": 903 },
+      { "id": 906, "name": "アニマル", "checked": false, "parentId": 903 },
+      { "id": 907, "name": "キルトパターン", "checked": false, "parentId": 903 },
+      { "id": 908, "name": "フルーツ", "checked": false, "parentId": 903 },
+      { "id": 909, "name": "デニム", "checked": false, "parentId": 903 },
+      { "id": 910, "name": "フォレスト", "checked": false, "parentId": 903 },
+      { "id": 911, "name": "ファミリー", "checked": false, "parentId": 903 }
+    ]
+  },
+  {
+    "id": 912,
+    "name": "ハローTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 913,
+    "name": "はんそでセーラーふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 914, "name": "ネイビー", "checked": false, "parentId": 913 },
+      { "id": 915, "name": "オレンジ", "checked": false, "parentId": 913 },
+      { "id": 916, "name": "ライトブルー", "checked": false, "parentId": 913 },
+      { "id": 917, "name": "グリーン", "checked": false, "parentId": 913 },
+      { "id": 918, "name": "ブラウン", "checked": false, "parentId": 913 },
+      { "id": 919, "name": "パープル", "checked": false, "parentId": 913 },
+      { "id": 920, "name": "レッド", "checked": false, "parentId": 913 },
+      { "id": 921, "name": "ピンク", "checked": false, "parentId": 913 }
+    ]
+  },
+  {
+    "id": 922,
+    "name": "はんそでチャイナふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 923, "name": "ピンク", "checked": false, "parentId": 922 },
+      { "id": 924, "name": "ブルー", "checked": false, "parentId": 922 },
+      { "id": 925, "name": "マスタード", "checked": false, "parentId": 922 },
+      { "id": 926, "name": "グレー", "checked": false, "parentId": 922 },
+      { "id": 927, "name": "パープル", "checked": false, "parentId": 922 },
+      { "id": 928, "name": "グリーン", "checked": false, "parentId": 922 },
+      { "id": 929, "name": "オレンジ", "checked": false, "parentId": 922 }
+    ]
+  },
+  {
+    "id": 930,
+    "name": "はんそでボーダーTシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 931, "name": "ネイビー", "checked": false, "parentId": 930 },
+      { "id": 932, "name": "レッド", "checked": false, "parentId": 930 },
+      { "id": 933, "name": "キャメル", "checked": false, "parentId": 930 },
+      { "id": 934, "name": "グリーン", "checked": false, "parentId": 930 },
+      { "id": 935, "name": "パープル", "checked": false, "parentId": 930 },
+      { "id": 936, "name": "ホワイト", "checked": false, "parentId": 930 }
+    ]
+  },
+  {
+    "id": 937,
+    "name": "はんそでワイシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 938, "name": "ホワイト", "checked": false, "parentId": 937 },
+      { "id": 939, "name": "レッド", "checked": false, "parentId": 937 },
+      { "id": 940, "name": "グリーン", "checked": false, "parentId": 937 },
+      { "id": 941, "name": "イエロー", "checked": false, "parentId": 937 },
+      { "id": 942, "name": "ブルー", "checked": false, "parentId": 937 }
+    ]
+  },
+  {
+    "id": 943,
+    "name": "はんてん",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 944, "name": "こん", "checked": false, "parentId": 943 },
+      { "id": 945, "name": "みどり", "checked": false, "parentId": 943 },
+      { "id": 946, "name": "ちゃいろ", "checked": false, "parentId": 943 },
+      { "id": 947, "name": "むらさき", "checked": false, "parentId": 943 }
+    ]
+  },
+  {
+    "id": 948,
+    "name": "ピーコート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 949, "name": "ブラック", "checked": false, "parentId": 948 },
+      { "id": 950, "name": "ネイビー", "checked": false, "parentId": 948 },
+      { "id": 951, "name": "ベージュ", "checked": false, "parentId": 948 },
+      { "id": 952, "name": "オレンジ", "checked": false, "parentId": 948 },
+      { "id": 953, "name": "グリーン", "checked": false, "parentId": 948 },
+      { "id": 954, "name": "グレー", "checked": false, "parentId": 948 },
+      { "id": 955, "name": "ピンク", "checked": false, "parentId": 948 }
+    ]
+  },
+  {
+    "id": 956,
+    "name": "ビスチェキャミ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 957, "name": "グレー", "checked": false, "parentId": 956 },
+      { "id": 958, "name": "ベージュ", "checked": false, "parentId": 956 },
+      { "id": 959, "name": "グリーン", "checked": false, "parentId": 956 },
+      { "id": 960, "name": "ピンク", "checked": false, "parentId": 956 },
+      { "id": 961, "name": "ブルー", "checked": false, "parentId": 956 }
+    ]
+  },
+  {
+    "id": 962,
+    "name": "ヒッピーなふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 963, "name": "オレンジ", "checked": false, "parentId": 962 },
+      { "id": 964, "name": "ブラウン", "checked": false, "parentId": 962 },
+      { "id": 965, "name": "キャメル", "checked": false, "parentId": 962 }
+    ]
+  },
+  {
+    "id": 966,
+    "name": "ビブス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 967, "name": "1ばん", "checked": false, "parentId": 966 },
+      { "id": 968, "name": "2ばん", "checked": false, "parentId": 966 },
+      { "id": 969, "name": "3ばん", "checked": false, "parentId": 966 },
+      { "id": 970, "name": "4ばん", "checked": false, "parentId": 966 },
+      { "id": 971, "name": "5ばん", "checked": false, "parentId": 966 },
+      { "id": 972, "name": "6ばん", "checked": false, "parentId": 966 },
+      { "id": 973, "name": "7ばん", "checked": false, "parentId": 966 },
+      { "id": 974, "name": "8ばん", "checked": false, "parentId": 966 }
+    ]
+  },
+  {
+    "id": 975,
+    "name": "ヒョウがらTシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 976, "name": "イエロー", "checked": false, "parentId": 975 },
+      { "id": 977, "name": "ピンク", "checked": false, "parentId": 975 },
+      { "id": 978, "name": "グリーン", "checked": false, "parentId": 975 },
+      { "id": 979, "name": "グレー", "checked": false, "parentId": 975 }
+    ]
+  },
+  {
+    "id": 980,
+    "name": "ひよこがらTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 981,
+    "name": "ファイアーなTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 982,
+    "name": "フィッシャーヘムト",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 983,
+    "name": "フィットネスタンクトップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 984, "name": "ミント", "checked": false, "parentId": 983 },
+      { "id": 985, "name": "ピンク", "checked": false, "parentId": 983 },
+      { "id": 986, "name": "ライトブルー", "checked": false, "parentId": 983 },
+      { "id": 987, "name": "オレンジ", "checked": false, "parentId": 983 },
+      { "id": 988, "name": "ブラック", "checked": false, "parentId": 983 },
+      { "id": 989, "name": "イエロー", "checked": false, "parentId": 983 },
+      { "id": 990, "name": "レッド", "checked": false, "parentId": 983 },
+      { "id": 991, "name": "パープル", "checked": false, "parentId": 983 }
+    ]
+  },
+  {
+    "id": 992,
+    "name": "フェイクアニマルコート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 993, "name": "ブルー", "checked": false, "parentId": 992 },
+      { "id": 994, "name": "グリーン", "checked": false, "parentId": 992 },
+      { "id": 995, "name": "パープル", "checked": false, "parentId": 992 },
+      { "id": 996, "name": "ピンク", "checked": false, "parentId": 992 }
+    ]
+  },
+  {
+    "id": 997,
+    "name": "フライトジャケット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 998, "name": "ブラウン", "checked": false, "parentId": 997 },
+      { "id": 999, "name": "ブラック", "checked": false, "parentId": 997 },
+      { "id": 1000, "name": "カーキ", "checked": false, "parentId": 997 }
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "フラダンスなトップス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1002, "name": "レッド", "checked": false, "parentId": 1001 },
+      { "id": 1003, "name": "オレンジ", "checked": false, "parentId": 1001 },
+      { "id": 1004, "name": "ベージュ", "checked": false, "parentId": 1001 },
+      { "id": 1005, "name": "パープル", "checked": false, "parentId": 1001 },
+      { "id": 1006, "name": "グリーン", "checked": false, "parentId": 1001 }
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "プリヴェTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1008,
+    "name": "フリルパフブラウス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1009, "name": "ライトブルー", "checked": false, "parentId": 1008 },
+      { "id": 1010, "name": "イエロー", "checked": false, "parentId": 1008 },
+      { "id": 1011, "name": "ピンク", "checked": false, "parentId": 1008 },
+      { "id": 1012, "name": "ライム", "checked": false, "parentId": 1008 }
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "プリンスなふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1014, "name": "ブルー", "checked": false, "parentId": 1013 },
+      { "id": 1015, "name": "ベージュ", "checked": false, "parentId": 1013 },
+      { "id": 1016, "name": "グリーン", "checked": false, "parentId": 1013 },
+      { "id": 1017, "name": "レッド", "checked": false, "parentId": 1013 },
+      { "id": 1018, "name": "パープル", "checked": false, "parentId": 1013 }
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "プルオーバーアウター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1020, "name": "レッド", "checked": false, "parentId": 1019 },
+      { "id": 1021, "name": "ライトブルー", "checked": false, "parentId": 1019 },
+      { "id": 1022, "name": "ネイビー", "checked": false, "parentId": 1019 },
+      { "id": 1023, "name": "パープル", "checked": false, "parentId": 1019 },
+      { "id": 1024, "name": "コーラル", "checked": false, "parentId": 1019 }
+    ]
+  },
+  {
+    "id": 1025,
+    "name": "ブルドッグジャージ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1026, "name": "ブラック", "checked": false, "parentId": 1025 },
+      { "id": 1027, "name": "ホワイト", "checked": false, "parentId": 1025 },
+      { "id": 1028, "name": "レッド", "checked": false, "parentId": 1025 }
+    ]
+  },
+  {
+    "id": 1029,
+    "name": "ブレザー",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1030, "name": "グリーン", "checked": false, "parentId": 1029 },
+      { "id": 1031, "name": "ネイビー", "checked": false, "parentId": 1029 },
+      { "id": 1032, "name": "ベージュ", "checked": false, "parentId": 1029 },
+      { "id": 1033, "name": "ワインレッド", "checked": false, "parentId": 1029 }
+    ]
+  },
+  {
+    "id": 1034,
+    "name": "ブロックチェックのパフスリーブ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1035, "name": "ファンシーチェック", "checked": false, "parentId": 1034 },
+      { "id": 1036, "name": "ビタミンチェック", "checked": false, "parentId": 1034 },
+      { "id": 1037, "name": "ドリームチェック", "checked": false, "parentId": 1034 },
+      { "id": 1038, "name": "スイートチェック", "checked": false, "parentId": 1034 }
+    ]
+  },
+  {
+    "id": 1039,
+    "name": "ベースボールシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1040, "name": "ネイビー", "checked": false, "parentId": 1039 },
+      { "id": 1041, "name": "レッド", "checked": false, "parentId": 1039 },
+      { "id": 1042, "name": "グレー", "checked": false, "parentId": 1039 },
+      { "id": 1043, "name": "ブラック", "checked": false, "parentId": 1039 },
+      { "id": 1044, "name": "ホワイト", "checked": false, "parentId": 1039 },
+      { "id": 1045, "name": "イエロー", "checked": false, "parentId": 1039 }
+    ]
+  },
+  {
+    "id": 1046,
+    "name": "へいたいのふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1047, "name": "レッド", "checked": false, "parentId": 1046 },
+      { "id": 1048, "name": "ブルー", "checked": false, "parentId": 1046 },
+      { "id": 1049, "name": "グリーン", "checked": false, "parentId": 1046 },
+      { "id": 1050, "name": "ホワイト", "checked": false, "parentId": 1046 }
+    ]
+  },
+  {
+    "id": 1051,
+    "name": "ペザントブラウス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1052, "name": "ホワイト", "checked": false, "parentId": 1051 },
+      { "id": 1053, "name": "ブラック", "checked": false, "parentId": 1051 },
+      { "id": 1054, "name": "ベージュ", "checked": false, "parentId": 1051 },
+      { "id": 1055, "name": "ピンク", "checked": false, "parentId": 1051 },
+      { "id": 1056, "name": "パープル", "checked": false, "parentId": 1051 }
+    ]
+  },
+  {
+    "id": 1057,
+    "name": "ベストつきワイシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1058, "name": "グレー", "checked": false, "parentId": 1057 },
+      { "id": 1059, "name": "ブラック", "checked": false, "parentId": 1057 },
+      { "id": 1060, "name": "ベージュ", "checked": false, "parentId": 1057 },
+      { "id": 1061, "name": "ホワイト", "checked": false, "parentId": 1057 },
+      { "id": 1062, "name": "ネイビー", "checked": false, "parentId": 1057 }
+    ]
+  },
+  {
+    "id": 1063,
+    "name": "ヘンリーネックTシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1064, "name": "グリーン", "checked": false, "parentId": 1063 },
+      { "id": 1065, "name": "マスタード", "checked": false, "parentId": 1063 },
+      { "id": 1066, "name": "ライトブルー", "checked": false, "parentId": 1063 },
+      { "id": 1067, "name": "パープル", "checked": false, "parentId": 1063 }
+    ]
+  },
+  {
+    "id": 1068,
+    "name": "ホーイTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1069,
+    "name": "ボーダーTシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1070, "name": "ブルー", "checked": false, "parentId": 1069 },
+      { "id": 1071, "name": "レッド", "checked": false, "parentId": 1069 },
+      { "id": 1072, "name": "グリーン", "checked": false, "parentId": 1069 },
+      { "id": 1073, "name": "イエロー", "checked": false, "parentId": 1069 },
+      { "id": 1074, "name": "パープル", "checked": false, "parentId": 1069 },
+      { "id": 1075, "name": "ネイビー", "checked": false, "parentId": 1069 }
+    ]
+  },
+  {
+    "id": 1076,
+    "name": "ボーダーのタンクトップ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1077, "name": "グリーン", "checked": false, "parentId": 1076 },
+      { "id": 1078, "name": "オレンジ", "checked": false, "parentId": 1076 },
+      { "id": 1079, "name": "ブルー", "checked": false, "parentId": 1076 },
+      { "id": 1080, "name": "イエロー", "checked": false, "parentId": 1076 },
+      { "id": 1081, "name": "レッド", "checked": false, "parentId": 1076 },
+      { "id": 1082, "name": "グレー", "checked": false, "parentId": 1076 },
+      { "id": 1083, "name": "ブラック", "checked": false, "parentId": 1076 },
+      { "id": 1084, "name": "ピンク", "checked": false, "parentId": 1076 }
+    ]
+  },
+  {
+    "id": 1085,
+    "name": "ボーンなTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1086,
+    "name": "ボアフリース",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1087, "name": "ホワイト", "checked": false, "parentId": 1086 },
+      { "id": 1088, "name": "グリーン", "checked": false, "parentId": 1086 },
+      { "id": 1089, "name": "ネイビー", "checked": false, "parentId": 1086 },
+      { "id": 1090, "name": "ベージュ", "checked": false, "parentId": 1086 },
+      { "id": 1091, "name": "ブルー", "checked": false, "parentId": 1086 },
+      { "id": 1092, "name": "ピンク", "checked": false, "parentId": 1086 },
+      { "id": 1093, "name": "イエロー", "checked": false, "parentId": 1086 },
+      { "id": 1094, "name": "ライム", "checked": false, "parentId": 1086 }
+    ]
+  },
+  {
+    "id": 1095,
+    "name": "ボアブルゾン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1096, "name": "パープル", "checked": false, "parentId": 1095 },
+      { "id": 1097, "name": "ベージュ", "checked": false, "parentId": 1095 },
+      { "id": 1098, "name": "ブルー", "checked": false, "parentId": 1095 },
+      { "id": 1099, "name": "ホワイト", "checked": false, "parentId": 1095 }
+    ]
+  },
+  {
+    "id": 1100,
+    "name": "ボアベスト",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1101, "name": "ネイビー", "checked": false, "parentId": 1100 },
+      { "id": 1102, "name": "ベージュ", "checked": false, "parentId": 1100 },
+      { "id": 1103, "name": "ブラウン", "checked": false, "parentId": 1100 },
+      { "id": 1104, "name": "グリーン", "checked": false, "parentId": 1100 },
+      { "id": 1105, "name": "レッド", "checked": false, "parentId": 1100 }
+    ]
+  },
+  {
+    "id": 1106,
+    "name": "ボウリングシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1107, "name": "レッド", "checked": false, "parentId": 1106 },
+      { "id": 1108, "name": "ブルー", "checked": false, "parentId": 1106 },
+      { "id": 1109, "name": "イエロー", "checked": false, "parentId": 1106 },
+      { "id": 1110, "name": "オレンジ", "checked": false, "parentId": 1106 },
+      { "id": 1111, "name": "ベージュ", "checked": false, "parentId": 1106 },
+      { "id": 1112, "name": "グリーン", "checked": false, "parentId": 1106 },
+      { "id": 1113, "name": "ライトブルー", "checked": false, "parentId": 1106 },
+      { "id": 1114, "name": "パープル", "checked": false, "parentId": 1106 }
+    ]
+  },
+  {
+    "id": 1115,
+    "name": "ポケットつきＴシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1116, "name": "ホワイト", "checked": false, "parentId": 1115 },
+      { "id": 1117, "name": "ブラック", "checked": false, "parentId": 1115 },
+      { "id": 1118, "name": "パープル", "checked": false, "parentId": 1115 },
+      { "id": 1119, "name": "ライトブルー", "checked": false, "parentId": 1115 },
+      { "id": 1120, "name": "レッド", "checked": false, "parentId": 1115 },
+      { "id": 1121, "name": "イエロー", "checked": false, "parentId": 1115 },
+      { "id": 1122, "name": "ピンク", "checked": false, "parentId": 1115 },
+      { "id": 1123, "name": "グリーン", "checked": false, "parentId": 1115 }
+    ]
+  },
+  {
+    "id": 1124,
+    "name": "ほしがらタンクトップ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1125,
+    "name": "ボタニカルTシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1126, "name": "ブラック", "checked": false, "parentId": 1125 },
+      { "id": 1127, "name": "ホワイト", "checked": false, "parentId": 1125 }
+    ]
+  },
+  {
+    "id": 1128,
+    "name": "ポリネシアンなアロハ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1129, "name": "ネイビー", "checked": false, "parentId": 1128 },
+      { "id": 1130, "name": "ピンク", "checked": false, "parentId": 1128 }
+    ]
+  },
+  {
+    "id": 1131,
+    "name": "ポロシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1132, "name": "ネイビー", "checked": false, "parentId": 1131 },
+      { "id": 1133, "name": "ピンク", "checked": false, "parentId": 1131 },
+      { "id": 1134, "name": "レッド", "checked": false, "parentId": 1131 },
+      { "id": 1135, "name": "オレンジ", "checked": false, "parentId": 1131 },
+      { "id": 1136, "name": "グリーン", "checked": false, "parentId": 1131 },
+      { "id": 1137, "name": "アイボリー", "checked": false, "parentId": 1131 },
+      { "id": 1138, "name": "ホワイト", "checked": false, "parentId": 1131 },
+      { "id": 1139, "name": "ブラック", "checked": false, "parentId": 1131 }
+    ]
+  },
+  {
+    "id": 1140,
+    "name": "ボンジュールTシャツ",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 1141,
+    "name": "ポンチョコート",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1142, "name": "レッド", "checked": false, "parentId": 1141 },
+      { "id": 1143, "name": "イエロー", "checked": false, "parentId": 1141 },
+      { "id": 1144, "name": "ピンク", "checked": false, "parentId": 1141 },
+      { "id": 1145, "name": "ネイビー", "checked": false, "parentId": 1141 }
+    ]
+  },
+  {
+    "id": 1146,
+    "name": "ポンチョふうニット",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1147, "name": "パープル", "checked": false, "parentId": 1146 },
+      { "id": 1148, "name": "ピーコックブルー", "checked": false, "parentId": 1146 },
+      { "id": 1149, "name": "オレンジ", "checked": false, "parentId": 1146 },
+      { "id": 1150, "name": "ブルー", "checked": false, "parentId": 1146 },
+      { "id": 1151, "name": "グレー", "checked": false, "parentId": 1146 }
+    ]
+  },
+  {
+    "id": 1152,
+    "name": "ポンポンセーター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1153, "name": "ピンク", "checked": false, "parentId": 1152 },
+      { "id": 1154, "name": "ホワイト", "checked": false, "parentId": 1152 },
+      { "id": 1155, "name": "ブルー", "checked": false, "parentId": 1152 }
+    ]
   }
 ]
