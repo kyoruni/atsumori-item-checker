@@ -3028,5 +3028,41 @@
       { "id": 1251, "name": "レッド", "checked": false, "parentId": 1250 },
       { "id": 1252, "name": "ホワイト", "checked": false, "parentId": 1250 }
     ]
+  },
+  {
+    "id": 1253,
+    "name": "ヤンチャながくせいふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1254, "name": "ブラック", "checked": false, "parentId": 1253 },
+      { "id": 1255, "name": "ワインレッド", "checked": false, "parentId": 1253 },
+      { "id": 1256, "name": "グリーン", "checked": false, "parentId": 1253 },
+      { "id": 1257, "name": "ホワイト", "checked": false, "parentId": 1253 },
+      { "id": 1258, "name": "パープル", "checked": false, "parentId": 1253 },
+      { "id": 1259, "name": "グレー", "checked": false, "parentId": 1253 },
+      { "id": 1260, "name": "ブルー", "checked": false, "parentId": 1253 }
+    ]
+  },
+  {
+    "id": 1261,
+    "name": "ゆめかわなセーター",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1262, "name": "ピンク", "checked": false, "parentId": 1261 },
+      { "id": 1263, "name": "ブルー", "checked": false, "parentId": 1261 }
+    ]
+  },
+  {
+    "id": 1264,
+    "name": "ヨレヨレなシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1265, "name": "グレー", "checked": false, "parentId": 1264 },
+      { "id": 1266, "name": "ブラック", "checked": false, "parentId": 1264 },
+      { "id": 1267, "name": "ブラウン", "checked": false, "parentId": 1264 }
+    ]
   }
 ]
