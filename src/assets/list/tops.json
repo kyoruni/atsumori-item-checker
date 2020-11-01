@@ -3215,5 +3215,51 @@
       { "id": 1333, "name": "グリーン", "checked": false, "parentId": 1331 },
       { "id": 1334, "name": "パープル", "checked": false, "parentId": 1331 }
     ]
+  },
+  {
+    "id": 1335,
+    "name": "ワークアウトトップス",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1336, "name": "ライム", "checked": false, "parentId": 1335 },
+      { "id": 1337, "name": "ピンク", "checked": false, "parentId": 1335 },
+      { "id": 1338, "name": "オレンジ", "checked": false, "parentId": 1335 }
+    ]
+  },
+  {
+    "id": 1339,
+    "name": "ワークエプロン",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1340, "name": "オレンジ", "checked": false, "parentId": 1339 },
+      { "id": 1341, "name": "カーキ", "checked": false, "parentId": 1339 }
+    ]
+  },
+  {
+    "id": 1342,
+    "name": "ワークシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1343, "name": "オーカー", "checked": false, "parentId": 1342 },
+      { "id": 1344, "name": "グリーン", "checked": false, "parentId": 1342 },
+      { "id": 1345, "name": "ブルー", "checked": false, "parentId": 1342 },
+      { "id": 1346, "name": "レッド", "checked": false, "parentId": 1342 }
+    ]
+  },
+  {
+    "id": 1347,
+    "name": "ワイシャツ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 1348, "name": "ホワイト", "checked": false, "parentId": 1347 },
+      { "id": 1349, "name": "グレー", "checked": false, "parentId": 1347 },
+      { "id": 1350, "name": "ミント", "checked": false, "parentId": 1347 },
+      { "id": 1351, "name": "ピンク", "checked": false, "parentId": 1347 },
+      { "id": 1352, "name": "ブルー", "checked": false, "parentId": 1347 }
+    ]
   }
 ]
