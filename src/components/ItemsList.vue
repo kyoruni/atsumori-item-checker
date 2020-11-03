@@ -77,6 +77,7 @@ import floorList from '@/assets/list/floor.json'
 import rugList from '@/assets/list/rug.json'
 import topsList from '@/assets/list/tops.json'
 import bottomsList from '@/assets/list/bottoms.json'
+import dressList from '@/assets/list/dresses.json'
 import capsList from '@/assets/list/caps.json'
 import accessoriesList from '@/assets/list/accessories.json'
 import socksList from '@/assets/list/socks.json'
@@ -122,7 +123,7 @@ export default {
     },
     // バリエーションのあるカテゴリーかどうか
     showVariation () {
-      return this.category === 'furniture' || this.category === 'tops' || this.category === 'bottoms' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks' || this.category === 'bags'
+      return this.category === 'furniture' || this.category === 'tops' || this.category === 'bottoms' || this.category === 'dresses' || this.category === 'caps' || this.category === 'accessories' || this.category === 'socks' || this.category === 'bags'
     },
     labelText () {
       let labelText
@@ -144,6 +145,9 @@ export default {
           break
         case 'bottoms':
           labelText = 'ボトムス'
+          break
+        case 'dresses':
+          labelText = 'ワンピース'
           break
         case 'caps':
           labelText = 'かぶりもの'
@@ -247,6 +251,10 @@ export default {
         case 'bottoms':
           this.items = bottomsList
           this.displayItems = bottomsList
+          break
+        case 'dresses':
+          this.items = dressList
+          this.displayItems = dressList
           break
         case 'caps':
           this.items = capsList

@@ -57,10 +57,10 @@
   },
   {
     "id": 9,
-    "name": "dress",
+    "name": "dresses",
     "text": "ワンピース",
     "icon": "fas fa-tshirt",
-    "showFlg": false
+    "showFlg": true
   },
   {
     "id": 10,

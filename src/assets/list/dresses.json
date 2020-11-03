@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "3Dめがね",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 2, "name": "ホワイト", "checked": false, "parentId": 1 },
+      { "id": 3, "name": "ブラック", "checked": false, "parentId": 1 }
+    ]
+  }
+]
