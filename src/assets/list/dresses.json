@@ -1420,5 +1420,52 @@
       { "id": 565, "name": "ピンク", "checked": false, "parentId": 561 },
       { "id": 566, "name": "イエロー", "checked": false, "parentId": 561 }
     ]
+  },
+  {
+    "id": 567,
+    "name": "ナイルなふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 568,
+    "name": "ナシのふく",
+    "checked": false,
+    "variation": false
+  },
+  {
+    "id": 569,
+    "name": "ニットワンピース",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 570, "name": "オリーブ", "checked": false, "parentId": 569 },
+      { "id": 571, "name": "ベージュ", "checked": false, "parentId": 569 },
+      { "id": 572, "name": "ダークブラウン", "checked": false, "parentId": 569 }
+    ]
+  },
+  {
+    "id": 573,
+    "name": "ネグリジェ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 574, "name": "ブルー", "checked": false, "parentId": 573 },
+      { "id": 575, "name": "ピンク", "checked": false, "parentId": 573 },
+      { "id": 576, "name": "パープル", "checked": false, "parentId": 573 },
+      { "id": 577, "name": "ベージュ", "checked": false, "parentId": 573 },
+      { "id": 578, "name": "ホワイト", "checked": false, "parentId": 573 }
+    ]
+  },
+  {
+    "id": 579,
+    "name": "ネコなふく",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 580, "name": "ネイビー", "checked": false, "parentId": 579 },
+      { "id": 581, "name": "ブラウン", "checked": false, "parentId": 579 },
+      { "id": 582, "name": "ホワイト", "checked": false, "parentId": 579 }
+    ]
   }
 ]
