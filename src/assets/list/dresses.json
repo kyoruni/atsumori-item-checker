@@ -2032,5 +2032,28 @@
       { "id": 826, "name": "ブラック", "checked": false, "parentId": 821 },
       { "id": 827, "name": "イエロー", "checked": false, "parentId": 821 }
     ]
+  },
+  {
+    "id": 828,
+    "name": "ペイントつなぎ",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 829, "name": "ベージュ", "checked": false, "parentId": 828 },
+      { "id": 830, "name": "グリーン", "checked": false, "parentId": 828 },
+      { "id": 831, "name": "ホワイト", "checked": false, "parentId": 828 }
+    ]
+  },
+  {
+    "id": 832,
+    "name": "ベルトつきみずたまワンピース",
+    "checked": false,
+    "variation": true,
+    "colors": [
+      { "id": 833, "name": "ライトブルー", "checked": false, "parentId": 832 },
+      { "id": 834, "name": "ピンク", "checked": false, "parentId": 832 },
+      { "id": 835, "name": "イエロー", "checked": false, "parentId": 832 },
+      { "id": 836, "name": "グリーン", "checked": false, "parentId": 832 }
+    ]
   }
 ]
